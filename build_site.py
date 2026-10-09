@@ -189,7 +189,7 @@ def build():
   <div id="listView"></div>
   <div id="detailView" style="display:none"></div>
   <footer>
-    由 AI 全自动生成 · <a href="__PODCAST_URL__" target="_blank">在小宇宙收听</a>
+    <a href="__PODCAST_URL__" target="_blank">在小宇宙收听</a>
   </footer>
 </div>
 <script>
