@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>小小英文新鲜事 · 中英对照文字稿</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+         background: #fff9f0; color: #2b2b2b; line-height: 1.7; padding: 0 0 60px; }
+  body.hide-zh .zh { display: none; }
+  header { background: linear-gradient(135deg, #ffd43b, #ff9a3c); color: #5c3d00;
+           padding: 32px 20px 26px; text-align: center; }
+  header h1 { font-size: 26px; margin-bottom: 6px; }
+  header p { opacity: .85; font-size: 14px; }
+  header nav { margin-top: 10px; font-size: 13px; }
+  header nav a { color: #5c3d00; opacity: .8; margin: 0 8px; }
+  #zhToggle { position: fixed; top: 14px; right: 14px; z-index: 99;
+              background: rgba(0,0,0,.55); color: #fff; border: none; border-radius: 20px;
+              padding: 8px 16px; font-size: 13px; cursor: pointer; }
+  .wrap { max-width: 720px; margin: 0 auto; padding: 20px 16px; }
+  .ep-row { background: #fff; border-radius: 16px; padding: 14px 16px; margin-bottom: 10px;
+            box-shadow: 0 2px 8px rgba(255,154,60,.12); cursor: pointer;
+            border: 2px solid transparent; }
+  .ep-row:active { border-color: #ffd43b; }
+  .ep-row-title { font-size: 15px; font-weight: 600; }
+  .ep-row-meta { font-size: 12px; color: #999; margin-top: 4px; }
+  .back { background: none; border: none; color: #e8590c; font-size: 14px; cursor: pointer;
+          margin-bottom: 12px; padding: 4px 0; }
+  .ep { background: #fff; border-radius: 18px; padding: 20px; margin-bottom: 18px;
+        box-shadow: 0 2px 10px rgba(255,154,60,.12); }
+  .ep h2 { font-size: 17px; margin-bottom: 6px; }
+  .meta { font-size: 12px; color: #999; margin-bottom: 12px; }
+  .stories { background: #fff8ec; border-radius: 12px; padding: 10px 14px;
+             font-size: 14px; margin-bottom: 12px; }
+  .stories b { color: #e8590c; }
+  .stories ul { margin: 6px 0 0 18px; }
+  audio { width: 100%; margin-bottom: 6px; }
+  .no-audio { font-size: 13px; color: #888; background: #f6f3ee; border-radius: 8px;
+              padding: 10px 12px; margin-bottom: 10px; }
+  .no-audio a { color: #e8590c; }
+  .wordcard { background: linear-gradient(135deg, #fff3bf, #ffe8cc); border-radius: 14px;
+              padding: 14px 16px; margin: 12px 0; text-align: center; }
+  .wordcard-title { font-size: 13px; font-weight: 700; color: #975a00; margin-bottom: 4px; }
+  .wordcard-word { font-size: 26px; font-weight: 800; color: #e8590c; }
+  .wordcard-word span { font-size: 15px; font-weight: 400; color: #975a00; margin-left: 8px; }
+  .game { background: #f3f0ff; border-radius: 14px; padding: 12px 16px; margin: 12px 0; }
+  .game-title { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
+  .game p { font-size: 14px; }
+  details summary { cursor: pointer; font-size: 14px; color: #e8590c; font-weight: 600;
+                    padding: 6px 0; }
+  .transcript { margin-top: 4px; border-top: 2px dashed #ffe8cc; padding-top: 6px; }
+  .turn { display: flex; gap: 10px; margin-bottom: 14px; }
+  .turn:last-child { margin-bottom: 4px; }
+  .speaker { flex: 0 0 auto; font-size: 12px; font-weight: 700; border-radius: 20px;
+             padding: 2px 10px; height: fit-content; margin-top: 2px; }
+  .mia .speaker { background: #ffe8cc; color: #d9480f; }
+  .lina .speaker { background: #d0ebff; color: #1971c2; }
+  .lines { flex: 1; }
+  .en { font-size: 15px; }
+  .zh { font-size: 13px; color: #8a8a8a; margin-top: 2px; }
+  footer { text-align: center; font-size: 12px; color: #aaa; margin-top: 30px; }
+  footer a { color: #e8590c; margin: 0 8px; }
+</style>
+</head>
+<body>
+<button id="zhToggle" style="display:none">隐藏译文</button>
+<header>
+  <h1>🦁 小小英文新鲜事</h1>
+  <p>每期 3 分钟，轻松英文看世界 · 中英对照文字稿</p>
+  <nav><a href="https://solarco.github.io/tea-break-english/">☕ 成人版</a> · <a href="https://www.xiaoyuzhoufm.com/podcast/6ac96b8ee7bc828fc15f5898" target="_blank">去小宇宙收听</a></nav>
+</header>
+<div class="wrap">
+  <div id="listView"></div>
+  <div id="detailView" style="display:none"></div>
+  <footer>
+    <a href="https://solarco.github.io/tea-break-english/">☕ 成人版：茶水间英文新鲜事</a>
+    <a href="https://www.xiaoyuzhoufm.com/podcast/6ac96b8ee7bc828fc15f5898" target="_blank">在小宇宙收听</a>
+  </footer>
+</div>
+<script>
+const EPISODES = [{"date": "2026-10-10", "row": "<div class=\"ep-row\" data-date=\"2026-10-10\"><div class=\"ep-row-title\">小小英文新鲜事 - 1010 | 火星日出、194岁乌龟、深海新物种</div><div class=\"ep-row-meta\">2026-10-10 · 422 词 · Word of the day: species</div></div>", "detail": "\n    <button class=\"back\" onclick=\"showList()\">← 返回列表</button>\n    <article class=\"ep\">\n      <h2>🦁 小小英文新鲜事 - 1010 | 火星日出、194岁乌龟、深海新物种</h2>\n      <div class=\"meta\">2026-10-10 · 全文 422 词</div>\n      <div class=\"stories\"><b>📖 今天的三个新鲜事</b><ul><li>火星日出</li><li>194岁乌龟</li><li>深海新物种</li></ul></div>\n      <audio controls preload=\"none\" src=\"https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-10.mp3\"></audio>\n      <div class=\"wordcard\"><div class=\"wordcard-title\">📖 Word of the day</div>\n        <div class=\"wordcard-word\">species<span>（物种）</span></div></div>\n      <div class=\"game\"><div class=\"game-title\">🎮 结尾小游戏</div>\n        <p>Lina 的无厘头二选一：和 Jonathan 乌龟一起吃早餐，还是和小企鹅一起游泳？你选哪个？</p></div>\n      <details open>\n        <summary>📄 中英对照文字稿（跟读用）</summary>\n        <div class=\"transcript\"><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Hey everyone, welcome to our very first episode! I&#x27;m Mia.</p><p class=\"zh\">大家好，欢迎收听我们的第一期节目！我是 Mia。</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">And I&#x27;m Lina! It&#x27;s Saturday, October tenth! I&#x27;m so excited!</p><p class=\"zh\">我是 Lina！今天是十月十号，星期六！我好激动啊！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Me too! We&#x27;ve got three amazing stories for you today!</p><p class=\"zh\">我也是！今天我们有三个超棒的故事要讲给你听！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Story one! A photo from Mars!</p><p class=\"zh\">第一个故事！一张来自火星的照片！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">That&#x27;s right! NASA&#x27;s Curiosity rover took a picture of dawn on Mars!</p><p class=\"zh\">没错！NASA 的好奇号火星车拍到了火星上的黎明！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Dawn? Like sunrise? On Mars?!</p><p class=\"zh\">黎明？就是日出吗？在火星上？！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Exactly! The sun came up over cliffs and rocks. Oh, it&#x27;s so beautiful! The rover has been exploring Mars since twenty twelve!</p><p class=\"zh\">对！太阳从悬崖和岩石后面升起来，太美了！这辆火星车从二零一二年就开始在火星上探险了！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Twenty twelve?! That&#x27;s older than me!</p><p class=\"zh\">二零一二年？！比我年纪还大！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Ha ha! It is! It&#x27;s a car-sized robot with six wheels, climbing a mountain on Mars!</p><p class=\"zh\">哈哈！是的！它是一个有六个轮子、跟小汽车差不多大的机器人，正在火星上爬一座山！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">I want a six-wheeled car! Can it do my homework?</p><p class=\"zh\">我也想要一辆六个轮子的小汽车！它能帮我写作业吗？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Oh, I wish! But probably not. Hey, here&#x27;s our word of the day: species. A species is a type of animal. Dogs are one species, cats are another!</p><p class=\"zh\">啊，我也希望！但恐怕不行。嘿，来看看我们今天的单词：species。Species 就是“物种”，一种动物就是一个物种。狗是一个物种，猫是另一个物种！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">So I&#x27;m the Lina species?</p><p class=\"zh\">那我是 Lina 物种？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">The one and only! Say it with us, friends! Species!</p><p class=\"zh\">独一无二的！跟我们一起说，朋友们！Species！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Species!</p><p class=\"zh\">Species！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">I love how you said that! Okay, story two! Get ready... Meet Jonathan! He&#x27;s a tortoise, and he&#x27;s one hundred and ninety-four years old!</p><p class=\"zh\">你说得真好！好，第二个故事！准备好了吗……认识一下 Jonathan！它是一只乌龟，已经一百九十四岁了！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">One hundred and ninety-four?! Is he a dinosaur?!</p><p class=\"zh\">一百九十四岁？！它是恐龙吗？！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Ha ha! Great question! Not quite a dinosaur, but wow... he was born before phones and cars were even invented! Can you believe it?</p><p class=\"zh\">哈哈！问得好！它不是恐龙，但哇……它出生的时候，电话和汽车都还没有被发明出来！你敢相信吗？</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Whoa! What&#x27;s his secret? Does he eat pizza?</p><p class=\"zh\">哇！它的秘诀是什么？它吃披萨吗？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Oh, I love that idea! But no pizza, sweetie. Scientists say it&#x27;s in his genes! He just keeps going! He&#x27;s the oldest land animal in the whole world!</p><p class=\"zh\">哦，我喜欢这个想法！但它不吃披萨，宝贝。科学家说秘诀藏在它的基因里！它就这样一直活着！它是全世界最长寿的陆地动物！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">When I&#x27;m one hundred and ninety-four, I&#x27;m going to nap like Jonathan!</p><p class=\"zh\">等我一百九十四岁的时候，我也要像 Jonathan 一样睡大觉！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Ha! That&#x27;s the perfect plan! Okay, last story! Scientists found fifty-seven new species in the deep sea!</p><p class=\"zh\">哈！这个计划太完美了！好，最后一个故事！科学家在深海里发现了五十七个新物种！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Fifty-seven?! Did they find a mermaid?</p><p class=\"zh\">五十七个？！他们找到美人鱼了吗？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">No mermaids! But they found a sea cucumber that looks like SpongeBob&#x27;s friend! Isn&#x27;t that amazing?</p><p class=\"zh\">没有美人鱼！但他们找到了一只长得像海绵宝宝朋友的海参！神不神奇？</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">SpongeBob is real! I told you! Did they find Patrick too?</p><p class=\"zh\">海绵宝宝是真的！我就说吧！他们找到派大星了吗？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Not yet! They used a robot submarine in super deep, dark water!</p><p class=\"zh\">还没有！他们用一艘机器人潜水艇，在又深又黑的海水里探索！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">It&#x27;s dark down there? Do the fish bring flashlights?</p><p class=\"zh\">下面很黑吗？小鱼们带手电筒了吗？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Ha ha ha! I love how you think! Okay, it&#x27;s game time!</p><p class=\"zh\">哈哈哈！我就喜欢你的想法！好，游戏时间到！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Ooh, my favorite! Would you rather... have breakfast with Jonathan the tortoise, or swim with the little penguins?</p><p class=\"zh\">哦，我最喜欢的环节！二选一……和 Jonathan 乌龟一起吃早餐，还是和小企鹅一起游泳？</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Hmm, tough one... I&#x27;d pick breakfast with Jonathan! Imagine the stories he could tell! What about you, friends? Ask your mom and dad too!</p><p class=\"zh\">嗯，好难选……我选和 Jonathan 吃早餐！想象一下它能讲多少故事！你们呢，朋友们？也去问问爸爸妈妈！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">I&#x27;d swim with the penguins! They could teach me to swim super fast!</p><p class=\"zh\">我要和小企鹅游泳！它们能教我游得飞快！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Ha! I love it! Great choice!</p><p class=\"zh\">哈！我就知道！选得好！</p></div></div><div class=\"turn mia\"><span class=\"speaker\">Mia</span><div class=\"lines\"><p class=\"en\">Thanks for hanging out with us on our very first episode! See you next time! Bye!</p><p class=\"zh\">谢谢你们陪我们度过第一期节目！下次见！拜拜！</p></div></div><div class=\"turn lina\"><span class=\"speaker\">Lina</span><div class=\"lines\"><p class=\"en\">Bye! I&#x27;m going to nap like Jonathan!</p><p class=\"zh\">拜拜！我要像 Jonathan 一样去睡大觉了！</p></div></div></div>\n      </details>\n    </article>"}];
+const listView = document.getElementById('listView');
+const detailView = document.getElementById('detailView');
+const zhToggle = document.getElementById('zhToggle');
+function showList() {
+  detailView.style.display = 'none';
+  listView.style.display = 'block';
+  zhToggle.style.display = 'none';
+  listView.innerHTML = EPISODES.map(e => e.row).join('');
+  listView.querySelectorAll('.ep-row').forEach(r => {
+    r.onclick = () => showDetail(r.dataset.date);
+  });
+  window.scrollTo(0, 0);
+}
+function showDetail(date) {
+  const ep = EPISODES.find(e => e.date === date);
+  if (!ep) return;
+  listView.style.display = 'none';
+  detailView.style.display = 'block';
+  zhToggle.style.display = 'block';
+  detailView.innerHTML = ep.detail;
+  window.scrollTo(0, 0);
+}
+zhToggle.onclick = () => {
+  document.body.classList.toggle('hide-zh');
+  zhToggle.textContent = document.body.classList.contains('hide-zh') ? '显示译文' : '隐藏译文';
+};
+showList();
+</script>
+</body>
+</html>

@@ -184,6 +184,7 @@ def build():
 <header>
   <h1>☕ 茶水间英文新鲜事</h1>
   <p>每天 5 分钟，英语聊新鲜事 · 中英对照文字稿</p>
+  <p style="margin-top:8px;font-size:13px"><a href="kids.html" style="color:#fff;opacity:.95">🦁 儿童版：小小英文新鲜事 →</a></p>
 </header>
 <div class="wrap">
   <div id="listView"></div>
