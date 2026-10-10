@@ -86,13 +86,13 @@ def build():
       {audio}
       <div class="wordcard"><div class="wordcard-title">📖 Word of the day</div>
         <div class="wordcard-word">{esc(w_en)}<span>（{esc(w_zh)}）</span></div></div>
-      {vocab_html}
       <div class="game"><div class="game-title">🎮 结尾小游戏</div>
         <p>{esc(ep['ending_game'])}</p></div>
       <details open>
         <summary>📄 中英对照文字稿（跟读用）</summary>
         <div class="transcript">{turns_html(turns, zhs)}</div>
       </details>
+      {vocab_html}
     </article>"""
         data.append({"date": ep["date"], "row": row, "detail": detail})
 
