@@ -52,6 +52,19 @@ def build():
         assert len(turns) == len(zhs), f"{ep['date']}: {len(turns)} vs {len(zhs)}"
         stories_html = "".join(f"<li>{esc(s)}</li>" for s in ep["stories"])
         w_en, w_zh = ep["word_of_day"]
+        vocab_html = ""
+        if ep.get("vocab"):
+            items = "".join(
+                f'<div class="vocab-item"><div class="vocab-word">{esc(v["en"])}'
+                f'<span>（{esc(v["zh"])}）</span></div>'
+                f'<div class="vocab-def">{esc(v["def"])}</div>'
+                f'<div class="vocab-ex">例：{esc(v["ex_en"])}（{esc(v["ex_zh"])}）</div></div>'
+                for v in ep["vocab"]
+            )
+            vocab_html = (
+                f'<div class="vocab"><div class="vocab-title">📝 生词本</div>'
+                f'{items}</div>'
+            )
         audio = (
             f'<audio controls preload="none" src="{ep["audio"]}"></audio>'
             if ep.get("audio")
@@ -73,6 +86,7 @@ def build():
       {audio}
       <div class="wordcard"><div class="wordcard-title">📖 Word of the day</div>
         <div class="wordcard-word">{esc(w_en)}<span>（{esc(w_zh)}）</span></div></div>
+      {vocab_html}
       <div class="game"><div class="game-title">🎮 结尾小游戏</div>
         <p>{esc(ep['ending_game'])}</p></div>
       <details open>
@@ -133,6 +147,14 @@ def build():
   .game { background: #f3f0ff; border-radius: 14px; padding: 12px 16px; margin: 12px 0; }
   .game-title { font-size: 14px; font-weight: 700; margin-bottom: 4px; }
   .game p { font-size: 14px; }
+  .vocab { background: #e7f5ff; border-radius: 14px; padding: 12px 16px; margin: 12px 0; }
+  .vocab-title { font-size: 14px; font-weight: 700; margin-bottom: 8px; color: #1864ab; }
+  .vocab-item { margin-bottom: 10px; }
+  .vocab-item:last-child { margin-bottom: 0; }
+  .vocab-word { font-size: 17px; font-weight: 800; color: #1971c2; }
+  .vocab-word span { font-size: 13px; font-weight: 400; color: #495057; margin-left: 6px; }
+  .vocab-def { font-size: 13px; color: #495057; }
+  .vocab-ex { font-size: 13px; color: #2b8a3e; }
   details summary { cursor: pointer; font-size: 14px; color: #e8590c; font-weight: 600;
                     padding: 6px 0; }
   .transcript { margin-top: 4px; border-top: 2px dashed #ffe8cc; padding-top: 6px; }

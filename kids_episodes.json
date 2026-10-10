@@ -163,6 +163,36 @@
         "speaker": "Lina",
         "text": "Bye! I'm going to find a fossil!"
       }
+    ],
+    "vocab": [
+      {
+        "en": "fossil",
+        "zh": "化石",
+        "def": "what's left of an animal or plant from long ago, turned into rock",
+        "ex_en": "a dinosaur fossil",
+        "ex_zh": "恐龙化石"
+      },
+      {
+        "en": "species",
+        "zh": "物种",
+        "def": "a group of animals or plants that are all the same kind",
+        "ex_en": "a new species of wild cat",
+        "ex_zh": "一种新的野猫"
+      },
+      {
+        "en": "snout",
+        "zh": "吻部；动物的鼻子",
+        "def": "the nose and mouth part of an animal",
+        "ex_en": "a crocodile's long snout",
+        "ex_zh": "鳄鱼的长吻"
+      },
+      {
+        "en": "float",
+        "zh": "漂浮",
+        "def": "to stay in the air or on water without falling down",
+        "ex_en": "Pikachu floated in space",
+        "ex_zh": "皮卡丘在太空里漂浮"
+      }
     ]
   }
 ]
