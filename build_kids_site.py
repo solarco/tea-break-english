@@ -154,13 +154,13 @@ def build():
 <header>
   <h1>🦁 小小英文新鲜事</h1>
   <p>每期 3 分钟，轻松英文看世界 · 中英对照文字稿</p>
-  <nav><a href="__ADULT_URL__">☕ 成人版</a> · <a href="__PODCAST_URL__" target="_blank">去小宇宙收听</a></nav>
+  <nav><a href="__ADULT_URL__">☕ 茶水间英文新鲜事</a> · <a href="__PODCAST_URL__" target="_blank">去小宇宙收听</a></nav>
 </header>
 <div class="wrap">
   <div id="listView"></div>
   <div id="detailView" style="display:none"></div>
   <footer>
-    <a href="__ADULT_URL__">☕ 成人版：茶水间英文新鲜事</a>
+    <a href="__ADULT_URL__">☕ 茶水间英文新鲜事</a>
     <a href="__PODCAST_URL__" target="_blank">在小宇宙收听</a>
   </footer>
 </div>
