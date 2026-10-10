@@ -1,151 +1,167 @@
 [
   {
     "date": "2026-10-10",
-    "title": "小小英文新鲜事 - 1010 | 火星日出、194岁乌龟、深海新物种",
-    "word_count": 422,
+    "title": "小小英文新鲜事 - 1010 | 百年新野猫、金字塔鳄鱼、太空皮卡丘",
+    "word_count": 428,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-10.mp3",
     "stories": [
-      "火星日出",
-      "194岁乌龟",
-      "深海新物种"
+      "百年新野猫",
+      "金字塔鳄鱼",
+      "太空皮卡丘"
     ],
     "word_of_day": [
-      "species",
-      "物种"
+      "fossil",
+      "化石"
     ],
-    "ending_game": "Lina 的无厘头二选一：和 Jonathan 乌龟一起吃早餐，还是和小企鹅一起游泳？你选哪个？",
+    "ending_game": "Lina 的无厘头二选一：抱抱小野猫，还是骑在鳄鱼化石背上？你选哪个？",
     "turns": [
       {
         "speaker": "Mia",
-        "text": "Hey everyone, welcome to our very first episode! I'm Mia."
+        "text": "Hey everyone, welcome back! I'm Mia."
       },
       {
         "speaker": "Lina",
-        "text": "And I'm Lina! It's Saturday, October tenth! I'm so excited!"
+        "text": "And I'm Lina! It's Saturday, October tenth!"
       },
       {
         "speaker": "Mia",
-        "text": "Me too! We've got three amazing stories for you today!"
+        "text": "We've got three brand-new stories for you today! All super fresh!"
       },
       {
         "speaker": "Lina",
-        "text": "Story one! A photo from Mars!"
+        "text": "Fresh like my socks? I changed them today!"
       },
       {
         "speaker": "Mia",
-        "text": "That's right! NASA's Curiosity rover took a picture of dawn on Mars!"
+        "text": "Ha! Even fresher! Story one! Scientists found a brand-new wild cat!"
       },
       {
         "speaker": "Lina",
-        "text": "Dawn? Like sunrise? On Mars?!"
+        "text": "A new cat?! Like my neighbor's cat?"
       },
       {
         "speaker": "Mia",
-        "text": "Exactly! The sun came up over cliffs and rocks. Oh, it's so beautiful! The rover has been exploring Mars since twenty twelve!"
+        "text": "It LOOKS like a regular house cat! That's the funny part! People in Bolivia saw it for years and thought, oh, just a cute kitty!"
       },
       {
         "speaker": "Lina",
-        "text": "Twenty twelve?! That's older than me!"
+        "text": "Plot twist! It's NOT a kitty?"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! It is! It's a car-sized robot with six wheels, climbing a mountain on Mars!"
+        "text": "It's a whole new species! Called the Tilkayo tiger cat! It has leopard spots! And get this, it's the first new wild cat found in one hundred years!"
       },
       {
         "speaker": "Lina",
-        "text": "I want a six-wheeled car! Can it do my homework?"
+        "text": "One hundred years?! That's older than grandma!"
       },
       {
         "speaker": "Mia",
-        "text": "Oh, I wish! But probably not. Hey, here's our word of the day: species. A species is a type of animal. Dogs are one species, cats are another!"
+        "text": "Ha ha! Way older! It's tiny, with round ears. So cute! Can you believe it?"
       },
       {
         "speaker": "Lina",
-        "text": "So I'm the Lina species?"
+        "text": "Can I have one? Please please please?"
       },
       {
         "speaker": "Mia",
-        "text": "The one and only! Say it with us, friends! Species!"
+        "text": "It's wild, sweetie. But here's our word of the day: fossil. A fossil is what's left of an animal or plant from super long ago, turned into rock!"
       },
       {
         "speaker": "Lina",
-        "text": "Species!"
+        "text": "Like dinosaur bones?"
       },
       {
         "speaker": "Mia",
-        "text": "I love how you said that! Okay, story two! Get ready... Meet Jonathan! He's a tortoise, and he's one hundred and ninety-four years old!"
+        "text": "Exactly! Say it with us, friends! Fossil!"
       },
       {
         "speaker": "Lina",
-        "text": "One hundred and ninety-four?! Is he a dinosaur?!"
+        "text": "Fossil!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! Great question! Not quite a dinosaur, but wow... he was born before phones and cars were even invented! Can you believe it?"
+        "text": "I love how you said that! Okay, story two! You know the Great Sphinx in Egypt? The giant lion with a human head?"
       },
       {
         "speaker": "Lina",
-        "text": "Whoa! What's his secret? Does he eat pizza?"
+        "text": "The one with no nose?"
       },
       {
         "speaker": "Mia",
-        "text": "Oh, I love that idea! But no pizza, sweetie. Scientists say it's in his genes! He just keeps going! He's the oldest land animal in the whole world!"
+        "text": "Ha! Yes! Well, scientists found a fossil INSIDE the rock the Sphinx is carved from!"
       },
       {
         "speaker": "Lina",
-        "text": "When I'm one hundred and ninety-four, I'm going to nap like Jonathan!"
+        "text": "Inside?! Was someone hiding it there?"
       },
       {
         "speaker": "Mia",
-        "text": "Ha! That's the perfect plan! Okay, last story! Scientists found fifty-seven new species in the deep sea!"
+        "text": "It was waiting there for forty-five million years! It's a brand-new species of ancient crocodile with a super long, skinny snout! They named it after Horus, an Egyptian god!"
       },
       {
         "speaker": "Lina",
-        "text": "Fifty-seven?! Did they find a mermaid?"
+        "text": "A crocodile god?! Does it wear a crown?"
       },
       {
         "speaker": "Mia",
-        "text": "No mermaids! But they found a sea cucumber that looks like SpongeBob's friend! Isn't that amazing?"
+        "text": "Ha ha ha! I love how you think! Maybe a tiny crown!"
       },
       {
         "speaker": "Lina",
-        "text": "SpongeBob is real! I told you! Did they find Patrick too?"
+        "text": "I knew it!"
       },
       {
         "speaker": "Mia",
-        "text": "Not yet! They used a robot submarine in super deep, dark water!"
+        "text": "Okay, last story, and it's my favorite! A Pikachu toy spent sixty-seven days in space!"
       },
       {
         "speaker": "Lina",
-        "text": "It's dark down there? Do the fish bring flashlights?"
+        "text": "WHAT?! Pikachu went to space?!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha ha! I love how you think! Okay, it's game time!"
+        "text": "Yes! It floated around the International Space Station for sixty-seven days! I know, it's amazing!"
       },
       {
         "speaker": "Lina",
-        "text": "Ooh, my favorite! Would you rather... have breakfast with Jonathan the tortoise, or swim with the little penguins?"
+        "text": "Did it catch any space Pokémon?"
       },
       {
         "speaker": "Mia",
-        "text": "Hmm, tough one... I'd pick breakfast with Jonathan! Imagine the stories he could tell! What about you, friends? Ask your mom and dad too!"
+        "text": "Ha! Maybe! And now there's a Pokémon Space Trail at a museum in London, where kids learn about space with Pokémon!"
       },
       {
         "speaker": "Lina",
-        "text": "I'd swim with the penguins! They could teach me to swim super fast!"
+        "text": "I want to go! Can Pikachu be my teacher?"
       },
       {
         "speaker": "Mia",
-        "text": "Ha! I love it! Great choice!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Thanks for hanging out with us on our very first episode! See you next time! Bye!"
+        "text": "Best teacher ever! Okay, it's game time!"
       },
       {
         "speaker": "Lina",
-        "text": "Bye! I'm going to nap like Jonathan!"
+        "text": "Ooh, my favorite! Would you rather... cuddle the tiny Tilkayo tiger cat, or ride on the back of the giant fossil crocodile?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Hmm, tough one... I'd cuddle the kitty! Those round ears! What about you, friends? Ask your mom and dad too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I'd ride the crocodile! Giddy-up, Horus!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I love it! Amazing choice!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Thanks for hanging out with us! See you next time! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I'm going to find a fossil!"
       }
     ]
   }
