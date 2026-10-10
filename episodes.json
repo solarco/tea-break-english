@@ -702,5 +702,214 @@
     "text": "Have a great Friday, everyone. See you tomorrow."
    }
   ]
+ },
+ {
+  "date": "2026-10-10",
+  "title": "茶水间英文 - 10月10日 | 沙特机场遇袭、AI劫银行案、板球票疯抢",
+  "word_count": 763,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-10.mp3",
+  "hook": "Missiles shut Riyadh airport, an AI agent robs nine banks, and cricket fans file a million ticket requests",
+  "summary": "胡塞武装导弹袭击利雅得机场、多家航司停飞；AI 黑客工具 ARTEX 被用来攻击韩国九家银行后紧急下架；2027 板球世界杯门票开售 48 小时收到超百万份申请。",
+  "topics": [
+   {
+    "name": "沙特机场遇袭",
+    "start": 3,
+    "end": 9
+   },
+   {
+    "name": "AI劫银行案",
+    "start": 10,
+    "end": 20
+   },
+   {
+    "name": "板球票疯抢",
+    "start": 21,
+    "end": 27
+   }
+  ],
+  "quickq": [
+   28,
+   34
+  ],
+  "vocab": [
+   [
+    "ballistic missile",
+    "弹道导弹"
+   ],
+   [
+    "falling debris",
+    "坠落的碎片；残骸"
+   ],
+   [
+    "stealable line",
+    "拿来即用的开场白；可以直接借用的表达"
+   ],
+   [
+    "penetration testing",
+    "渗透测试（主动测试系统安全性）"
+   ],
+   [
+    "pull the plug",
+    "终止；叫停（项目）"
+   ],
+   [
+    "closed source",
+    "闭源；不再公开源代码"
+   ],
+   [
+    "first come, first served",
+    "先到先得"
+   ]
+  ],
+  "turns": [
+   {
+    "speaker": "Alex",
+    "text": "It is Saturday, October tenth, and you are listening to Watercooler Chat, the show that gets your small talk ready for the weekend. I am Alex."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And I am Jordan. Saturday mornings were made for coffee and gossip."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Three stories today. Big trouble in the skies over the Middle East, an A I tool that went from hero to villain, and cricket fans going absolutely wild. Let us get into it."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Story number one. On Thursday, Yemen's Houthi rebels said they fired a ballistic missile at the main international airport in Riyadh, the capital of Saudi Arabia."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "At an airport? That is scary."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Saudi defenses shot the missiles down, but the falling debris reportedly set a parked passenger plane on fire, and also damaged a kindergarten and a medical building in the city."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Was anyone on the plane?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "No, it was empty, thank goodness. But Saudi officials say three people were killed this week in strikes on airports in Riyadh and another city called Abha."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Barely. Lufthansa has suspended all flights to Riyadh through October sixteenth. Air India, IndiGo, and Akasa Air cancelled theirs as well. At one point on Thursday, nearly half of all flights out of Riyadh were cancelled."
+   },
+   {
+    "speaker": "Alex",
+    "text": "And Europe's aviation safety agency now warns that Saudi airspace is risky. So here is your stealable line. Did you hear about the missile strikes on Riyadh airport? A parked plane caught fire and airlines are cancelling flights left and right."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Story number two is pure tech drama. You know how people keep warning that A I can be used to hack computers? Well, it just happened for real."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "For real?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "In South Korea, at least nine banks have been hit by cyberattacks since late September. One of them, Shinhan Bank, said personal data from about twenty five thousand customers was stolen. Another, K B Kookmin, reported one hundred nineteen customers affected."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Nine banks. Who did this?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Here is the wild part. The American cybersecurity firm CrowdStrike traced it to one suspect, possibly a twenty six year old in China, who allegedly used an A I agent called A R T E X, along with the Claude Code tool from Anthropic, to break in."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "So one guy with an A I helper did what used to take a whole team of hackers?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Exactly. A R T E X is an open source tool built for penetration testing, which is when companies test their own security on purpose."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And the developer? What did he do?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "He panicked. The developer, who goes by Autumn Twenty Seven online, pulled the project off Git Hub and announced it is going closed source."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Pulling the plug. But the copies already downloaded are still out there."
+   },
+   {
+    "speaker": "Alex",
+    "text": "That is the problem. You can delete the download page, but you cannot unhack the banks. Stealable line for this one. So apparently one hacker used an A I agent to break into nine banks in South Korea, and the toolmaker freaked out and took the whole thing offline."
+   },
+   {
+    "speaker": "Alex",
+    "text": "And finally, our lighter story. Cricket fans have officially lost their minds, in the best possible way."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh no, what did they do now?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "The ticket ballot for the twenty twenty seven Cricket World Cup opened this week, and fans filed more than one million applications in just over forty eight hours."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "A million? The tournament is still a year away."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Right? It will be held in South Africa, Zimbabwe, and Namibia next October. The hottest ticket is the India versus Pakistan match, which alone drew more than one hundred ten thousand applications."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "India versus Pakistan. That is basically the Super Bowl of cricket."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Totally. And get this. It is not first come, first served. If too many people apply for one game, the winners are picked by lottery. Stealable line. Did you hear the Cricket World Cup got a million ticket requests in two days? Sports fans do not mess around."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Time for today's random question. If you could be invisible for one hour tomorrow, what would you do with it?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Oh, easy. I would sneak into the kitchen and eat ice cream straight from the tub."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is it? Unlimited power, and you choose snacks?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Hey, no judgment means maximum enjoyment. What about you?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "I would follow my cat around and find out what he does all day."
+   },
+   {
+    "speaker": "Alex",
+    "text": "You would spend your one invisible hour spying on your cat?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "He looks way too innocent. I need the truth."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Tomorrow we will be back with fresh stories, fresh lines, and another gloriously silly question."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Until then, go start some great conversations. Bye."
+   }
+  ]
  }
 ]
