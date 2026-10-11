@@ -197,149 +197,185 @@
   },
   {
     "date": "2026-10-11",
-    "title": "小小英文新鲜事 - 1011 | 长角洛基海参、十月流星雨、爱泡澡的变形虫",
-    "word_count": 467,
+    "title": "小小英文新鲜事 - 1011 | 猎豹五胞胎、远古水獭、火星伴蜂巢",
+    "word_count": 392,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-11.mp3",
     "stories": [
-      "长角洛基海参",
-      "十月流星雨",
-      "爱泡澡的变形虫"
+      "猎豹五胞胎",
+      "远古水獭",
+      "火星伴蜂巢"
     ],
     "word_of_day": [
-      "meteor",
-      "流星"
+      "cub",
+      "幼崽"
     ],
-    "ending_game": "小挑战:晴朗的夜晚和爸爸妈妈去户外看流星,抬头看天五分钟数数看到几颗,看到就许个愿!",
+    "ending_game": "谜语时间：有斑点像豹、跑得比汽车快、会喵喵叫，但不是家猫——我是谁？",
+    "vocab": [
+      {
+        "en": "cub",
+        "zh": "幼崽",
+        "def": "a baby animal, like a baby lion or bear",
+        "ex_en": "five cheetah cubs",
+        "ex_zh": "五只猎豹宝宝"
+      },
+      {
+        "en": "pile",
+        "zh": "堆叠",
+        "def": "to put things on top of each other",
+        "ex_en": "they pile up to nap",
+        "ex_zh": "它们堆在一起睡觉"
+      },
+      {
+        "en": "fossil",
+        "zh": "化石",
+        "def": "what's left of an animal or plant from long ago, turned into rock",
+        "ex_en": "a dinosaur fossil",
+        "ex_zh": "恐龙化石"
+      },
+      {
+        "en": "cluster",
+        "zh": "一团；星团",
+        "def": "a group of the same things close together",
+        "ex_en": "a star cluster",
+        "ex_zh": "星团"
+      }
+    ],
     "turns": [
       {
         "speaker": "Mia",
-        "text": "Hi friends! It is Sunday, October eleventh! I am Mia!"
+        "text": "Hey everyone, welcome back! I'm Mia."
       },
       {
         "speaker": "Lina",
-        "text": "And I am Lina! Welcome to our little news show!"
+        "text": "And I'm Lina! It's Sunday, October eleventh!"
       },
       {
         "speaker": "Mia",
-        "text": "Three fun stories today! First, down to the bottom of the sea!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Scientists just found fifty seven brand new animals in the deep sea! Near Argentina, a giant underwater canyon called mar del PLAH-tuh drops three thousand five hundred meters down! A robot submarine named soo-BASS-chun explored it and found animals nobody had ever seen!"
+        "text": "We've got three amazing stories for you today! Ready?"
       },
       {
         "speaker": "Lina",
-        "text": "Fifty seven new animals? Did they find a mermaid?"
+        "text": "Ready ready ready! Go go go!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! Not a mermaid, but something even funnier! A sea cucumber with little horns! Scientists named it Loki, like the tricky character, because its horns look mischievous!"
+        "text": "Story one! Five baby cheetahs were just born!"
       },
       {
         "speaker": "Lina",
-        "text": "Does it eat cucumbers? Can I keep one as a pet?"
+        "text": "Five?! That's a lot of babies!"
       },
       {
         "speaker": "Mia",
-        "text": "Good question! They do not eat cucumbers! They are soft squishy crawlers of the sea floor. And this one lives in the dark, deep, cold sea — your bathtub is way too warm!"
+        "text": "I know! At the Smithsonian Zoo! Their mom is named Zura, and it's her first time being a mom!"
       },
       {
         "speaker": "Lina",
-        "text": "Aw! My rubber duck stays lonely then!"
+        "text": "Is she doing a good job?"
       },
       {
         "speaker": "Mia",
-        "text": "Our second story is in the sky! October is meteor shower season! On a clear night, you might see shooting stars!"
+        "text": "She's doing great! The cubs are so tiny, they pile on top of each other to nap! And you can watch them on a live camera!"
       },
       {
         "speaker": "Lina",
-        "text": "Shooting stars! I love them! Does someone throw them?"
+        "text": "A cheetah channel?! I want to watch!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! Nobody throws them! Earth is flying through space dust left by a comet called HAL-eez. The dust hits our air, burns up, and makes a bright line of light! That is a shooting star!"
+        "text": "Ha! Me too! And here's our word of the day: cub. A cub is a baby animal, like a baby lion, a baby bear, or a baby cheetah!"
       },
       {
         "speaker": "Lina",
-        "text": "So a shooting star is space dust going poof? Coolest poof ever!"
+        "text": "So I'm a human cub?"
       },
       {
         "speaker": "Mia",
-        "text": "It really is! Third story! In California, a park with volcanoes called LASS-en has pools of super hot water. Scientists found a tiny living thing there. They call it the fire amoeba!"
+        "text": "Ha ha! You're MY favorite cub! Say it with us, friends! Cub!"
       },
       {
         "speaker": "Lina",
-        "text": "Does it breathe fire? Can it roast marshmallows?"
+        "text": "Cub!"
       },
       {
         "speaker": "Mia",
-        "text": "I know, it sounds crazy! It does not breathe fire, but it loves hot water! The water is one hundred forty five degrees, hotter than the hottest bath ever! Most living things would say ouch ouch ouch, but the fire amoeba says, ah, nice and warm!"
+        "text": "I love how you said that! Okay, story two! Scientists found a fossil of an animal that lived with the dinosaurs!"
       },
       {
         "speaker": "Lina",
-        "text": "One hundred forty five degrees? My toes say no no no!"
+        "text": "A dinosaur?!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! Smart toes! Now, friends, Word of the day! Today's word is meteor!"
+        "text": "Not quite! It was a mammal, like us! It lived one hundred sixty-five million years ago in China! It looked like a cross between an otter and a beaver!"
       },
       {
         "speaker": "Lina",
-        "text": "Meteor! Like the shooting star!"
+        "text": "An otter-beaver?!"
       },
       {
         "speaker": "Mia",
-        "text": "Exactly! A meteor is a bright line of light in the sky when a tiny space rock burns up! Say it with us, friends! Mee-tee-or! Meteor!"
+        "text": "Yes! It swam with its front legs and steered with its flat tail! And get this, it could chew its food AND breathe at the same time!"
       },
       {
         "speaker": "Lina",
-        "text": "Meteor! Do I get a prize?"
+        "text": "I can do that! Watch! Nom nom nom!"
       },
       {
         "speaker": "Mia",
-        "text": "You get a high five! Now our tiny challenge! On a clear night, go outside with your mom or dad and look up for five whole minutes! Count the shooting stars! See one? Make a wish!"
+        "text": "Ha ha ha! Careful, don't choke! Okay, last story! Look up at the sky tonight!"
       },
       {
         "speaker": "Lina",
-        "text": "Last time I saw one, I wished for ice cream! The next day we had ice cream! Coincidence? I think not!"
+        "text": "Why? Is something falling?"
       },
       {
         "speaker": "Mia",
-        "text": "Ha ha! I love that! That is all for today, friends! See you next time!"
+        "text": "Mars! The red planet is passing right through a group of stars called the Beehive Cluster!"
       },
       {
         "speaker": "Lina",
-        "text": "Bye bye, friends! Keep looking up!"
-      }
-    ],
-    "vocab": [
-      {
-        "en": "meteor",
-        "zh": "流星",
-        "def": "a bright line of light in the sky when a tiny space rock burns up",
-        "ex_en": "a bright meteor",
-        "ex_zh": "明亮的流星"
+        "text": "Bees in space?!"
       },
       {
-        "en": "canyon",
-        "zh": "峡谷",
-        "def": "a deep, narrow valley — here, a giant one under the sea",
-        "ex_en": "an underwater canyon",
-        "ex_zh": "海底峡谷"
+        "speaker": "Mia",
+        "text": "Ha! Not real bees! It's called the Beehive because the stars look like a swarm of bees! Mars will look like it's sitting right inside it!"
       },
       {
-        "en": "horn",
-        "zh": "角",
-        "def": "a hard, pointy part growing on an animal's head",
-        "ex_en": "Loki's little horns",
-        "ex_zh": "洛基的小角"
+        "speaker": "Lina",
+        "text": "Can I see it?"
       },
       {
-        "en": "burn up",
-        "zh": "燃烧殆尽",
-        "def": "to burn completely until nothing is left",
-        "ex_en": "The space dust burns up.",
-        "ex_zh": "太空尘埃燃烧殆尽。"
+        "speaker": "Mia",
+        "text": "If the sky is clear, look east before sunrise! Mars is the red one! Can you believe it?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I'm waking up early!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Okay, riddle time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Ooh! I have spots like a leopard, but I'm not a leopard! I run faster than a car, but I'm not a car! I say meow, but I'm not your house cat! What am I?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Hmm... a cheetah!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "You got it! You're so smart!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Thanks for hanging out with us! See you next time! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I'm going to watch the cheetah cam!"
       }
     ]
   }
