@@ -194,5 +194,153 @@
         "ex_zh": "皮卡丘在太空里漂浮"
       }
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "title": "小小英文新鲜事 - 1011 | 长角洛基海参、十月流星雨、爱泡澡的变形虫",
+    "word_count": 467,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-11.mp3",
+    "stories": [
+      "长角洛基海参",
+      "十月流星雨",
+      "爱泡澡的变形虫"
+    ],
+    "word_of_day": [
+      "meteor",
+      "流星"
+    ],
+    "ending_game": "小挑战:晴朗的夜晚和爸爸妈妈去户外看流星,抬头看天五分钟数数看到几颗,看到就许个愿!",
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends! It is Sunday, October eleventh! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! Welcome to our little news show!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three fun stories today! First, down to the bottom of the sea!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Scientists just found fifty seven brand new animals in the deep sea! Near Argentina, a giant underwater canyon called mar del PLAH-tuh drops three thousand five hundred meters down! A robot submarine named soo-BASS-chun explored it and found animals nobody had ever seen!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Fifty seven new animals? Did they find a mermaid?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! Not a mermaid, but something even funnier! A sea cucumber with little horns! Scientists named it Loki, like the tricky character, because its horns look mischievous!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Does it eat cucumbers? Can I keep one as a pet?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Good question! They do not eat cucumbers! They are soft squishy crawlers of the sea floor. And this one lives in the dark, deep, cold sea — your bathtub is way too warm!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Aw! My rubber duck stays lonely then!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Our second story is in the sky! October is meteor shower season! On a clear night, you might see shooting stars!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Shooting stars! I love them! Does someone throw them?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! Nobody throws them! Earth is flying through space dust left by a comet called HAL-eez. The dust hits our air, burns up, and makes a bright line of light! That is a shooting star!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So a shooting star is space dust going poof? Coolest poof ever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It really is! Third story! In California, a park with volcanoes called LASS-en has pools of super hot water. Scientists found a tiny living thing there. They call it the fire amoeba!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Does it breathe fire? Can it roast marshmallows?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I know, it sounds crazy! It does not breathe fire, but it loves hot water! The water is one hundred forty five degrees, hotter than the hottest bath ever! Most living things would say ouch ouch ouch, but the fire amoeba says, ah, nice and warm!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "One hundred forty five degrees? My toes say no no no!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! Smart toes! Now, friends, Word of the day! Today's word is meteor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Meteor! Like the shooting star!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! A meteor is a bright line of light in the sky when a tiny space rock burns up! Say it with us, friends! Mee-tee-or! Meteor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Meteor! Do I get a prize?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You get a high five! Now our tiny challenge! On a clear night, go outside with your mom or dad and look up for five whole minutes! Count the shooting stars! See one? Make a wish!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Last time I saw one, I wished for ice cream! The next day we had ice cream! Coincidence? I think not!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! I love that! That is all for today, friends! See you next time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye bye, friends! Keep looking up!"
+      }
+    ],
+    "vocab": [
+      {
+        "en": "meteor",
+        "zh": "流星",
+        "def": "a bright line of light in the sky when a tiny space rock burns up",
+        "ex_en": "a bright meteor",
+        "ex_zh": "明亮的流星"
+      },
+      {
+        "en": "canyon",
+        "zh": "峡谷",
+        "def": "a deep, narrow valley — here, a giant one under the sea",
+        "ex_en": "an underwater canyon",
+        "ex_zh": "海底峡谷"
+      },
+      {
+        "en": "horn",
+        "zh": "角",
+        "def": "a hard, pointy part growing on an animal's head",
+        "ex_en": "Loki's little horns",
+        "ex_zh": "洛基的小角"
+      },
+      {
+        "en": "burn up",
+        "zh": "燃烧殆尽",
+        "def": "to burn completely until nothing is left",
+        "ex_en": "The space dust burns up.",
+        "ex_zh": "太空尘埃燃烧殆尽。"
+      }
+    ]
   }
 ]
