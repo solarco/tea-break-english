@@ -1124,5 +1124,182 @@
         "text": "Until then, keep the conversation flowing, and we will see you at the watercooler."
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "title": "茶水间英文 - 10月12日 | 酿酒人掀翻道奇、苹果涨价怪AI、咖啡机偷流量",
+    "word_count": 786,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-12.mp3",
+    "hook": "Brewers stun Skubal in NLCS opener, Apple's AI memory tax, and a Keurig's terabyte coffee break",
+    "summary": "酿酒人在国联冠军赛首战击败了他们差点交易来的王牌投手、AI 数据中心抢内存逼得苹果给 Mac 和 iPad 涨价、智能咖啡机十天上传 1TB 数据，外加一道终身免费的快问快答。",
+    "topics": [
+      {
+        "name": "酿酒人掀翻道奇",
+        "start": 2,
+        "end": 8
+      },
+      {
+        "name": "苹果涨价怪AI",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "name": "咖啡机偷流量",
+        "start": 16,
+        "end": 21
+      }
+    ],
+    "quickq": [
+      22,
+      27
+    ],
+    "vocab": [
+      [
+        "championship series",
+        "冠军赛（季后赛中决定联赛冠军的系列赛）"
+      ],
+      [
+        "trade deadline",
+        "交易截止日"
+      ],
+      [
+        "revenge",
+        "复仇；报仇"
+      ],
+      [
+        "winning run",
+        "（棒球）制胜的一分"
+      ],
+      [
+        "by the truckload",
+        "一大堆；大量地"
+      ],
+      [
+        "hundred-year flood",
+        "百年一遇的洪水；极罕见的大事"
+      ],
+      [
+        "overload",
+        "使超载；使负荷过重"
+      ],
+      [
+        "smart coffee maker",
+        "智能咖啡机"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, or good evening, whenever you are listening. It is Monday, October twelfth, and this is the Watercooler Chat, your quick dose of things worth talking about. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. We dig through the news so you never run out of something to say at the watercooler, the lunch table, or the group chat."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Three stories today, each with one ready-to-steal line. Let us start with the biggest drama of the weekend, and it happened on a baseball field."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The Milwaukee Brewers just took game one of the National League Championship Series from the Los Angeles Dodgers, two to one."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And here is why this is such a great story. The Dodgers started Tarik Skubal, their superstar pitcher, the guy they grabbed at the trade deadline. The Brewers were actually one of the teams bidding for him."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So Milwaukee got to face the ace they almost bought, and they beat him. That is some movie-level revenge."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. In the fourth, Brice Turang tied the game with a solo home run. An inning later, a twenty-one-year-old rookie named Luis Lara knocked in the winning run with a single."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And the best part? At the deadline, the Brewers refused to give up their young players to get Skubal, and people criticized them. On Sunday, those exact young players were the reason they won. The Dodgers are chasing three straight championships, something no National League team has ever done, and Milwaukee has not reached a World Series since nineteen eighty-two. Game two is tonight."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Steal this line. Did you hear the Brewers beat the ace they almost traded for, with a twenty-one-year-old rookie driving in the winning run? October baseball never disappoints."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Never does. Story two hits your wallet directly. The A I boom just made your next laptop more expensive."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is the short version. A I companies and gadget makers are fighting over the same ingredient, memory chips. A I data centers are buying memory by the truckload, so there is barely any left for regular gadgets, and memory chip prices nearly doubled in the first three months of this year alone."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And so Apple raised prices on a bunch of Macs and iPads?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. The MacBook Air went from one thousand ninety-nine to one thousand two hundred ninety-nine dollars. Meanwhile the chip makers are printing money. Micron reported memory sales up more than three hundred percent, and its stock has climbed more than five hundred percent in the past year."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the chip makers get rich and the rest of us pay for it. When does this end?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Micron's C E O says the shortage will last into twenty twenty-eight, and tech reporters warn another price hike could come before next spring. Tim Cook called it a hundred-year flood."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this line. So apparently the A I boom is so hungry for memory chips that Apple had to raise Mac and iPad prices. Your next laptop is paying for the A I gold rush."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Story three is my favorite kind of story, the kind that makes you laugh and then unplug something in your kitchen."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh no, what did the kitchen appliances do now?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "A guy on the internet discovered that his parents' smart coffee maker, a Keurig, had uploaded one terabyte of data in ten days."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "One terabyte? From a coffee maker? What is it even sending, coffee reviews?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Nobody knows. It overloaded their home internet so badly that the guy just unplugged the thing. He thinks it might be a software bug, but it sparked a huge debate about why a coffee maker needs the internet at all."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this line. Did you hear about the smart coffee maker that uploaded a terabyte of data in ten days? I think my kitchen appliances know more about me than I do."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And that brings us to our random question of the day. If one everyday expense could be free for you forever, what would you pick?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Mine is simple. Coffee. I drink three cups a day. Free coffee every single morning, that is daily happiness."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I am going bigger. Flights. Free flights forever. I would be in Tokyo for dinner on Friday and back for work on Monday."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Daily happiness beats occasional happiness, but fine, I will enjoy my free lattes while you are stuck in airport security."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Deal. And listeners, ask a friend this one today. If one everyday expense could be free for you forever, what would you pick? Their answer will tell you everything about them."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Everything. That is all for today. Tomorrow we will be back with three fresh stories, including the result of tonight's game two between the Brewers and the Dodgers. See you then."
+      }
+    ]
   }
 ]
