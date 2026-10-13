@@ -1301,5 +1301,170 @@
         "text": "Everything. That is all for today. Tomorrow we will be back with three fresh stories, including the result of tonight's game two between the Brewers and the Dodgers. See you then."
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "title": "茶水间英文 - 10月13日 | 诺奖经济学奖、Anthropic防抄袭、卡通网200G泄露",
+    "word_count": 772,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-13.mp3",
+    "hook": "Nobel economics glory, Anthropic's copycat crackdown, and Cartoon Network's two-hundred-gigabyte nostalgia bomb.",
+    "summary": "2026 年最后一个诺贝尔奖花落经济学、Anthropic 重拳打击套取模型能力的“蒸馏攻击”、超过 200GB 的卡通频道制作文件泄露，外加一道“一夜掌握世界级技能”的快问快答。",
+    "topics": [
+      {
+        "name": "诺奖经济学奖",
+        "start": 2,
+        "end": 6
+      },
+      {
+        "name": "Anthropic防抄袭",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "name": "卡通网200G泄露",
+        "start": 12,
+        "end": 17
+      }
+    ],
+    "quickq": [
+      18,
+      23
+    ],
+    "vocab": [
+      [
+        "peaks and troughs",
+        "经济的高峰与低谷；起伏"
+      ],
+      [
+        "forward-looking",
+        "有前瞻性的；着眼未来的"
+      ],
+      [
+        "distillation attack",
+        "蒸馏攻击；通过大量提问套取 AI 模型能力的手段"
+      ],
+      [
+        "proxy network",
+        "代理网络"
+      ],
+      [
+        "false positive",
+        "误报；误判"
+      ],
+      [
+        "gigaleak",
+        "（网络用语）大规模文件泄露事件"
+      ],
+      [
+        "storyboard",
+        "故事板；分镜脚本"
+      ],
+      [
+        "model sheet",
+        "角色设定表；人物造型参考图"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Tuesday, October thirteenth, and welcome to the Watercooler Chat, where we hand you fresh things to talk about, plus the exact English lines to say. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Quick update first, because we promised: last night the Brewers beat the Dodgers seven to four, taking a two games to none lead in the N L C S. And the Guardians came back to beat the Rays seven to three, taking game one of the A L C S."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Game two of that series is tonight, and the N L C S resumes Wednesday night in Los Angeles. Okay, scores settled. Now the real stuff. The biggest headline this week: the final Nobel Prize of twenty twenty-six has been awarded, and it went to economics."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Two Americans, Robert Hall from Stanford and Michael Woodford from Columbia. They built models that help central banks steady the economy when shocks hit, like energy crises or sudden spending slumps."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The prize committee said their work helps smooth out the economy's peaks and troughs. The prize is twelve million Swedish kronor, roughly one point two million dollars, split between the two."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And their big idea is surprisingly human. People are forward-looking: we save and spend based on what we expect the future to hold. So if a central bank communicates its plans clearly, it can nudge the whole economy in the right direction."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Pretty relevant, with energy prices jumping all over the place. Steal this one for your group chat: Did you hear who won the Nobel in economics? Two professors who proved that calming people's nerves can calm the whole economy."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is a great line. Now for the A I story of the day, and it is a spy-versus-spy one. Anthropic, the company behind Claude, says it just slammed the door on copycats."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Here is the deal. Some rival labs were running what are called distillation attacks. They basically peppered Claude with millions of sneaky questions through proxy networks, trying to harvest its reasoning and bake it into their own cheaper models."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Anthropic says its new safeguards cut that harvesting by ninety to ninety-nine percent, and it banned tens of thousands of accounts tied to the campaigns. It even named a Chinese startup, Z dot A I, saying it tried to distill Claude while building its G L M five point three model."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Anthropic claims its new defenses are now roughly as tough as the ones that stop Claude from helping build bioweapons, with a false positive rate under zero point one percent. Almost no innocent users get caught in the net."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It is the A I arms race in miniature. Everyone wants the recipe, nobody wants to share it. Your stealable line: So apparently Anthropic caught tens of thousands of accounts trying to copy Claude's homework, and changed all the locks."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Love it. Now, the fun one. If you grew up watching cartoons, your childhood just leaked onto the internet."
+      },
+      {
+        "speaker": "Alex",
+        "text": "More than two hundred gigabytes of Cartoon Network production files surfaced online this weekend. Storyboards, model sheets, animatics, character puppet rigs, even the original Flash source files for early episodes."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Over thirty series are in the mix. The Powerpuff Girls, Adventure Time, Regular Show, Dexter's Laboratory, Teen Titans, The Amazing World of Gumball, Robot Chicken. Fans are calling it the classic C N gigaleak."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And the timing raised eyebrows: it landed just days after Skydance's one hundred ten billion dollar takeover of Warner Brothers. No evidence links it to the merger, but the internet loves a coincidence."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Google took down the original link, but the files had been circulating for hours. Artists are torn: some call it theft, others call it preservation."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Your line to steal: Have you seen the Cartoon Network leak? Two hundred gigabytes of secret files, basically a time capsule from our childhood."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Random question time. Alex: if you could wake up tomorrow with one world-class skill, zero practice required, what are you picking?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Parallel parking. First try, every try, no audience of pedestrians judging me."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Respect. I am going with the power nap: fall asleep anywhere in under a minute. A world-class sleeper."
+      },
+      {
+        "speaker": "Alex",
+        "text": "You already fall asleep during movies."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is boredom, not skill. Imagine napping through a red-eye flight and waking up in a new city feeling brand new."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Fine, that beats parking. Listeners, steal this question today: if you could master one skill overnight, what would it be? It works at lunch, at parties, everywhere."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is our show for Tuesday. Tomorrow, more fresh conversation fuel, and we will see whether the Dodgers can punch back in Los Angeles. See you then."
+      }
+    ]
   }
 ]
