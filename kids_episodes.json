@@ -378,5 +378,225 @@
         "text": "Bye! I'm going to watch the cheetah cam!"
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "title": "小小英文新鲜事 - 1013 | 转圈小行星、长角海参、6岁魔方纪录",
+    "word_count": 456,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-13.mp3",
+    "stories": [
+      "转圈小行星",
+      "长角海参",
+      "6岁魔方纪录"
+    ],
+    "word_of_day": [
+      "trickster",
+      "捣蛋鬼"
+    ],
+    "ending_game": "小挑战：像小行星一样转圈，一分钟你能转几圈？用英语数出来，再教家人今天的单词 trickster！",
+    "vocab": [
+      {
+        "en": "trickster",
+        "zh": "捣蛋鬼",
+        "def": "a person who loves to play tricks and jokes",
+        "ex_en": "Loki the trickster",
+        "ex_zh": "爱捣蛋的 Loki"
+      },
+      {
+        "en": "spin",
+        "zh": "旋转",
+        "def": "to turn around and around very fast",
+        "ex_en": "the asteroid spins every five minutes",
+        "ex_zh": "小行星每五分钟转一圈"
+      },
+      {
+        "en": "horn",
+        "zh": "角",
+        "def": "a hard pointy part on some animals' heads",
+        "ex_en": "two little horns",
+        "ex_zh": "两只小角"
+      },
+      {
+        "en": "record",
+        "zh": "纪录",
+        "def": "the best score anyone has ever done",
+        "ex_en": "a world record",
+        "ex_zh": "世界纪录"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hey friends, welcome back! I'm Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I'm Lina! It's Tuesday, October thirteenth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "We have three brand new stories for you today! Are you ready?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Born ready! Bring them on!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! Two giant space rocks are spinning like crazy!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Like a merry go round?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Even faster! Each one is wider than twenty football fields, and it spins all the way around every five minutes!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Whoa! I would get so dizzy!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Tell me about it! Scientists just found them with a giant telescope in Chile! They spin so fast that they should break into pieces!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So why do they not fall apart?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Because they are super strong solid rocks! The scientists were totally amazed!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I ride one to school?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! You would fly right off! Spin, spin, spin, and you are gone!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! Scientists found fifty seven brand new animals deep in the ocean!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Fifty seven?! Do they all have names?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One of them does! A sea cucumber with two little horns, nicknamed Loki!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Loki? Like the troublemaker god?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! That name is perfect for our word of the day later! Loki lives more than two thousand meters under the sea!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Does it play tricks on the fish down there?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Maybe it waves its little horns and says, look at me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! A six year old girl solved a Rubik's Cube in about four seconds!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Four seconds?! I can't even find my socks in four seconds!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I know, right?! Her name is lee-AHN yoon-JUH, from China! And she broke the women's world record! Twice!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Is she a robot?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! No, she's a real kid! Just like you! A world record means nobody in the whole world has ever done it better!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I want a world record for eating noodles!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! That is a delicious dream! Maybe start with breakfast first!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Okay! Word of the day! Trickster! A trickster is someone who loves to play tricks and jokes! Like Loki the sea cucumber!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Or like me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! You said it, not me! Trickster! Say it with us, friends!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Trickster!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Spot on! Say it one more time, super silly!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "TRICK-ster!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha ha! Perfect!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Okay! Tiny challenge time! Here is your mission!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A mission?! I love missions!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Spin like the super fast asteroids! See how many spins you can do in one minute! And count out loud in English! One! Two! Three!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And teach someone the word trickster today!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Yes! Teach your mom and dad! Ask them to spin with you! The whole family, spinning in circles!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Mom is going to get so dizzy!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! That is the fun part!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That's all for today! Thanks for listening, friends! See you next time! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I'm off to spin!"
+      }
+    ]
   }
 ]
