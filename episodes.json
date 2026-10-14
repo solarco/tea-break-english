@@ -1466,5 +1466,186 @@
         "text": "That is our show for Tuesday. Tomorrow, more fresh conversation fuel, and we will see whether the Dodgers can punch back in Los Angeles. See you then."
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "title": "茶水间英文 - 10月14日 | ASML指引三连涨、OpenAI抓内鬼、美银遭重罚",
+    "word_count": 900,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-14.mp3",
+    "hook": "ASML's forecast hat trick, an OpenAI spy scandal, and Bank of America's billion-dollar oops.",
+    "summary": "ASML 财报大爆、年内第三次上调业绩指引；一名 OpenAI 工程师因涉嫌在高管会议室偷装窃听器被捕，而查出内鬼的正是公司自己的 AI；美国银行因漏报五十多亿美元可疑交易被罚超十二亿美元，外加一道“家里凭空多出一间房”的快问。",
+    "topics": [
+      {
+        "name": "ASML指引三连涨",
+        "start": 4,
+        "end": 10
+      },
+      {
+        "name": "OpenAI抓内鬼",
+        "start": 11,
+        "end": 16
+      },
+      {
+        "name": "美银遭重罚",
+        "start": 17,
+        "end": 21
+      }
+    ],
+    "quickq": [
+      22,
+      28
+    ],
+    "vocab": [
+      [
+        "lithography",
+        "光刻（制造高端芯片的核心工艺）"
+      ],
+      [
+        "guidance",
+        "（公司发布的）业绩指引、预期"
+      ],
+      [
+        "premarket trading",
+        "盘前交易"
+      ],
+      [
+        "plant a bug",
+        "安装窃听器；偷装监听设备"
+      ],
+      [
+        "encrypted",
+        "加密的"
+      ],
+      [
+        "suspicious transaction",
+        "可疑交易"
+      ],
+      [
+        "willfully violated",
+        "故意违反"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, and welcome to the Watercooler Chat. It is Wednesday, October fourteenth. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Quick follow up on yesterday's promise. The Rays beat the Guardians three to one last night in game two of the A L C S, so that series is all tied up at one game each."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And tonight it is game three of the N L C S, Brewers versus Dodgers in Los Angeles. We will have the result for you tomorrow."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Alright, the A I boom just got a giant reality check, except this time it is a good one for the believers."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh yeah. A S M L, the Dutch company that makes the machines that make the chips, reported earnings this morning, and they were huge."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "How huge are we talking?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Third quarter revenue of eleven point six six billion euros, net profit of four point nine six billion, more than doubled from last year. And they raised their full year forecast for the third time in twenty twenty-six, now expecting between forty-four and forty-five billion euros in sales."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Three times in one year. And who is buying all these machines? T S M C, Samsung, Intel, basically everyone who makes advanced chips."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right, because A S M L has a near monopoly on the lithography machines you need to make the fanciest semiconductors. The C E O said some customers are already talking about placing orders for twenty twenty-nine and even twenty thirty."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "People are lining up to buy chip machines for the next decade. It is now the most valuable listed company in Europe, stock up about eighty percent in the last year. And yet the stock slipped in premarket trading, because the whole chip sector had a rough week."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is your stealable line. Did you hear A S M L raised its sales forecast for the third time this year? Customers are already lining up for chip machines for twenty thirty."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, and did you see what happened at OpenAI? This one reads like a movie script."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I did. The Justice Department announced charges yesterday against a thirty-five year old OpenAI engineer named Abdulrahman Alfozan, a Saudi national who joined the company in July of last year. Federal agents arrested him on October ninth."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Prosecutors say he planted a hidden recording device in an executive conference room in San Francisco. They found it on September thirtieth, wrapped in toilet paper, plugged into the U S B port on the back of a T V."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Prosecutors say it was installed around September twenty-eighth and everything on it was encrypted."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And here is the best part. OpenAI said it used its own A I models to figure out which employee planted the device."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The A I caught the human spy. You cannot make this stuff up. He is fired, in federal custody, and faces up to five years in prison and a two hundred fifty thousand dollar fine. Stealable line. So apparently an OpenAI engineer tried to bug the executive conference room, and the company's own A I figured out who did it. The plot twist nobody saw coming."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Switching gears completely, the U S Treasury just dropped the hammer on a very big bank."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Bank of America. More than one point two one billion dollars in penalties, announced Tuesday, the third biggest fine in Treasury Department history. The bank failed to report more than five billion dollars in suspicious transactions over several years, including more than one billion tied to national security concerns."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Part of that is a seven hundred fifty million dollar penalty from the bank regulator, the O C C, the biggest fine that regulator has ever handed out. There is also an eleven point six million dollar piece for sanctions violations involving Russia, Iran, narcotics, and global terrorism."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And the bank actually admitted it willfully violated the Bank Secrecy Act. Shares still fell more than two percent after hours, and the fine will dent this week's earnings by seventeen cents a share."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Stealable line. Did you hear Bank of America just agreed to pay one point two billion dollars for missing suspicious transactions? Third biggest penalty the Treasury has ever handed out. That is an expensive oops."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, question of the day. If a brand new room appeared in your home tomorrow, out of nowhere, what are you turning it into?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh, easy. A room just for naps. Blackout curtains, the softest mattress on earth, and a sign on the door that says do not disturb until further notice."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is suspiciously close to a second bedroom."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Totally different. A bedroom has responsibilities. A nap room has none."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Fair. I am building a snack library. Shelves of chips, a soda fountain, and a little freezer just for ice cream."
+      },
+      {
+        "speaker": "Alex",
+        "text": "We should connect our rooms. Nap, wake up, snack, repeat. That is basically a resort."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And steal this one today, by the way. Ask a friend what their dream room would be, and you instantly learn who they really are."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is it for today. Tomorrow, more fresh chat fuel, including the result of tonight's N L C S game three. See you in the morning."
+      }
+    ]
   }
 ]
