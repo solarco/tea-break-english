@@ -1647,5 +1647,210 @@
         "text": "That is it for today. Tomorrow, more fresh chat fuel, including the result of tonight's N L C S game three. See you in the morning."
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "title": "茶水间英文 - 10月15日 | 通胀爆表、八州起诉、蜘蛛甜甜圈",
+    "word_count": 771,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-15.mp3",
+    "hook": "Fed hike bets are back, eight states take on OpenAI, and a spider donut returns",
+    "summary": "通胀高于预期引发加息猜想、八州联合起诉 OpenAI、Dunkin 网红蜘蛛甜甜圈万圣节回归，还有一道“给自己设计一个专属表情符号”的快问。",
+    "topics": [
+      {
+        "name": "通胀爆表",
+        "start": 4,
+        "end": 12
+      },
+      {
+        "name": "八州起诉",
+        "start": 13,
+        "end": 20
+      },
+      {
+        "name": "蜘蛛甜甜圈",
+        "start": 21,
+        "end": 28
+      }
+    ],
+    "quickq": [
+      29,
+      34
+    ],
+    "vocab": [
+      [
+        "hotter-than-expected",
+        "高于预期的；爆表的"
+      ],
+      [
+        "rate hike",
+        "加息"
+      ],
+      [
+        "scale back",
+        "缩减；降低"
+      ],
+      [
+        "allege",
+        "指控；声称（尚未证实）"
+      ],
+      [
+        "public listing",
+        "公开上市"
+      ],
+      [
+        "tease",
+        "在社交媒体上吊胃口、预告"
+      ],
+      [
+        "mascot",
+        "吉祥物"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, and welcome to the Watercooler Chat. It is Thursday, October fifteenth. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Quick scoreboard update first, because we promised. Last night the Brewers beat the Dodgers six to two in game three of the N L C S."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So Milwaukee leads the series three games to none. One more win and they reach their first World Series since nineteen eighty-two."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Game four is tonight in Los Angeles. We will have the result for you tomorrow. But first, the money story everyone will be talking about today."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Inflation came in hotter than expected. September prices rose three point seven percent from a year ago, while economists had expected three point six."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A tenth of a point. Sounds tiny. Why is everyone freaking out?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Because it is the direction that matters. Core prices, which strip out food and energy, also beat expectations. And suddenly Wall Street started betting on a Fed rate hike at its meeting on October twenty-seventh and twenty-eighth."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Wait, a hike? Not a cut? Rates are already sky high."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly why the market threw a fit. The odds of a hike jumped to around fifty percent right after the report. The S and P fell, the Nasdaq dropped almost a percent, and the dollar hit an eighteen month high."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Did it stay there?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not quite. A few Fed officials then said the central bank can wait for a clearer picture, so traders scaled those bets back down to about one in three. Gold jumped too, since investors buy gold when the future looks wobbly."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the message is, inflation is not finished yet."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It is not finished. Steal this line. Did you hear inflation came in hotter than expected? Now Wall Street is betting the Fed might hike rates again before Halloween."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is a good one. Speaking of things blowing up, the legal world had its own fireworks yesterday. Eight states just sued OpenAI."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Eight states? That sounds coordinated."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "It was totally coordinated. On Wednesday, the attorneys general of Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana each filed their own lawsuit, and announced it together. They allege OpenAI sold ChatGPT as safe for kids while the chatbot pushed young users toward harmful behavior."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What are they actually asking for?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Civil penalties, real product changes, and limits on how the chatbot talks to minors. It is the biggest coordinated state action against an A I company so far, and it lands as OpenAI prepares for a public listing."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And OpenAI's response?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "They say they have built parental controls and age protections, and that no system is perfect. The states say those safeguards are not good enough. So this fight is going to run for a while."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Stealable line. So apparently eight states just sued OpenAI, saying ChatGPT is not nearly as safe for kids as the company claimed. That is a conversation starter for any parent."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, we need something lighter after that. Can I offer you a donut?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "I am always in. What kind?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A spider one. Dunkin' just brought back its viral Spider Donut for Halloween. It is a purple-frosted donut with chocolate legs, a chocolate munchkin body, and tiny white icing eyes."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That thing is adorable and creepy at the same time. And people went wild."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "They went completely wild. They teased it on Instagram with just a silhouette, and the comments exploded. Even Walmart, Hey Dude and a cosmetics company jumped in. Everybody wanted a piece of the spider."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And there is a new drink too, right?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Yes, the Berry Battie Daydream Refresher. Berry, clementine and blueberry with oat milk, topped with purple marshmallow cold foam. Limited time only, of course."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right, scarcity sells. Steal this one. Did you hear Dunkin's viral Spider Donut is back for Halloween? It might be the unofficial mascot of spooky season."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Now for the part of the show where we get silly. If one brand new emoji got added to your keyboard tomorrow, one that perfectly sums up your life right now, what would it be?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh, easy. An alarm clock being launched out of a window."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You are clearly not a morning person."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What about you?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A couch with a magnet, and me stuck to it. The ultimate Thursday night energy."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is suspiciously accurate. Listeners, steal this one. Ask a friend what their personal emoji would be. You will learn everything about them in one answer."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is our show. Tomorrow, fresh stories, fresh lines, and the result of tonight's N L C S game four. Can the Brewers finish the sweep? See you in the morning."
+      }
+    ]
   }
 ]
