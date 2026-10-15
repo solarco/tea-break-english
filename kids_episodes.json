@@ -1,602 +1,838 @@
 [
-  {
-    "date": "2026-10-10",
-    "title": "小小英文新鲜事 - 1010 | 百年新野猫、金字塔鳄鱼、太空皮卡丘",
-    "word_count": 428,
-    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-10-1.mp3",
-    "stories": [
-      "百年新野猫",
-      "金字塔鳄鱼",
-      "太空皮卡丘"
-    ],
-    "word_of_day": [
-      "fossil",
-      "化石"
-    ],
-    "ending_game": "Lina 的无厘头二选一：抱抱小野猫，还是骑在鳄鱼化石背上？你选哪个？",
-    "turns": [
-      {
-        "speaker": "Mia",
-        "text": "Hey everyone, welcome back! I'm Mia."
-      },
-      {
-        "speaker": "Lina",
-        "text": "And I'm Lina! It's Saturday, October tenth!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "We've got three brand-new stories for you today! All super fresh!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Fresh like my socks? I changed them today!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Even fresher! Story one! Scientists found a brand-new wild cat!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "A new cat?! Like my neighbor's cat?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "It LOOKS like a regular house cat! That's the funny part! People in Bolivia saw it for years and thought, oh, just a cute kitty!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Plot twist! It's NOT a kitty?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "It's a whole new species! Called the Tilkayo tiger cat! It has leopard spots! And get this, it's the first new wild cat found in one hundred years!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "One hundred years?! That's older than grandma!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha! Way older! It's tiny, with round ears. So cute! Can you believe it?"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Can I have one? Please please please?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "It's wild, sweetie. But here's our word of the day: fossil. A fossil is what's left of an animal or plant from super long ago, turned into rock!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Like dinosaur bones?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Exactly! Say it with us, friends! Fossil!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Fossil!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "I love how you said that! Okay, story two! You know the Great Sphinx in Egypt? The giant lion with a human head?"
-      },
-      {
-        "speaker": "Lina",
-        "text": "The one with no nose?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Yes! Well, scientists found a fossil INSIDE the rock the Sphinx is carved from!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Inside?! Was someone hiding it there?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "It was waiting there for forty-five million years! It's a brand-new species of ancient crocodile with a super long, skinny snout! They named it after Horus, an Egyptian god!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "A crocodile god?! Does it wear a crown?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha ha! I love how you think! Maybe a tiny crown!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I knew it!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Okay, last story, and it's my favorite! A Pikachu toy spent sixty-seven days in space!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "WHAT?! Pikachu went to space?!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Yes! It floated around the International Space Station for sixty-seven days! I know, it's amazing!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Did it catch any space Pokémon?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Maybe! And now there's a Pokémon Space Trail at a museum in London, where kids learn about space with Pokémon!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I want to go! Can Pikachu be my teacher?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Best teacher ever! Okay, it's game time!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Ooh, my favorite! Would you rather... cuddle the tiny Tilkayo tiger cat, or ride on the back of the giant fossil crocodile?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Hmm, tough one... I'd cuddle the kitty! Those round ears! What about you, friends? Ask your mom and dad too!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I'd ride the crocodile! Giddy-up, Horus!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! I love it! Amazing choice!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Thanks for hanging out with us! See you next time! Bye!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Bye! I'm going to find a fossil!"
-      }
-    ],
-    "vocab": [
-      {
-        "en": "fossil",
-        "zh": "化石",
-        "def": "what's left of an animal or plant from long ago, turned into rock",
-        "ex_en": "a dinosaur fossil",
-        "ex_zh": "恐龙化石"
-      },
-      {
-        "en": "species",
-        "zh": "物种",
-        "def": "a group of animals or plants that are all the same kind",
-        "ex_en": "a new species of wild cat",
-        "ex_zh": "一种新的野猫"
-      },
-      {
-        "en": "snout",
-        "zh": "吻部；动物的鼻子",
-        "def": "the nose and mouth part of an animal",
-        "ex_en": "a crocodile's long snout",
-        "ex_zh": "鳄鱼的长吻"
-      },
-      {
-        "en": "float",
-        "zh": "漂浮",
-        "def": "to stay in the air or on water without falling down",
-        "ex_en": "Pikachu floated in space",
-        "ex_zh": "皮卡丘在太空里漂浮"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-11",
-    "title": "小小英文新鲜事 - 1011 | 猎豹五胞胎、远古水獭、火星伴蜂巢",
-    "word_count": 392,
-    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-11.mp3",
-    "stories": [
-      "猎豹五胞胎",
-      "远古水獭",
-      "火星伴蜂巢"
-    ],
-    "word_of_day": [
-      "cub",
-      "幼崽"
-    ],
-    "ending_game": "谜语时间：有斑点像豹、跑得比汽车快、会喵喵叫，但不是家猫——我是谁？",
-    "vocab": [
-      {
-        "en": "cub",
-        "zh": "幼崽",
-        "def": "a baby animal, like a baby lion or bear",
-        "ex_en": "five cheetah cubs",
-        "ex_zh": "五只猎豹宝宝"
-      },
-      {
-        "en": "pile",
-        "zh": "堆叠",
-        "def": "to put things on top of each other",
-        "ex_en": "they pile up to nap",
-        "ex_zh": "它们堆在一起睡觉"
-      },
-      {
-        "en": "fossil",
-        "zh": "化石",
-        "def": "what's left of an animal or plant from long ago, turned into rock",
-        "ex_en": "a dinosaur fossil",
-        "ex_zh": "恐龙化石"
-      },
-      {
-        "en": "cluster",
-        "zh": "一团；星团",
-        "def": "a group of the same things close together",
-        "ex_en": "a star cluster",
-        "ex_zh": "星团"
-      }
-    ],
-    "turns": [
-      {
-        "speaker": "Mia",
-        "text": "Hey everyone, welcome back! I'm Mia."
-      },
-      {
-        "speaker": "Lina",
-        "text": "And I'm Lina! It's Sunday, October eleventh!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "We've got three amazing stories for you today! Ready?"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Ready ready ready! Go go go!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Story one! Five baby cheetahs were just born!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Five?! That's a lot of babies!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "I know! At the Smithsonian Zoo! Their mom is named Zura, and it's her first time being a mom!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Is she doing a good job?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "She's doing great! The cubs are so tiny, they pile on top of each other to nap! And you can watch them on a live camera!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "A cheetah channel?! I want to watch!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Me too! And here's our word of the day: cub. A cub is a baby animal, like a baby lion, a baby bear, or a baby cheetah!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "So I'm a human cub?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Human babies are just called babies, silly! But I like how you think! Say it with us, friends! Cub!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Cub!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Nailed it! Okay, story two! Scientists found a fossil of an animal that lived with the dinosaurs!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "A dinosaur?!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Not quite! It was a mammal, like us! It lived one hundred sixty-five million years ago in China! It looked like a cross between an otter and a beaver!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "An otter-beaver?!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Yes! It swam with its front legs and steered with its flat tail! And get this, it could chew its food AND breathe at the same time!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I can do that! Watch! Nom nom nom!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha ha! Careful, don't choke! Okay, last story! Look up at the sky tonight!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Why? Is something falling?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Mars! The red planet is passing right through a group of stars called the Beehive Cluster!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Bees in space?!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Not real bees! It's called the Beehive because the stars look like a swarm of bees! Mars will look like it's sitting right inside it!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Can I see it?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "If the sky is clear, look east before sunrise! Mars is the red one! Can you believe it?"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I'm waking up early!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Okay, riddle time!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Ooh! I have spots like a leopard, but I'm not a leopard! I run faster than a car, but I'm not a car! I say meow, but I'm not your house cat! What am I?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Hmm... a cheetah!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "You got it! You're so smart!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Thanks for hanging out with us! See you next time! Bye!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Bye! I'm going to watch the cheetah cam!"
-      }
-    ]
-  },
-  {
-    "date": "2026-10-13",
-    "title": "小小英文新鲜事 - 1013 | 转圈小行星、长角海参、6岁魔方纪录",
-    "word_count": 456,
-    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-13.mp3",
-    "stories": [
-      "转圈小行星",
-      "长角海参",
-      "6岁魔方纪录"
-    ],
-    "word_of_day": [
-      "trickster",
-      "捣蛋鬼"
-    ],
-    "ending_game": "小挑战：像小行星一样转圈，一分钟你能转几圈？用英语数出来，再教家人今天的单词 trickster！",
-    "vocab": [
-      {
-        "en": "trickster",
-        "zh": "捣蛋鬼",
-        "def": "a person who loves to play tricks and jokes",
-        "ex_en": "Loki the trickster",
-        "ex_zh": "爱捣蛋的 Loki"
-      },
-      {
-        "en": "spin",
-        "zh": "旋转",
-        "def": "to turn around and around very fast",
-        "ex_en": "the asteroid spins every five minutes",
-        "ex_zh": "小行星每五分钟转一圈"
-      },
-      {
-        "en": "horn",
-        "zh": "角",
-        "def": "a hard pointy part on some animals' heads",
-        "ex_en": "two little horns",
-        "ex_zh": "两只小角"
-      },
-      {
-        "en": "record",
-        "zh": "纪录",
-        "def": "the best score anyone has ever done",
-        "ex_en": "a world record",
-        "ex_zh": "世界纪录"
-      }
-    ],
-    "turns": [
-      {
-        "speaker": "Mia",
-        "text": "Hey friends, welcome back! I'm Mia!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "And I'm Lina! It's Tuesday, October thirteenth!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "We have three brand new stories for you today! Are you ready?"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Born ready! Bring them on!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Story one! Two giant space rocks are spinning like crazy!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Like a merry go round?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Even faster! Each one is wider than twenty football fields, and it spins all the way around every five minutes!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Whoa! I would get so dizzy!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Tell me about it! Scientists just found them with a giant telescope in Chile! They spin so fast that they should break into pieces!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "So why do they not fall apart?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Because they are super strong solid rocks! The scientists were totally amazed!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Can I ride one to school?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha! You would fly right off! Spin, spin, spin, and you are gone!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Story two! Scientists found fifty seven brand new animals deep in the ocean!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Fifty seven?! Do they all have names?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "One of them does! A sea cucumber with two little horns, nicknamed Loki!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Loki? Like the troublemaker god?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Exactly! That name is perfect for our word of the day later! Loki lives more than two thousand meters under the sea!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Does it play tricks on the fish down there?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Maybe it waves its little horns and says, look at me!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Story three! A six year old girl solved a Rubik's Cube in about four seconds!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Four seconds?! I can't even find my socks in four seconds!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! I know, right?! Her name is lee-AHN yoon-JUH, from China! And she broke the women's world record! Twice!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Is she a robot?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha! No, she's a real kid! Just like you! A world record means nobody in the whole world has ever done it better!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "I want a world record for eating noodles!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! That is a delicious dream! Maybe start with breakfast first!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Okay! Word of the day! Trickster! A trickster is someone who loves to play tricks and jokes! Like Loki the sea cucumber!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Or like me!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! You said it, not me! Trickster! Say it with us, friends!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Trickster!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Spot on! Say it one more time, super silly!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "TRICK-ster!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha ha! Perfect!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Okay! Tiny challenge time! Here is your mission!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "A mission?! I love missions!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Spin like the super fast asteroids! See how many spins you can do in one minute! And count out loud in English! One! Two! Three!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "And teach someone the word trickster today!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha! Yes! Teach your mom and dad! Ask them to spin with you! The whole family, spinning in circles!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Mom is going to get so dizzy!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Ha ha! That is the fun part!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "That's all for today! Thanks for listening, friends! See you next time! Bye!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Bye! I'm off to spin!"
-      }
-    ]
-  }
+ {
+  "date": "2026-10-10",
+  "title": "小小英文新鲜事 - 1010 | 百年新野猫、金字塔鳄鱼、太空皮卡丘",
+  "word_count": 428,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-10-1.mp3",
+  "stories": [
+   "百年新野猫",
+   "金字塔鳄鱼",
+   "太空皮卡丘"
+  ],
+  "word_of_day": [
+   "fossil",
+   "化石"
+  ],
+  "ending_game": "Lina 的无厘头二选一：抱抱小野猫，还是骑在鳄鱼化石背上？你选哪个？",
+  "turns": [
+   {
+    "speaker": "Mia",
+    "text": "Hey everyone, welcome back! I'm Mia."
+   },
+   {
+    "speaker": "Lina",
+    "text": "And I'm Lina! It's Saturday, October tenth!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "We've got three brand-new stories for you today! All super fresh!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Fresh like my socks? I changed them today!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Even fresher! Story one! Scientists found a brand-new wild cat!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A new cat?! Like my neighbor's cat?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "It LOOKS like a regular house cat! That's the funny part! People in Bolivia saw it for years and thought, oh, just a cute kitty!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Plot twist! It's NOT a kitty?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "It's a whole new species! Called the Tilkayo tiger cat! It has leopard spots! And get this, it's the first new wild cat found in one hundred years!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "One hundred years?! That's older than grandma!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha! Way older! It's tiny, with round ears. So cute! Can you believe it?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Can I have one? Please please please?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "It's wild, sweetie. But here's our word of the day: fossil. A fossil is what's left of an animal or plant from super long ago, turned into rock!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Like dinosaur bones?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Exactly! Say it with us, friends! Fossil!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Fossil!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "I love how you said that! Okay, story two! You know the Great Sphinx in Egypt? The giant lion with a human head?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "The one with no nose?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Yes! Well, scientists found a fossil INSIDE the rock the Sphinx is carved from!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Inside?! Was someone hiding it there?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "It was waiting there for forty-five million years! It's a brand-new species of ancient crocodile with a super long, skinny snout! They named it after Horus, an Egyptian god!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A crocodile god?! Does it wear a crown?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha ha! I love how you think! Maybe a tiny crown!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I knew it!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Okay, last story, and it's my favorite! A Pikachu toy spent sixty-seven days in space!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "WHAT?! Pikachu went to space?!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Yes! It floated around the International Space Station for sixty-seven days! I know, it's amazing!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Did it catch any space Pokémon?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Maybe! And now there's a Pokémon Space Trail at a museum in London, where kids learn about space with Pokémon!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I want to go! Can Pikachu be my teacher?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Best teacher ever! Okay, it's game time!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Ooh, my favorite! Would you rather... cuddle the tiny Tilkayo tiger cat, or ride on the back of the giant fossil crocodile?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Hmm, tough one... I'd cuddle the kitty! Those round ears! What about you, friends? Ask your mom and dad too!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I'd ride the crocodile! Giddy-up, Horus!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! I love it! Amazing choice!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Thanks for hanging out with us! See you next time! Bye!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bye! I'm going to find a fossil!"
+   }
+  ],
+  "vocab": [
+   {
+    "en": "fossil",
+    "zh": "化石",
+    "def": "what's left of an animal or plant from long ago, turned into rock",
+    "ex_en": "a dinosaur fossil",
+    "ex_zh": "恐龙化石"
+   },
+   {
+    "en": "species",
+    "zh": "物种",
+    "def": "a group of animals or plants that are all the same kind",
+    "ex_en": "a new species of wild cat",
+    "ex_zh": "一种新的野猫"
+   },
+   {
+    "en": "snout",
+    "zh": "吻部；动物的鼻子",
+    "def": "the nose and mouth part of an animal",
+    "ex_en": "a crocodile's long snout",
+    "ex_zh": "鳄鱼的长吻"
+   },
+   {
+    "en": "float",
+    "zh": "漂浮",
+    "def": "to stay in the air or on water without falling down",
+    "ex_en": "Pikachu floated in space",
+    "ex_zh": "皮卡丘在太空里漂浮"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-11",
+  "title": "小小英文新鲜事 - 1011 | 猎豹五胞胎、远古水獭、火星伴蜂巢",
+  "word_count": 392,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-11.mp3",
+  "stories": [
+   "猎豹五胞胎",
+   "远古水獭",
+   "火星伴蜂巢"
+  ],
+  "word_of_day": [
+   "cub",
+   "幼崽"
+  ],
+  "ending_game": "谜语时间：有斑点像豹、跑得比汽车快、会喵喵叫，但不是家猫——我是谁？",
+  "vocab": [
+   {
+    "en": "cub",
+    "zh": "幼崽",
+    "def": "a baby animal, like a baby lion or bear",
+    "ex_en": "five cheetah cubs",
+    "ex_zh": "五只猎豹宝宝"
+   },
+   {
+    "en": "pile",
+    "zh": "堆叠",
+    "def": "to put things on top of each other",
+    "ex_en": "they pile up to nap",
+    "ex_zh": "它们堆在一起睡觉"
+   },
+   {
+    "en": "fossil",
+    "zh": "化石",
+    "def": "what's left of an animal or plant from long ago, turned into rock",
+    "ex_en": "a dinosaur fossil",
+    "ex_zh": "恐龙化石"
+   },
+   {
+    "en": "cluster",
+    "zh": "一团；星团",
+    "def": "a group of the same things close together",
+    "ex_en": "a star cluster",
+    "ex_zh": "星团"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": "Mia",
+    "text": "Hey everyone, welcome back! I'm Mia."
+   },
+   {
+    "speaker": "Lina",
+    "text": "And I'm Lina! It's Sunday, October eleventh!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "We've got three amazing stories for you today! Ready?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Ready ready ready! Go go go!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story one! Five baby cheetahs were just born!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Five?! That's a lot of babies!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "I know! At the Smithsonian Zoo! Their mom is named Zura, and it's her first time being a mom!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Is she doing a good job?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "She's doing great! The cubs are so tiny, they pile on top of each other to nap! And you can watch them on a live camera!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A cheetah channel?! I want to watch!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Me too! And here's our word of the day: cub. A cub is a baby animal, like a baby lion, a baby bear, or a baby cheetah!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "So I'm a human cub?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Human babies are just called babies, silly! But I like how you think! Say it with us, friends! Cub!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Cub!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Nailed it! Okay, story two! Scientists found a fossil of an animal that lived with the dinosaurs!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A dinosaur?!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Not quite! It was a mammal, like us! It lived one hundred sixty-five million years ago in China! It looked like a cross between an otter and a beaver!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "An otter-beaver?!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Yes! It swam with its front legs and steered with its flat tail! And get this, it could chew its food AND breathe at the same time!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I can do that! Watch! Nom nom nom!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha ha! Careful, don't choke! Okay, last story! Look up at the sky tonight!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Why? Is something falling?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Mars! The red planet is passing right through a group of stars called the Beehive Cluster!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bees in space?!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Not real bees! It's called the Beehive because the stars look like a swarm of bees! Mars will look like it's sitting right inside it!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Can I see it?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "If the sky is clear, look east before sunrise! Mars is the red one! Can you believe it?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I'm waking up early!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Okay, riddle time!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Ooh! I have spots like a leopard, but I'm not a leopard! I run faster than a car, but I'm not a car! I say meow, but I'm not your house cat! What am I?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Hmm... a cheetah!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "You got it! You're so smart!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Thanks for hanging out with us! See you next time! Bye!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bye! I'm going to watch the cheetah cam!"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-13",
+  "title": "小小英文新鲜事 - 1013 | 转圈小行星、长角海参、6岁魔方纪录",
+  "word_count": 456,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-13.mp3",
+  "stories": [
+   "转圈小行星",
+   "长角海参",
+   "6岁魔方纪录"
+  ],
+  "word_of_day": [
+   "trickster",
+   "捣蛋鬼"
+  ],
+  "ending_game": "小挑战：像小行星一样转圈，一分钟你能转几圈？用英语数出来，再教家人今天的单词 trickster！",
+  "vocab": [
+   {
+    "en": "trickster",
+    "zh": "捣蛋鬼",
+    "def": "a person who loves to play tricks and jokes",
+    "ex_en": "Loki the trickster",
+    "ex_zh": "爱捣蛋的 Loki"
+   },
+   {
+    "en": "spin",
+    "zh": "旋转",
+    "def": "to turn around and around very fast",
+    "ex_en": "the asteroid spins every five minutes",
+    "ex_zh": "小行星每五分钟转一圈"
+   },
+   {
+    "en": "horn",
+    "zh": "角",
+    "def": "a hard pointy part on some animals' heads",
+    "ex_en": "two little horns",
+    "ex_zh": "两只小角"
+   },
+   {
+    "en": "record",
+    "zh": "纪录",
+    "def": "the best score anyone has ever done",
+    "ex_en": "a world record",
+    "ex_zh": "世界纪录"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": "Mia",
+    "text": "Hey friends, welcome back! I'm Mia!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "And I'm Lina! It's Tuesday, October thirteenth!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "We have three brand new stories for you today! Are you ready?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Born ready! Bring them on!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story one! Two giant space rocks are spinning like crazy!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Like a merry go round?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Even faster! Each one is wider than twenty football fields, and it spins all the way around every five minutes!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Whoa! I would get so dizzy!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Tell me about it! Scientists just found them with a giant telescope in Chile! They spin so fast that they should break into pieces!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "So why do they not fall apart?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Because they are super strong solid rocks! The scientists were totally amazed!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Can I ride one to school?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha! You would fly right off! Spin, spin, spin, and you are gone!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story two! Scientists found fifty seven brand new animals deep in the ocean!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Fifty seven?! Do they all have names?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "One of them does! A sea cucumber with two little horns, nicknamed Loki!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Loki? Like the troublemaker god?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Exactly! That name is perfect for our word of the day later! Loki lives more than two thousand meters under the sea!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Does it play tricks on the fish down there?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Maybe it waves its little horns and says, look at me!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story three! A six year old girl solved a Rubik's Cube in about four seconds!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Four seconds?! I can't even find my socks in four seconds!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! I know, right?! Her name is lee-AHN yoon-JUH, from China! And she broke the women's world record! Twice!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Is she a robot?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha! No, she's a real kid! Just like you! A world record means nobody in the whole world has ever done it better!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I want a world record for eating noodles!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! That is a delicious dream! Maybe start with breakfast first!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Okay! Word of the day! Trickster! A trickster is someone who loves to play tricks and jokes! Like Loki the sea cucumber!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Or like me!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! You said it, not me! Trickster! Say it with us, friends!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Trickster!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Spot on! Say it one more time, super silly!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "TRICK-ster!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha ha! Perfect!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Okay! Tiny challenge time! Here is your mission!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A mission?! I love missions!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Spin like the super fast asteroids! See how many spins you can do in one minute! And count out loud in English! One! Two! Three!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "And teach someone the word trickster today!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! Yes! Teach your mom and dad! Ask them to spin with you! The whole family, spinning in circles!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Mom is going to get so dizzy!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha! That is the fun part!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "That's all for today! Thanks for listening, friends! See you next time! Bye!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bye! I'm off to spin!"
+   }
+  ]
+ },
+ {
+  "date": "2026-10-15",
+  "title": "小小英文新鲜事 - 1015 | 超级大南瓜、恐龙蘑菇、火星车纪录",
+  "word_count": 425,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-15.mp3",
+  "stories": [
+   "超级大南瓜",
+   "恐龙蘑菇",
+   "火星车纪录"
+  ],
+  "word_of_day": [
+   "gigantic",
+   "巨大的"
+  ],
+  "ending_game": "二选一：骑在汽车一样大的南瓜上滚下山坡，还是开着机器人小车横穿火星？你选哪个？也问问爸爸妈妈！",
+  "vocab": [
+   {
+    "en": "gigantic",
+    "zh": "巨大的",
+    "def": "really, really, REALLY big",
+    "ex_en": "a gigantic pumpkin",
+    "ex_zh": "巨大的南瓜"
+   },
+   {
+    "en": "weigh",
+    "zh": "重达",
+    "def": "to be how heavy something is",
+    "ex_en": "it weighs three thousand pounds",
+    "ex_zh": "它重达三千磅"
+   },
+   {
+    "en": "fungus",
+    "zh": "真菌",
+    "def": "a living thing like a mushroom, but not a plant",
+    "ex_en": "a giant fungus",
+    "ex_zh": "巨型真菌"
+   },
+   {
+    "en": "rover",
+    "zh": "火星车",
+    "def": "a small robot car that explores new places",
+    "ex_en": "the Mars rover",
+    "ex_zh": "火星车"
+   }
+  ],
+  "turns": [
+   {
+    "speaker": "Mia",
+    "text": "Hey friends, welcome back! I'm Mia!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "And I'm Lina! It's Thursday, October fifteenth!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Three gigantic stories! Ready?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Gigantic? Is that our word of the day?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ooh, sneaky! Maybe it is, maybe it is not! Keep listening!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story one! A gigantic pumpkin! Three thousand one hundred fifty six pounds!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Three thousand?! Heavier than my teacher's car!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Heavier than two whole cows! Ron Wallace grew it in Rhode Island! Weighed on October tenth!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Did it win?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "It smashed the world record! The first pumpkin ever over three thousand pounds! Funny part? One week earlier, a British man's pumpkin named Bagheera broke the record!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bagheera! Like the black panther!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Right?! But Ron's pumpkin was three hundred pounds heavier! Bye bye, Bagheera!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I want to live in it! A pumpkin house!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! With a pumpkin doorbell! Ding dong! Who is at the door?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story two! A mushroom taller than your school ruler!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Can you eat it?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Whoa, not this one! Scientists found it in the forests of Yunnan, China! Over fifty centimeters tall! Almost five pounds!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "As heavy as my cat!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Close! Its nickname is D-rex!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Like T-rex? A dinosaur mushroom?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Yes! Its real name is dee-ah-JOO-nus rex! Huge for a fungus! The mushroom king!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Did a dinosaur plant it?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Oh Lina, only you would ask that! It grew out of fallen wood! But get this! The biggest fungus ever in its giant family, with its own brand new family name!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "The king needs a royal family!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha! All hail the mushroom king!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Story three! A robot car just set a record on Mars!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Who is driving it?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Nobody! NASA's Perseverance rover drives itself!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "A self driving car on another planet?"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Totally! Forty five point two kilometers! The longest drive EVER on another world! Longer than all the Moon cars!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "I want a Mars rock!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Oh, me too! Someday, maybe!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Word of the day! Remember Lina's sneaky question?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Gigantic!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Gigantic! Really, really, REALLY big! Say it with us, friends! Gigantic!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Gigantic!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "One more time! Like a giant monster! Gi-GAN-tic!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Gi-GAN-tic!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ha ha ha! You sound like a true giant!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Would you rather time!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Ooh! My favorite game!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ride a gigantic pumpkin as big as a car down a hill? Or drive a robot car all the way across Mars?"
+   },
+   {
+    "speaker": "Lina",
+    "text": "The pumpkin! I want the pumpkin house on wheels!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "Ooh, of course! Friends, which would YOU pick? Ask your mom and dad too!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "If you pick Mars, bring me back a rock!"
+   },
+   {
+    "speaker": "Mia",
+    "text": "That's all for today! Thanks for listening, friends! Bye!"
+   },
+   {
+    "speaker": "Lina",
+    "text": "Bye! I am off to find a mushroom king!"
+   }
+  ]
+ }
 ]
