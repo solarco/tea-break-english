@@ -1852,5 +1852,222 @@
         "text": "That is our show. Tomorrow, fresh stories, fresh lines, and the result of tonight's N L C S game four. Can the Brewers finish the sweep? See you in the morning."
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "title": "茶水间英文 - 10月16日 | 酿酒人横扫道奇、AI双雄对决、独角兽霸榜",
+    "word_count": 908,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-16.mp3",
+    "hook": "Brewers sweep the Dodgers into the World Series, Anthropic's $16.8B quarter stuns OpenAI, and a creepy unicorn tops Halloween.",
+    "summary": "酿酒人横扫道奇进世界大赛、Anthropic 单季狂揽168亿美元反超 OpenAI、谷歌万圣节装扮榜的瘆人独角兽，还有一道“动物奥运会你家宠物拿什么金牌”的快问。",
+    "topics": [
+      {
+        "name": "酿酒人横扫道奇",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "name": "AI双雄对决",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "name": "独角兽霸榜",
+        "start": 21,
+        "end": 30
+      }
+    ],
+    "quickq": [
+      31,
+      36
+    ],
+    "vocab": [
+      [
+        "sweep",
+        "横扫(系列赛)"
+      ],
+      [
+        "go-ahead homer",
+        "反超比分的本垒打"
+      ],
+      [
+        "chip away",
+        "一点点蚕食领先优势；逐步追分"
+      ],
+      [
+        "slam the door",
+        "关门；彻底终结悬念"
+      ],
+      [
+        "on an adjusted basis",
+        "按调整后口径(计算)"
+      ],
+      [
+        "pull in",
+        "赚得；揽入(收入)"
+      ],
+      [
+        "breakout search",
+        "爆发式搜索热词"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Friday, October sixteenth, and you are listening to Watercooler Chat. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Alex, we have to start with last night, because you promised everyone a result."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I did promise, and Milwaukee delivered. The Brewers beat the Dodgers six to four in Los Angeles last night, and that completes a four game sweep of the N L C S."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A sweep, against the two time defending champs, in their own ballpark. Nobody drew this up."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not at all. And it looked like a Dodger night early. Shohei Ohtani crushed a three run homer in the second inning, his first homer of the entire postseason, and suddenly it was four to nothing, Dodgers."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I saw that swing. A four hundred twenty eight foot blast."
+      },
+      {
+        "speaker": "Alex",
+        "text": "But this Brewers team just chipped away. Two runs in the fourth, two more in the fifth to tie it, and then Garrett Mitchell, who also homered on Wednesday night, launched a go ahead solo shot in the sixth, off Tanner Scott."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And the Dodgers kept knocking on the door and nobody answered. Tying run on third base, one out, in the sixth, the seventh, and the eighth, and they never scored."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The bullpen slammed the door. Then in the ninth, David Hamilton, the number nine hitter with four home runs all regular season, goes deep off Edwin Diaz for insurance. Six to four, ballgame, brooms out."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And the revenge angle: the Dodgers swept Milwaukee in this exact round last year. Now the Brewers return the favor, the first team ever to pull that off."
+      },
+      {
+        "speaker": "Alex",
+        "text": "First trip to the World Series since nineteen eighty two. It starts Friday, October twenty third, against the Rays or the Guardians, and Milwaukee gets home field advantage."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one for your Friday chats: Did you hear the Brewers just swept the Dodgers? Four straight wins, and they are in the World Series for the first time since nineteen eighty two."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Okay, completely different vibe, but the money race in A I just flipped on its head."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You are talking about Anthropic."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I am talking about Anthropic. They just showed investors their numbers ahead of the expected November I P O, and they are wild. Third quarter revenue: sixteen point eight billion dollars, up forty five percent from the second quarter."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Sixteen point eight billion in three months, and profitable on an adjusted basis. Not bad for a company most people had never heard of three years ago."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And Microsoft and Nvidia together committed around fifteen billion dollars, pushing the valuation toward three hundred fifty billion."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Meanwhile OpenAI is having a rough week. Their twenty twenty six revenue estimate just got cut by twenty billion dollars, and they pushed their I P O back to twenty twenty seven."
+      },
+      {
+        "speaker": "Alex",
+        "text": "They still want to raise thirty billion dollars at up to one point five trillion. Nobody is passing a hat around. But the momentum crown has clearly changed heads."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Remember when OpenAI was the unbeatable king? Now Anthropic is setting the pace. What a difference a year makes."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is your line: So apparently Anthropic just pulled in almost seventeen billion dollars in one quarter. The A I money race is getting wild."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Lighter topic: Halloween is two weeks away and Google just dropped its annual costume report."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The Frightgeist list. I wait for this every year. Number one trending costume in America: Buddy the Unicorn."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Explain this to me, because on paper, a unicorn sounds adorable."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not this one. Buddy is the mascot of an indie horror movie, a colorful, deeply unsettling unicorn. It beat every superhero and every princess."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Number two is even funnier. NeeDoh, the squishy stress toy. People are dressing up as a stress ball."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Number three is Nikki, from the horror film Obsession. Wild part: that movie made over five hundred million dollars, but it did not crack the top ten in movie searches. People do not want to watch it. They want to be it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Priorities. Number four is Agamemnon, from Christopher Nolan's The Odyssey. Nothing says spooky season like a Greek king."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The kids list is a whole vibe. Number one: Dolly Parton. Then Shakira, Grogu, and Michael Jackson in his Thriller era. The children have taste."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So with two weeks to go, the internet has spoken. Creepy unicorn it is."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Try this one on a friend: Have you seen Google's Halloween costume list? The number one costume this year is a creepy unicorn from a horror movie."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Random question time. If animals had their own Olympics, which event would your pet win gold in?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "My dog takes gold in competitive speed eating. The bowl hits the floor and it is gone in four seconds. The judges would need slow motion replay."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "My cat dominates the marathon nap. Twenty two hours of sleep, one dramatic stretch, back to sleep. Undefeated since twenty twenty one."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What about synchronized ignoring? When you call their name and they look right through you. That is an art form."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "My cat medals in that too. She invented it. Our pets would sweep the podium, then demand snacks as prize money."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Ask a friend this one today. Everybody has an answer, and everybody thinks their pet is the champion."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is our show. Game four of the A L C S is tonight, so tomorrow we will tell you whether Cleveland is one win away from facing Milwaukee. See you then."
+      },
+      {
+        "speaker": "Alex",
+        "text": "See you tomorrow."
+      }
+    ]
   }
 ]
