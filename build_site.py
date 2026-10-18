@@ -68,11 +68,15 @@ def build():
                 f'<span class="topic-num">{n}</span>{esc(tp["name"])}</div>'
                 f'{turns_html(turns, zhs, tp["start"], tp["end"])}</div>'
             )
-        qlo, qhi = ep["quickq"]
-        quickq_html = (
-            f'<div class="quickq"><div class="quickq-title">🎲 今日快问</div>'
-            f'{turns_html(turns, zhs, qlo, qhi)}</div>'
-        )
+        qq = ep.get("quickq")
+        if qq:
+            qlo, qhi = qq
+            quickq_html = (
+                f'<div class="quickq"><div class="quickq-title">🎲 今日快问</div>'
+                f'{turns_html(turns, zhs, qlo, qhi)}</div>'
+            )
+        else:
+            quickq_html = ""
         vocab_html = "".join(
             f'<li><b>{esc(w)}</b><span>{esc(c)}</span></li>' for w, c in ep["vocab"]
         )
