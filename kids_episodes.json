@@ -1026,5 +1026,201 @@
         "text": "Bye! I am off to vote for Dolly the red panda!"
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "title": "小小英文新鲜事 - 1018 | 海牛坐飞机、歪脖子星球、面条长颈鹿",
+    "word_count": 463,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-18.mp3",
+    "stories": [
+      "海牛坐飞机",
+      "歪脖子星球",
+      "面条长颈鹿"
+    ],
+    "word_of_day": [
+      "lopsided",
+      "歪向一边的"
+    ],
+    "ending_game": "二选一：跟六只啃生菜的海牛宝宝一起坐飞机，还是去歪脖子星球上一边穿泳衣一边穿羽绒服？",
+    "vocab": [
+      {
+        "en": "lopsided",
+        "zh": "歪向一边的",
+        "def": "one side is bigger or higher than the other side",
+        "ex_en": "a lopsided planet",
+        "ex_zh": "歪向一边的星球"
+      },
+      {
+        "en": "manatee",
+        "zh": "海牛",
+        "def": "a big, gentle sea animal that eats plants",
+        "ex_en": "a baby manatee",
+        "ex_zh": "海牛宝宝"
+      },
+      {
+        "en": "atmosphere",
+        "zh": "大气层",
+        "def": "the layer of air around a planet",
+        "ex_en": "a puffy atmosphere",
+        "ex_zh": "蓬松的大气层"
+      },
+      {
+        "en": "journey",
+        "zh": "旅程",
+        "def": "a long trip from one place to another",
+        "ex_en": "a long journey across Australia",
+        "ex_zh": "穿越澳大利亚的长途旅行"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hey friends, welcome back! I'm Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I'm Lina! It's Sunday, October eighteenth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ooh, Sunday! Three fun stories today! Ready?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I was born ready!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! Six baby manatees just took an airplane ride!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Manatees on a plane? Were they the pilots?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! You crack me up! No, they were the passengers! These six babies lost their moms in Florida, and kind people rescued them! One little girl manatee named Celine was only forty eight pounds when she was found! Now she weighs four hundred twenty pounds!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Whoa! That is like eight times bigger!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! On Wednesday, all six flew to Ohio, where two zoos will feed them lots and lots of lettuce until they are strong enough to swim home to Florida!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Lettuce! I want lettuce on my plane too!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I bet the manatees saved you a seat!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! Scientists found a planet that is lopsided!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Lop... what now?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Lopsided! It means one side is bigger than the other side! This planet is called Wasp Seventeen Bee, one thousand three hundred light years away! The James Webb telescope saw that its sky puffs out more on one side, like a lopsided balloon!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Like my lopsided ponytail this morning!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Exactly like that! One side of the planet is scorching hot, and the other side is way cooler! Six hundred fifty degrees apart!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I would pack a swimsuit AND a winter coat!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I love that plan!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! A baby giraffe took a super long road trip! His name is Tambi, and his name means noodle in swa-HEE-lee!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Noodle?! Did his parents name him after lunch?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Maybe! He is one year old, and he traveled three thousand kilometers across Australia, from one zoo to another!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Did he stick his head out the window?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, I would pay to see that! The other giraffes welcomed him on Sunday morning!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Baby noodles everywhere!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha! Word of the day! Lopsided! Lopsided means one side is bigger or higher than the other side! Like planet Wasp Seventeen Bee, puffier on one side! Say it with us, friends! Lopsided!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Lopsided!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time, nice and loud! Lopsided!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "LOPSIDED!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Would you rather time! Would you rather fly on a plane with six baby manatees munching lettuce in the seats next to you?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Ooh!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Or ride the lopsided planet, where one side is super hot and the other side is cool and puffy?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "The manatees! I will share my snacks!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No way! I would pick the lopsided planet! Friends, which would YOU pick? Ask your mom and dad too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Mom always picks the weirdest one!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! That is why we love her! That's all for today! Thanks for listening, friends! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I am off to pack a swimsuit and a winter coat!"
+      }
+    ]
   }
 ]
