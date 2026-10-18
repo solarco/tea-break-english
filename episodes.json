@@ -2290,5 +2290,202 @@
         "text": "Have a great Saturday, and go steal some small talk."
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "title": "茶水间英文 - 10月18日 | 复联4重夺冠军、开源跑不起、星爷1元卖影院",
+    "word_count": 869,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-18.mp3",
+    "hook": "Endgame retakes the box office crown; Meta's free 816B model needs a $40K Mac; Stephen Chow sells cinemas for one dollar.",
+    "summary": "复联4重夺影史票房冠军、卡梅隆画贺图；Meta开源8160亿参数大模型但本地要四万美元Mac；周星驰1港元甩卖内地影院。",
+    "topics": [
+      {
+        "name": "复联4重夺冠军",
+        "start": 3,
+        "end": 11
+      },
+      {
+        "name": "星爷1元卖影院",
+        "start": 12,
+        "end": 19
+      },
+      {
+        "name": "开源跑不起",
+        "start": 20,
+        "end": 25
+      }
+    ],
+    "quickq": [
+      26,
+      30
+    ],
+    "vocab": [
+      [
+        "reclaim the crown",
+        "重夺桂冠；重新登顶"
+      ],
+      [
+        "gracious",
+        "大度的；体面的"
+      ],
+      [
+        "take it in stride",
+        "从容淡定地接受（挫折）"
+      ],
+      [
+        "open weights",
+        "开放权重（模型参数免费下载，但训练数据不公开，不等于完全开源）"
+      ],
+      [
+        "come with strings attached",
+        "附带条件；天下没有免费的午餐"
+      ],
+      [
+        "steep price tag",
+        "高昂的价格"
+      ],
+      [
+        "sell for a song",
+        "贱卖；以极低的价格出售"
+      ],
+      [
+        "bow out",
+        "优雅退出；告别（舞台）"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Sunday, October eighteenth, and this is our weekend edition of Watercooler Chat. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Sundays are for fun stories only, no heavy stuff allowed."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. But first, a quick promise kept. Last night the Tampa Bay Rays beat the Cleveland Guardians seven to three in game four of the A L C S, so the series is tied at two games apiece. Game five is tonight in Cleveland."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Love that. Now onto the fun. Oh, I have to start with this one, because Hollywood just gave us the classiest box office battle ever."
+      },
+      {
+        "speaker": "Alex",
+        "text": "You are talking about Avengers Endgame taking the crown back from Avatar."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I am. The Encore re-release hit theaters on September twenty fifth with a few new scenes, pushing Endgame to about two point nine three billion dollars worldwide, just past Avatar's two point nine two. The crown is Endgame's again."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And the best part is what James Cameron did. The man who just lost the record drew a picture congratulating the winner."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "He posted original artwork of Iron Man standing in a circle of the Na'vi, with a caption that says, you are one of the people. Signed, Jim Cameron."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is gracious. Losing the record and taking it in stride, with original art."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "This is the second time Endgame has taken the record, by the way. The first was back in twenty nineteen. Then Avatar grabbed it back in twenty twenty one with a re-release in China."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It is a whole tradition. Steven Spielberg used to send George Lucas congratulatory notes when Star Wars passed Jaws."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Here is your line for the group chat. Did you hear Avengers Endgame just reclaimed the all time box office crown from Avatar? And James Cameron drew a picture to congratulate them. Total class."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Speaking of movies, the news out of China is the exact opposite mood. The comedy king is bowing out of the cinema business."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You mean Stephen Chow."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I do. His listed company, Bingo Group, announced it is selling its mainland cinema business for one Hong Kong dollar. One dollar. A full exit from running movie theaters in mainland China."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "When a business sells for a song like that, you know it was losing money."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The numbers explain it. Over the past year the unit brought in about two point two five million yuan and lost about one point two million. Its last mainland cinema, in Hangzhou, shut down at the end of September after fifteen years."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the theaters were bleeding money. But here is the twist. The man can still make hits. His movie Kung Fu Soccer topped China's summer box office with about two point three billion yuan."
+      },
+      {
+        "speaker": "Alex",
+        "text": "He can fill the seats, he just cannot run the building. That is honestly poetic."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Try this one on a friend. Did you hear Stephen Chow just sold his mainland cinema business for one Hong Kong dollar? The theaters lost money, but his movies are still breaking records."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Completely different vibe, but Meta just did something wild in the A I world, and it comes with a catch."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Muse Spark Open. Meta released the open weights for free this week. Eight hundred sixteen billion parameters, forty two billion active for each token, a one million token context window, and it takes text, images, video and audio as input."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Built for coding and long agentic tasks. And get this, Meta worked directly with Apple to optimize it, so it can run split across two Mac Studios. Zuckerberg even thanked Apple's chief executive John Ternus publicly, and Ternus replied."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Two companies that spent years sniping at each other, now collaborating. But here is the catch. Open does not mean easy. To run it locally you need about one terabyte of unified memory. That is two top spec Mac Studios, and people estimate the setup carries a steep price tag of more than forty thousand dollars."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Free to download, forty thousand dollars to actually use. And the license has strings attached too. Anything built on it has to say, built with Muse Spark Open, and big companies above twenty million in revenue need a separate deal with Meta."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So it is open, but not quite open. Steal this line. So apparently Meta just gave away its biggest A I model for free. There is just one problem. You need about forty thousand dollars of Macs to run it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Random question time. If you could teleport anywhere on earth for lunch today, and be back by dinner, where are you going?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, easy. Sapporo, Japan, for a steaming bowl of miso ramen. It is freezing there right now, which makes the ramen taste even better."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Solid pick. I am going to Mexico City for street tacos al pastor, straight off the spit. Then I teleport home for a nap."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Of course you add a nap. I would bring the tacos back for you though. Sharing is caring."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Deal. Listeners, steal this one today. Ask a friend where they would teleport for lunch. You will learn everything about their priorities in one answer."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is our weekend edition. Thanks for hanging out with us."
+      },
+      {
+        "speaker": "Alex",
+        "text": "See you tomorrow, everyone. Have a great Sunday."
+      }
+    ]
   }
 ]
