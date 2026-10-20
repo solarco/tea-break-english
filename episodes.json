@@ -2675,8 +2675,8 @@
   },
   {
     "date": "2026-10-20",
-    "title": "茶水间英文 - 10月20日 | AI募资大战、抗癌药降价、世界大赛对阵",
-    "word_count": 795,
+    "title": "茶水间英文 - 10月20日 | AI募资大战、抗癌药降价、社保涨钱",
+    "word_count": 738,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-20.mp3",
     "hook": "Guaranteed first-time champion in the World Series, OpenAI's thirty billion dollar race, and India's big cancer drug price cut",
     "summary": "光芒队七比三拿下第六场晋级世界大赛，对手酿酒人同样从未夺冠，今年注定诞生新王；OpenAI 赶在 Anthropic 上市前紧急融资三百亿美元；印度把抗癌药价格最高砍掉七成。",
@@ -2692,7 +2692,7 @@
         "end": 17
       },
       {
-        "name": "世界大赛对阵",
+        "name": "社保涨钱",
         "start": 18,
         "end": 25
       }
@@ -2715,10 +2715,6 @@
         "不被看好的一方；弱旅"
       ],
       [
-        "first-time champion",
-        "首次夺冠(者)"
-      ],
-      [
         "valuation",
         "估值"
       ],
@@ -2733,6 +2729,14 @@
       [
         "cap",
         "设上限；封顶"
+      ],
+      [
+        "cost-of-living adjustment",
+        "生活成本调整(随物价涨的补贴)"
+      ],
+      [
+        "keep up with inflation",
+        "跟上通胀的步伐"
       ]
     ],
     "turns": [
@@ -2810,35 +2814,35 @@
       },
       {
         "speaker": "Alex",
-        "text": "And to close out, a quick sports note. The Rays closed out the American League Championship Series four games to two, and they will face the Milwaukee Brewers in the World Series starting Friday."
+        "text": "And to close out, some money news that affects seventy six million Americans. Social Security checks are getting their biggest raise in years."
       },
       {
         "speaker": "Jordan",
-        "text": "Here is the crazy part. Neither of these teams has ever won a World Series. Ever."
+        "text": "You are talking about the cost of living adjustment. Three point six percent starting in January."
       },
       {
         "speaker": "Alex",
-        "text": "Right. The Rays have been there twice, in two thousand eight and twenty twenty, and lost both times. The Brewers went once, all the way back in nineteen eighty two, and lost that one too."
+        "text": "Right. That is the biggest bump since twenty twenty three. The average retired worker gets about seventy five dollars more a month."
       },
       {
         "speaker": "Jordan",
-        "text": "So no matter what happens, baseball is getting a brand new champion. It is the first World Series since nineteen eighty where both teams are still hunting their first title."
+        "text": "Seventy five a month does not sound like much, but that is nine hundred dollars a year. And groceries are not getting cheaper."
       },
       {
         "speaker": "Alex",
-        "text": "And get this. A year ago, the Rays were playing home games in a minor league ballpark because a hurricane shredded their stadium roof. Now they are four wins from a championship."
+        "text": "Exactly. And here is the thing. A lot of seniors say it still does not keep up. In an A A R P poll, more than three quarters said the raise would not be enough."
       },
       {
         "speaker": "Jordan",
-        "text": "Talk about a glow up. Junior Caminero broke Game six open with a two run homer, and Freddy Peralta, the deadline pickup from the Mets, took home series M V P."
+        "text": "Because the math is brutal. One in five older Americans has no retirement savings at all. For them, Social Security is the whole plan."
       },
       {
         "speaker": "Alex",
-        "text": "Milwaukee is still the favorite on paper. One hundred three wins, the best record in baseball, fresh off sweeping the defending champion Dodgers. But the Rays have won three straight elimination games, so do not count them out."
+        "text": "The adjustment is tied to inflation from July through September. Prices went up, so checks go up. That is the deal."
       },
       {
         "speaker": "Jordan",
-        "text": "Stealable line for your group chat. Did you hear this year's World Series is guaranteed to have a first time champion? Neither team has ever won it before."
+        "text": "Stealable line. Did you hear Social Security is getting a three point six percent raise next year? Biggest bump since twenty twenty three."
       },
       {
         "speaker": "Alex",
