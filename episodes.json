@@ -2675,31 +2675,31 @@
   },
   {
     "date": "2026-10-20",
-    "title": "茶水间英文 - 10月20日 | 世界大赛首冠、AI募资大战、抗癌药降价",
-    "word_count": 852,
+    "title": "茶水间英文 - 10月20日 | AI募资大战、抗癌药降价、世界大赛对阵",
+    "word_count": 795,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-20.mp3",
     "hook": "Guaranteed first-time champion in the World Series, OpenAI's thirty billion dollar race, and India's big cancer drug price cut",
     "summary": "光芒队七比三拿下第六场晋级世界大赛，对手酿酒人同样从未夺冠，今年注定诞生新王；OpenAI 赶在 Anthropic 上市前紧急融资三百亿美元；印度把抗癌药价格最高砍掉七成。",
     "topics": [
       {
-        "name": "世界大赛首冠",
-        "start": 4,
-        "end": 11
-      },
-      {
         "name": "AI募资大战",
-        "start": 12,
-        "end": 20
+        "start": 3,
+        "end": 10
       },
       {
         "name": "抗癌药降价",
-        "start": 21,
-        "end": 27
+        "start": 11,
+        "end": 17
+      },
+      {
+        "name": "世界大赛对阵",
+        "start": 18,
+        "end": 25
       }
     ],
     "quickq": [
-      28,
-      31
+      26,
+      29
     ],
     "vocab": [
       [
@@ -2742,51 +2742,11 @@
       },
       {
         "speaker": "Jordan",
-        "text": "And I am Jordan. Quick update first, because yesterday we said by this time today we would know whether the Rays are World Series bound."
+        "text": "And I am Jordan."
       },
       {
         "speaker": "Alex",
-        "text": "And now we know. They are. Tampa Bay beat Cleveland seven to three in Game six last night, and the matchup is officially set."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Oh, this one is going to be fun. Let us get into it."
-      },
-      {
-        "speaker": "Alex",
-        "text": "So the Rays closed out the American League Championship Series four games to two, and they will face the Milwaukee Brewers in the World Series, starting Friday, October twenty third, in Milwaukee."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Here is the crazy part. Neither of these teams has ever won a World Series. Ever."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Right. The Rays have been there twice, in two thousand eight and twenty twenty, and lost both times. The Brewers went once, all the way back in nineteen eighty two, and lost that one too."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "So no matter what happens, baseball is getting a brand new champion. It is the first World Series since nineteen eighty where both teams are still hunting their first title."
-      },
-      {
-        "speaker": "Alex",
-        "text": "And get this. A year ago, the Rays were playing home games in a minor league ballpark because a hurricane shredded their stadium roof. Now they are four wins from a championship."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Talk about a glow up. Junior Caminero broke Game six open with a two run homer, and Freddy Peralta, the deadline pickup from the Mets, took home series M V P."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Milwaukee is still the favorite on paper. One hundred three wins, the best record in baseball, fresh off sweeping the defending champion Dodgers. But the Rays have won three straight elimination games, so do not count them out."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Stealable line for your group chat. Did you hear this year's World Series is guaranteed to have a first time champion? Neither team has ever won it before."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Completely different world now. The money race in A I just got even more dramatic."
+        "text": "Starting with the money race in A I, which just got even more dramatic."
       },
       {
         "speaker": "Jordan",
@@ -2822,7 +2782,7 @@
       },
       {
         "speaker": "Jordan",
-        "text": "Last one, and this is good news for a change. India is slashing the prices of more than one hundred cancer drugs."
+        "text": "Next up, and this is good news for a change. India is slashing the prices of more than one hundred cancer drugs."
       },
       {
         "speaker": "Alex",
@@ -2847,6 +2807,38 @@
       {
         "speaker": "Jordan",
         "text": "Steal this one. Did you hear India is cutting cancer drug prices by up to seventy percent? That is a win worth talking about."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And to close out, a quick sports note. The Rays closed out the American League Championship Series four games to two, and they will face the Milwaukee Brewers in the World Series starting Friday."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Here is the crazy part. Neither of these teams has ever won a World Series. Ever."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. The Rays have been there twice, in two thousand eight and twenty twenty, and lost both times. The Brewers went once, all the way back in nineteen eighty two, and lost that one too."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So no matter what happens, baseball is getting a brand new champion. It is the first World Series since nineteen eighty where both teams are still hunting their first title."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And get this. A year ago, the Rays were playing home games in a minor league ballpark because a hurricane shredded their stadium roof. Now they are four wins from a championship."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Talk about a glow up. Junior Caminero broke Game six open with a two run homer, and Freddy Peralta, the deadline pickup from the Mets, took home series M V P."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Milwaukee is still the favorite on paper. One hundred three wins, the best record in baseball, fresh off sweeping the defending champion Dodgers. But the Rays have won three straight elimination games, so do not count them out."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Stealable line for your group chat. Did you hear this year's World Series is guaranteed to have a first time champion? Neither team has ever won it before."
       },
       {
         "speaker": "Alex",
