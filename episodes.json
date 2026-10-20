@@ -2672,5 +2672,206 @@
         "text": "Go talk to people. See you tomorrow."
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "title": "茶水间英文 - 10月20日 | 世界大赛首冠、AI募资大战、抗癌药降价",
+    "word_count": 852,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-20.mp3",
+    "hook": "Guaranteed first-time champion in the World Series, OpenAI's thirty billion dollar race, and India's big cancer drug price cut",
+    "summary": "光芒队七比三拿下第六场晋级世界大赛，对手酿酒人同样从未夺冠，今年注定诞生新王；OpenAI 赶在 Anthropic 上市前紧急融资三百亿美元；印度把抗癌药价格最高砍掉七成。",
+    "topics": [
+      {
+        "name": "世界大赛首冠",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "name": "AI募资大战",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "name": "抗癌药降价",
+        "start": 21,
+        "end": 27
+      }
+    ],
+    "quickq": [
+      28,
+      31
+    ],
+    "vocab": [
+      [
+        "pennant",
+        "联盟冠军(旗)；季后赛冠军"
+      ],
+      [
+        "clinch",
+        "锁定（胜局、冠军）"
+      ],
+      [
+        "underdog",
+        "不被看好的一方；弱旅"
+      ],
+      [
+        "first-time champion",
+        "首次夺冠(者)"
+      ],
+      [
+        "valuation",
+        "估值"
+      ],
+      [
+        "lock in",
+        "锁定（资金、机会）"
+      ],
+      [
+        "trade margin",
+        "流通加价；中间环节利润"
+      ],
+      [
+        "cap",
+        "设上限；封顶"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Tuesday, October twentieth, and this is Watercooler Chat, the podcast that keeps your small talk game strong. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Quick update first, because yesterday we said by this time today we would know whether the Rays are World Series bound."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And now we know. They are. Tampa Bay beat Cleveland seven to three in Game six last night, and the matchup is officially set."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, this one is going to be fun. Let us get into it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So the Rays closed out the American League Championship Series four games to two, and they will face the Milwaukee Brewers in the World Series, starting Friday, October twenty third, in Milwaukee."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Here is the crazy part. Neither of these teams has ever won a World Series. Ever."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. The Rays have been there twice, in two thousand eight and twenty twenty, and lost both times. The Brewers went once, all the way back in nineteen eighty two, and lost that one too."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So no matter what happens, baseball is getting a brand new champion. It is the first World Series since nineteen eighty where both teams are still hunting their first title."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And get this. A year ago, the Rays were playing home games in a minor league ballpark because a hurricane shredded their stadium roof. Now they are four wins from a championship."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Talk about a glow up. Junior Caminero broke Game six open with a two run homer, and Freddy Peralta, the deadline pickup from the Mets, took home series M V P."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Milwaukee is still the favorite on paper. One hundred three wins, the best record in baseball, fresh off sweeping the defending champion Dodgers. But the Rays have won three straight elimination games, so do not count them out."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Stealable line for your group chat. Did you hear this year's World Series is guaranteed to have a first time champion? Neither team has ever won it before."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Completely different world now. The money race in A I just got even more dramatic."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You are talking about OpenAI. Reuters reported yesterday that the company is rushing to lock in a roughly thirty billion dollar funding round, one that could value it at more than one point four trillion dollars."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Why the rush? Because Anthropic, their biggest rival, is expected to make its stock market debut in mid November. OpenAI wants to grab investor money before Anthropic soaks it all up."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "It is a race to the bank. Both labs are knocking on the same investors' doors within weeks of each other, and even SoftBank and some sovereign wealth funds are in the mix."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The numbers are bonkers. OpenAI's annualized revenue is now near seventy billion dollars, up more than seventy percent since the start of the third quarter. Back in March they raised one hundred twenty two billion at an eight hundred fifty two billion dollar valuation."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And CEO Sam Altman already said OpenAI will not go public this year, citing safety concerns, so this round is the bridge to a possible twenty twenty seven listing."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The catch is the timing. Rates are rising, tech stocks are wobbly, and plenty of people are asking whether A I valuations have gone off the rails."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "But when the top two A I labs are both chasing trillion dollar price tags in the same month, somebody clearly thinks the music is not stopping."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Your line to steal. So apparently OpenAI is rushing to raise thirty billion dollars before Anthropic goes public. The A I funding arms race is getting real."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Last one, and this is good news for a change. India is slashing the prices of more than one hundred cancer drugs."
+      },
+      {
+        "speaker": "Alex",
+        "text": "More than one hundred? Tell me more."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The drug price regulator there capped trade margins at thirty percent on one hundred thirty seven anti cancer drugs. Prices could fall by up to seventy percent starting November ninth."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is life changing for families. Cancer treatment is crushingly expensive everywhere."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Exactly. It covers immunotherapy for more than twenty types of cancer, plus drugs for breast, prostate, colon, ovarian, and cervical cancers. And in twenty nineteen, India did this with forty two cancer drugs, and some fell by up to ninety percent."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The government estimates savings of around two hundred sixty million dollars a year. That is real money back in people's pockets."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. Did you hear India is cutting cancer drug prices by up to seventy percent? That is a win worth talking about."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And now, the random question of the day. If your fridge could only stock three foods for the rest of the year, what are you picking?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Only three? Brutal. Eggs, rice, and hot sauce. A thousand combinations, one very happy me."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is not a fridge, that is a survival kit. I am going with dumplings, mangoes, and cheese. Breakfast, dessert, and midnight snack, all covered."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Listeners, steal this question and ask a friend today. Their answers will tell you everything about them."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is it for today. Go talk to people, and we will see you tomorrow."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Bye everyone."
+      }
+    ]
   }
 ]
