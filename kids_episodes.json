@@ -1226,7 +1226,7 @@
   {
     "date": "2026-10-20",
     "title": "小小英文新鲜事 - 1020 | 彗星跳绳、面条海虫、长毛蜗牛",
-    "word_count": 451,
+    "word_count": 424,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-20.mp3",
     "stories": [
       "彗星跳绳",
@@ -1395,11 +1395,11 @@
       },
       {
         "speaker": "Mia",
-        "text": "That's all for today! Thanks for listening, friends! Bye!"
+        "text": "That is all for today! Thanks for listening, friends! See you next time!"
       },
       {
         "speaker": "Lina",
-        "text": "Bye! I'm going to jump rope like a comet!"
+        "text": "Bye bye! I am going to jump rope like a comet!"
       }
     ]
   }
