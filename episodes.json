@@ -2703,16 +2703,20 @@
     ],
     "vocab": [
       [
-        "pennant",
-        "联盟冠军(旗)；季后赛冠军"
+        "keep up",
+        "跟上；\"it does not keep up\" = 跟不上（物价/涨幅）"
       ],
       [
-        "clinch",
-        "锁定（胜局、冠军）"
+        "retirement savings",
+        "退休储蓄"
       ],
       [
-        "underdog",
-        "不被看好的一方；弱旅"
+        "the math is brutal",
+        "账算下来很残酷；现实很骨感"
+      ],
+      [
+        "cost-of-living adjustment",
+        "生活成本调整(随物价涨的补贴)"
       ],
       [
         "valuation",
@@ -2729,14 +2733,6 @@
       [
         "cap",
         "设上限；封顶"
-      ],
-      [
-        "cost-of-living adjustment",
-        "生活成本调整(随物价涨的补贴)"
-      ],
-      [
-        "keep up with inflation",
-        "跟上通胀的步伐"
       ]
     ],
     "turns": [
