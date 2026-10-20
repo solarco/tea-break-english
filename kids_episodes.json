@@ -1222,5 +1222,185 @@
         "text": "Bye! I am off to pack snacks for the manatees!"
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "title": "小小英文新鲜事 - 1020 | 彗星跳绳、面条海虫、长毛蜗牛",
+    "word_count": 451,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-20.mp3",
+    "stories": [
+      "彗星跳绳",
+      "面条海虫",
+      "长毛蜗牛"
+    ],
+    "word_of_day": [
+      "amber",
+      "琥珀"
+    ],
+    "ending_game": "猜谜时间：我是脏兮兮的大雪球、拖着闪亮的尾巴，从太阳系头顶飞过，几千年才拜访一次太阳——我是谁？",
+    "vocab": [
+      {
+        "en": "amber",
+        "zh": "琥珀",
+        "def": "golden, hard tree sap that can trap tiny animals for millions of years",
+        "ex_en": "a piece of amber",
+        "ex_zh": "一块琥珀"
+      },
+      {
+        "en": "comet",
+        "zh": "彗星",
+        "def": "a giant snowball in space with a sparkly tail",
+        "ex_en": "a new comet",
+        "ex_zh": "一颗新彗星"
+      },
+      {
+        "en": "tentacle",
+        "zh": "触角",
+        "def": "a long, bendy arm some sea animals use to grab food",
+        "ex_en": "spaghetti-like tentacles",
+        "ex_zh": "像面条一样的触角"
+      },
+      {
+        "en": "orbit",
+        "zh": "轨道",
+        "def": "the path one thing travels around another thing in space",
+        "ex_en": "the comet's orbit",
+        "ex_zh": "这颗彗星的轨道"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hey friends, welcome back! I'm Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I'm Lina! It's Tuesday, October twentieth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three brand new stories! Are you ready?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I woke up ready!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! A sneaky new comet was found in space!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Sneaky? Was it hiding?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It was hiding above the solar system! The Euclid telescope takes pictures of faraway galaxies, and this comet photo bombed one of its pictures! It is flying way over the top of the sun and the planets, like a jump rope over all of them!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A comet jumping rope! Ten jumps in a row?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Okay, that one got me! It takes this comet thousands of years to go around the sun once! It is one point three billion kilometers away, past Jupiter!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hi, faraway comet! I see you!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! New sea worms that look like walking spaghetti!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Spaghetti that can walk? With meatballs?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No meatballs! These worms live deep down in the Indian Ocean! They have long noodle arms called tentacles to grab food, and tiny suction cups to stick to rocks!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Sticky feet! Like the sticky hands from the toy store!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Whoa, whoa, whoa! Yes! Just like those! The suction cups help them hold on!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I keep one in the bathtub?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You would, wouldn't you! They belong in the deep sea, not the bathtub!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! A hairy snail, stuck in golden tree goo for ninety nine million years!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A snail with HAIR? Like a tiny grandpa?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is pure genius, and also pure silliness! When dinosaurs walked the earth, this little snail crawled through sticky tree sap, got stuck, and the sap turned hard and golden! Now it is amber, and we can still see the snail's hair!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Does it have a tiny comb for its tiny hair?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Okay, I did NOT see that coming! No comb! But its hair helped it feel the world!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Amber! Amber is golden, hard tree sap that can trap tiny animals for millions of years! Say it with us, friends! Amber!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Amber!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Louder! AMBER!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "AMBER!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it, little explorer! And you too, friends!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Riddle time! I am a giant dirty snowball with a sparkly tail! I fly over the top of the solar system, and I take thousands of years to visit the sun! What am I?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hmm... a snowman in space?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Now THAT is a plan, but no! Friends, shout the answer! A comet!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A comet!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That's all for today! Thanks for listening, friends! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I'm going to jump rope like a comet!"
+      }
+    ]
   }
 ]
