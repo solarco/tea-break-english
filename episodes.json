@@ -2865,5 +2865,182 @@
         "text": "Bye everyone."
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "title": "茶水间英文 - 10月21日 | 美国人获释、机器人当家、巨石强森变样",
+    "word_count": 784,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-21.mp3",
+    "hook": "Russia frees a detained teacher, NVIDIA says robot moment is near, and The Rock goes gray.",
+    "summary": "俄罗斯释放被羁押四年多的73岁美国教师斯蒂芬·哈伯德；英伟达在柏林发布机器人大动作，黄仁勋说'机器人的 ChatGPT 时刻快到了'；巨石强森扮成七十岁'鸡佬'为新片出镜，认不出本人。",
+    "topics": [
+      {
+        "name": "美国人获释",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "name": "机器人当家",
+        "start": 7,
+        "end": 12
+      },
+      {
+        "name": "巨石强森变样",
+        "start": 13,
+        "end": 19
+      }
+    ],
+    "quickq": [
+      20,
+      26
+    ],
+    "vocab": [
+      [
+        "wrongfully detained",
+        "错误拘押；被不当羁押的"
+      ],
+      [
+        "swap",
+        "交换（用作名词时指换囚）"
+      ],
+      [
+        "humanoid",
+        "人形机器人"
+      ],
+      [
+        "tactile",
+        "触觉的"
+      ],
+      [
+        "chief executive",
+        "首席执行官"
+      ],
+      [
+        "unrecognizable",
+        "认不出来的、面目全非的"
+      ],
+      [
+        "prosthetic makeup",
+        "特效假体化妆"
+      ],
+      [
+        "geriatric",
+        "老年的、高龄的"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Wednesday, October twenty first, and this is Watercooler Chat, the podcast that keeps your small talk game strong. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. We start today with some rare good news on the diplomatic front."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Russia has released Stephen Hubbard, a seventy three year old retired American teacher who had been held there for more than four years."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "His story is wild. Hubbard was living in Ukraine in February twenty twenty two when Russia invaded. He was captured, and later sentenced to nearly seven years after being convicted of fighting as a mercenary. The United States government said he was wrongfully detained."
+      },
+      {
+        "speaker": "Alex",
+        "text": "President Donald Trump announced the release today, and said the seventy three year old is now on his way home to his family. Russia says he was at an airport in Saint Petersburg, where the American envoy Steve Witkoff happened to be holding talks."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And here is the detail everyone is quoting. Trump said the United States made no swap or trade for the release. Four plus years in detention, and he is just walking free."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is the kind of news everybody will be talking about at lunch today. Stealable line. Did you hear Russia released an American teacher who had been locked up for more than four years? He is seventy three, and now he is finally going home."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "From people coming home to machines going to work. NVIDIA just dropped a big robotics announcement in Berlin."
+      },
+      {
+        "speaker": "Alex",
+        "text": "This is fun. At its G T C conference, NVIDIA said the ChatGPT moment for robotics is fast approaching. Their words, not mine."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "They rolled out an expanded Isaac robotics platform, new simulation tools, and a reference humanoid robot called Agile ONE S N. It stands about four and a half feet tall, weighs eighty eight pounds, and has thirty one moving joints, with five finger hands that can actually feel what they touch."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Jensen Huang, the NVIDIA chief executive, said developers now have everything they need to bring physical A I to the world biggest industries. Basically, they want building a robot to feel as easy as building an app."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The internet wants a robot that does the dishes, but the real money is warehouses and factories first. Still, a small robot with tactile hands is a solid cocktail party topic."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Your line to steal. So apparently NVIDIA says the ChatGPT moment for robots is almost here. Your next coworker might have thirty one joints."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, plot twist. Let us talk about a movie star. Dwayne Johnson has broken the internet with new photos, and nobody can tell it is him."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I saw those. He is filming a new movie called Lizard Music in Brooklyn, and he is playing a seventy year old man nicknamed the Chicken Man. Gray hair, gray stubble, a tan bucket hat, a beige coat, and he is holding a slice of pizza."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The transformation is all prosthetic makeup, done by Kazu Hiro, the same artist who recently turned Tom Cruise into a geriatric oil baron for a movie called Digger."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It is Johnson second team up with director Benny Safdie, after last year Smashing Machine, where he already shed thirty pounds of muscle. This one is a total genre flip though, a whimsical family fantasy based on a children book by Daniel Pinkwater."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The plot sounds bonkers. A young boy discovers lizards playing music on late night T V, then befriends this eccentric old man and his eighty five year old chicken named Claudia. Yes, the chicken has a name."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Co starring Rachel McAdams, Jeff Goldblum, Colman Domingo, and Alicia Silverstone. It hits theaters on Christmas Day, twenty twenty seven."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Stealable line for tonight. Did you see the new photos of Dwayne Johnson? Gray hair and a bucket hat. He looks like somebody grandpa, and nobody can tell it is The Rock."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And now, the random question of the day. If your pet could send you one text message a day, what would it say?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, my cat would be very transactional. Food bowl. Half empty. Fix it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "My dog would be a group chat menace. Hey, I am bored, lets go to the park. Now. Bring treats. Also I ate your sandwich."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I think the cat version would be, I knocked something off the table. You are welcome."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And the dog would follow up with, do not listen to the cat, he is dramatic, park time?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "One text a day, and they would still use it to roast us. That is unconditional love, I guess."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Ask a friend this one tonight. It is a guaranteed conversation starter."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is it for today. Go talk to people, and we will see you tomorrow."
+      }
+    ]
   }
 ]
