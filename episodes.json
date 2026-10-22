@@ -3042,5 +3042,190 @@
         "text": "That is it for today. Go talk to people, and we will see you tomorrow."
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "title": "茶水间英文 - 10月22日 | 特斯拉利润暴跌、AI代理找上门、世界大赛新王",
+    "word_count": 792,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-22.mp3",
+    "hook": "Tesla's profits plunge, Anthropic's new agent texts you first, and the World Series crowns a first-time champion.",
+    "summary": "特斯拉三季报超预期、股价却下跌，机器人出租车时间表推迟到2027年；Anthropic 发布主动式 AI 代理 Claude Duet，会先给你发消息；周五世界大赛第一战，光芒对酿酒人，铁定诞生一位新冠军。",
+    "topics": [
+      {
+        "name": "特斯拉利润暴跌",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "name": "AI代理找上门",
+        "start": 9,
+        "end": 15
+      },
+      {
+        "name": "世界大赛新王",
+        "start": 16,
+        "end": 21
+      }
+    ],
+    "quickq": [
+      22,
+      27
+    ],
+    "vocab": [
+      [
+        "beat expectations",
+        "超出预期"
+      ],
+      [
+        "the fine print",
+        "条款细则；藏着坏消息的细节"
+      ],
+      [
+        "the word on the street",
+        "小道消息；大家都在说"
+      ],
+      [
+        "trust pitch",
+        "信任卖点；说服人信赖的说法"
+      ],
+      [
+        "head to head",
+        "正面对决"
+      ],
+      [
+        "lights out",
+        "（俚语）表现炸裂、无敌"
+      ],
+      [
+        "a duel of aces",
+        "王牌对决"
+      ],
+      [
+        "guilt free",
+        "没有负罪感的"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Morning, everyone. It is Thursday, October twenty two, and you know the drill. Fresh stories, stealable lines, zero awkward silence at lunch."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "We are Alex and Jordan, and we are about to load up your small talk game. Let us start with the biggest business story of the week."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So, Tesla. Third quarter results came out yesterday after the closing bell. Revenue was twenty eight billion dollars, basically flat. Earnings per share beat expectations. And yet, the stock fell in after hours trading."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Beat on the headline, fell on the fine print. Profits dropped forty three percent. And on the earnings call, Tesla pushed back the timelines everyone was waiting for. Unsupervised customer cars? Noticeable robotaxi revenue? Not until around the second quarter of next year."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And the humanoid robot, Optimus? Outside sales are not expected until around the end of next year. The word on the street is that Wall Street wanted robotaxi money sooner, and the message was, patience, my friends."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Tariffs bit them hard, too. More than four hundred million dollars in extra costs from tariffs on imported auto parts in this quarter alone."
+      },
+      {
+        "speaker": "Alex",
+        "text": "One executive said they are trying to get the steering wheel free Cybercab to customers by the end of this year. And they have begun serial production of the Cybercab, which is supposed to cost under thirty thousand dollars."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Big dreams, thin margins. For now, Tesla is still mostly a car company paying car company bills."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Stealable line for today. So apparently Tesla beat earnings and the stock still fell, because everyone wanted robotaxis, and got a later delivery date instead."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Completely different corner of the robot world, but the robot theme continues. Anthropic launched something called Claude Duet on Tuesday. It is a proactive A I agent, and it is going head to head with Meta's Muse and OpenAI's Dots."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right, so this is the new battleground. Not which chatbot answers best, but which agent lives on your phone and actually does things while you are busy. Duet connects to your apps, gives you a morning briefing, watches your calendar and inbox, and pings you only when something really needs your attention."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Like a colleague who checks in, instead of a chatbot that waits for you to type."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And here is their trust pitch. Before Duet does anything sensitive, like spending money or deleting something, it asks you first. It even has defenses so it will not leak your credit card number or fall for hidden instructions."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "It runs on their Opus five point five model."
+      },
+      {
+        "speaker": "Alex",
+        "text": "What gets me is the timing. Meta's Muse hit number one on the App Store within two weeks of launch, and Mark Zuckerberg just said more than ten million people in the United States and Canada have set up Muse personal agents. OpenAI shipped Dots just three weeks ago. Anthropic is the last of the big labs to enter the race, and now everyone is sprinting."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Stealable line. So apparently the new A I status symbol is not a smarter chatbot, it is an agent that texts you first."
+      },
+      {
+        "speaker": "Alex",
+        "text": "All right, totally different energy. Friday night, Milwaukee, game one of the World Series."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Here is the fun part. Neither team has ever won it. The Brewers have not reached the Fall Classic since nineteen eighty two. The Rays have never won the whole thing. A first time champion is guaranteed."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The matchup is a duel of aces. Jacob Misiorowski for Milwaukee, the favorite for the National League Cy Young award, with a regular season earned run average of one point eight. Against Drew Rasmussen for Tampa, two point six seven, and he has been lights out in the playoffs."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The Brewers had a full week off after sweeping the Dodgers, so they could set up their whole pitching plan. The Rays only had three days off after coming back from two games to one down against the Guardians."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Eight P M Eastern, Fox, Friday night. Popcorn ready."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Stealable line. Did you hear the World Series starts Friday, and neither team has ever won it? Someone is making history either way."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Time for our random question. If every day secretly had a twenty fifth hour that only you knew about, how would you spend it?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Napping. One guilt free hour of sleep, no phone, no messages."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Waste of a secret superpower. I would eat snacks and watch shows while the world is frozen."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You would binge eat in secret time?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Absolutely. Zero guilt, emotionally. And read all the books I keep starting and never finishing."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, that is actually better than my nap. Ask a friend today. What is your twenty fifth hour for?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is it for today. Go talk to people."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And we will see you tomorrow."
+      }
+    ]
   }
 ]
