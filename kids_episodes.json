@@ -1405,12 +1405,12 @@
   },
   {
     "date": "2026-10-22",
-    "title": "小小英文新鲜事 - 1022 | 毒猴现身、太空幽灵、翻筋斗蛇",
-    "word_count": 442,
+    "title": "小小英文新鲜事 - 1022 | 毒猴现身、小飞象章鱼、翻筋斗蛇",
+    "word_count": 501,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-22.mp3",
     "stories": [
       "毒猴现身",
-      "太空幽灵",
+      "小飞象章鱼",
       "翻筋斗蛇"
     ],
     "word_of_day": [
@@ -1441,11 +1441,11 @@
         "ex_zh": "一只困困的懒猴"
       },
       {
-        "en": "filter",
-        "zh": "滤镜",
-        "def": "a special tool that only lets some light through",
-        "ex_en": "a magic filter",
-        "ex_zh": "魔法滤镜"
+        "en": "flap",
+        "zh": "拍打；垂瓣",
+        "def": "a flat piece that moves up and down",
+        "ex_en": "ear flaps",
+        "ex_zh": "垂耳鳍"
       }
     ],
     "turns": [
@@ -1507,39 +1507,43 @@
       },
       {
         "speaker": "Mia",
-        "text": "Story two! Scientists found three brand new ghosts in space!"
+        "text": "Story two! Deep sea scientists just met the cutest octopus ever!"
       },
       {
         "speaker": "Lina",
-        "text": "Real ghosts? Boo!"
+        "text": "An octopus? Does it have eight arms for hugging?"
       },
       {
         "speaker": "Mia",
-        "text": "Space ghosts! They are big blue clouds near a star family called cass ee oh PEE uh!"
+        "text": "Eight arms, and two floppy ear flaps! It is called a Dumbo octopus, because its flaps look like Dumbo the elephant ears!"
       },
       {
         "speaker": "Lina",
-        "text": "Cass ee oh PEE uh! Gesundheit!"
+        "text": "An octopus with elephant ears? That is silly!"
       },
       {
         "speaker": "Mia",
-        "text": "Bless you! It took one hundred hours of watching the sky to spot them!"
+        "text": "I know, right? Scientists were exploring a deep sea mountain near Palau, and this little guy just bopped into view! One scientist said, I am shaking, I am so excited!"
       },
       {
         "speaker": "Lina",
-        "text": "One hundred hours? My eyes would fall off!"
+        "text": "I would shake too! Was it tiny?"
       },
       {
         "speaker": "Mia",
-        "text": "Mine too! They used a special filter, like magic glasses, and the ghosts turned blue!"
+        "text": "Super tiny and super rare! They live way down deep where it is dark and cold. Most people never ever see one!"
       },
       {
         "speaker": "Lina",
-        "text": "Can the ghosts see me?"
+        "text": "Lucky scientists! Can I keep one as a pet?"
       },
       {
         "speaker": "Mia",
-        "text": "No way, they are much too far! They are clouds of gas, millions of miles away!"
+        "text": "Ha! They need the deep dark sea to be happy. But we can draw one! Eight arms, two floppy ears, big smile!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I am drawing mine with a crown! The queen of the deep sea!"
       },
       {
         "speaker": "Mia",
