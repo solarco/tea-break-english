@@ -3045,8 +3045,8 @@
   },
   {
     "date": "2026-10-22",
-    "title": "茶水间英文 - 10月22日 | 特斯拉利润暴跌、AI代理找上门、千年骸骨之谜",
-    "word_count": 778,
+    "title": "茶水间英文 - 10月22日 | 特斯拉利润暴跌、AI代理找上门、日本奔向火星卫星",
+    "word_count": 792,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-22.mp3",
     "hook": "Tesla's profits plunge, Anthropic's new agent texts you first, and the World Series crowns a first-time champion.",
     "summary": "特斯拉三季报超预期、股价却下跌，机器人出租车时间表推迟到2027年；Anthropic 发布主动式 AI 代理 Claude Duet，会先给你发消息；周五世界大赛第一战，光芒对酿酒人，铁定诞生一位新冠军。",
@@ -3062,7 +3062,7 @@
         "end": 15
       },
       {
-        "name": "千年骸骨之谜",
+        "name": "日本奔向火星卫星",
         "start": 16,
         "end": 21
       }
@@ -3089,16 +3089,16 @@
         "信任卖点；说服人信赖的说法"
       ],
       [
-        "sarcophagus",
-        "石棺"
+        "sample return",
+        "采样返回"
       ],
       [
-        "radiocarbon dating",
-        "放射性碳定年"
+        "Martian moon",
+        "火星卫星"
       ],
       [
-        "abbot",
-        "修道院长"
+        "lift off",
+        "（火箭）发射升空"
       ],
       [
         "guilt free",
@@ -3172,27 +3172,27 @@
       },
       {
         "speaker": "Alex",
-        "text": "All right, totally different energy. A thousand year old mystery just got solved in London."
+        "text": "All right, totally different energy. Japan just launched a world first mission to the moons of Mars."
       },
       {
         "speaker": "Jordan",
-        "text": "You are talking about Westminster Abbey. A Roman stone coffin there turned out to hold a medieval skeleton."
+        "text": "You are talking about MMX. The Martian Moons eXploration mission lifted off on October twentieth from Tanegashima Space Center."
       },
       {
         "speaker": "Alex",
-        "text": "Here is the twist. The coffin was made for a Roman named Valerius Amandinus in the fourth century. But radiocarbon dating says the bones inside are from between nine eighty seven and ten fifty two."
+        "text": "This is the big one. No spacecraft has ever landed on a Martian moon and brought a piece of it home. MMX will spend three years studying Phobos, then grab at least ten grams of its soil and fly it back to Earth."
       },
       {
         "speaker": "Jordan",
-        "text": "So about seven hundred years later, somebody reused the coffin. And not just anybody. The lid was remodeled with a big Christian cross. Researchers say the man was probably an abbot."
+        "text": "The sample lands in Australia in twenty thirty one. And it is a team effort. NASA, the French space agency, the German Aerospace Center, and the European Space Agency are all on board."
       },
       {
         "speaker": "Alex",
-        "text": "They have two candidates. Abbot Aelfwig, who died around ten twenty, or his successor Wulnoth, who died in ten forty nine. The man was about five foot nine and between thirty five and forty nine when he died."
+        "text": "The science question is huge. Nobody knows if Phobos is a captured asteroid or debris from a giant collision with Mars. Ten grams of dirt could answer how the whole Martian system was born."
       },
       {
         "speaker": "Jordan",
-        "text": "Stealable line. Did you hear they found a medieval abbot in a Roman coffin at Westminster Abbey? Talk about recycling."
+        "text": "Stealable line. Did you hear Japan launched a mission to bring home dirt from a Martian moon? Ten grams, five years, one giant question answered."
       },
       {
         "speaker": "Alex",
