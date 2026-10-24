@@ -1610,5 +1610,221 @@
         "text": "Bye bye! I am going to cartwheel to the kitchen!"
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "小小英文新鲜事 - 1024 | 百年新猫、变色虾眼、深海巨虫",
+    "word_count": 511,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-24.mp3",
+    "stories": [
+      "百年新猫",
+      "变色虾眼",
+      "深海巨虫"
+    ],
+    "word_of_day": [
+      "rosette",
+      "玫瑰斑点"
+    ],
+    "ending_game": "二选一：想要能看到秘密颜色的螳螂虾眼睛，还是像新小猫一样满身玫瑰斑点的外套？快和爸爸妈妈一起选边站！",
+    "vocab": [
+      {
+        "en": "rosette",
+        "zh": "玫瑰斑点",
+        "def": "a spot shaped like a little rose",
+        "ex_en": "a coat covered in rosettes",
+        "ex_zh": "一身玫瑰斑点"
+      },
+      {
+        "en": "colossal",
+        "zh": "巨大的",
+        "def": "really, really big",
+        "ex_en": "a colossal giant",
+        "ex_zh": "超级大块头"
+      },
+      {
+        "en": "isopod",
+        "zh": "深海巨虫",
+        "def": "a sea animal with a hard shell that looks like a giant woodlouse",
+        "ex_en": "a giant isopod",
+        "ex_zh": "一只深海巨虫"
+      },
+      {
+        "en": "cloud forest",
+        "zh": "云雾森林",
+        "def": "a forest high up where clouds drift through the trees",
+        "ex_en": "in the cloud forest",
+        "ex_zh": "在云雾森林里"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hey friends, welcome back to Little English News! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Saturday, October twenty-fourth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three brand new stories today!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "My ears are wide open! What is first?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! Scientists just met a brand new cat!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A brand new cat? Did it just appear out of nowhere?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! It hid in the cloud forests of Bolivia all along, the first new cat species in more than one hundred years!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A champion hider! How big is it?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Tiny! Only about eighteen inches long and about three pounds!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I keep one in my pocket?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Whoa, hold on! Wild cats are for looking, not touching! Look at its coat! Light brown fur covered in rosettes!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Rosettes? Like little roses on its fur?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Spot on! A rosette is a spot shaped like a little rose! Say it with me, till-KY-oh! That is its special name!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Till-KY-oh! That sounds like a tiny drumbeat!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! You always catch the funniest part!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! A shrimp with superpower eyes!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A shrimp? With superpowers? Does it fly?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not fly, but see! This mantis shrimp sees colors we cannot even imagine! Its eyes work like a light switch! One color turns it on, another turns it off!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So its eyes go click clack, click clack?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Click clack, exactly! Four of its color catchers can flip back and forth like switches!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I borrow those eyes for hide and seek?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, that is a brilliant way to put it! With those eyes, nobody could ever hide from you!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! A giant sea bug was hiding in a museum!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A bug? In a museum? Was it on vacation?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! On a shelf! Scientists in Germany opened an old museum drawer and found a giant isopod from Puerto Rico, sitting there since the nineteen eighties under the wrong name!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A giant bug with the wrong name tag? Poor guy!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Poor guy indeed! Then scientists took a super close look, and surprise! A brand new species!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "How giant is giant? As big as my backpack?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Almost! Almost thirteen inches long! It lives deep down in the dark sea, and it looks like a giant woodlouse!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A giant roly poly of the deep sea! Does it roll into a ball?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is such a Lina idea! Scientists call super big ones colossal giants!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Colossal! That means REALLY REALLY big!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "REALLY REALLY big, you said it!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Rosette! A rosette is a spot shaped like a little rose! Say it with us, friends! Rosette!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Rosette!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Louder! ROSETTE!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "ROSETTE!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Boom, yes! You sounded like true cat scientists! And you too, friends!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Would you rather time! Would you rather have mantis shrimp eyes that can see secret colors, or a coat covered in rosettes like the tiny new cat?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Secret colors! I want to see secret colors! What about you, friends? Ask your mom and dad too! Which side are you on?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Team secret colors, or team rosette coat? Thanks for listening, friends! See you next time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye bye! I am drawing my rosette cat!"
+      }
+    ]
   }
 ]
