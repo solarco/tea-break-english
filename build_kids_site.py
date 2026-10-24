@@ -91,7 +91,6 @@ def build():
       <h2>🦁 {esc(ep['title'])}</h2>
       <div class="meta">{ep['date']} · 全文 {ep['word_count']} 词</div>
       <div class="stories"><b>📖 今天的三个新鲜事</b><ul>{stories_html}</ul></div>
-      {photos_html}
       {audio}
       <div class="wordcard"><div class="wordcard-title">📖 Word of the day</div>
         <div class="wordcard-word">{esc(w_en)}<span>（{esc(w_zh)}）</span></div></div>
@@ -101,6 +100,7 @@ def build():
         <summary>📄 中英对照文字稿（跟读用）</summary>
         <div class="transcript">{turns_html(turns, zhs)}</div>
       </details>
+      {photos_html}
       {vocab_html}
     </article>"""
         data.append({"date": ep["date"], "row": row, "detail": detail})
