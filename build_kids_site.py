@@ -71,6 +71,14 @@ def build():
             else f'<div class="no-audio">音频请在小宇宙 App 内收听 '
             f'<a href="{PODCAST_URL}" target="_blank">去小宇宙 &gt;</a></div>'
         )
+        photos_html = ""
+        if ep.get("photos"):
+            items = "".join(
+                f'<figure class="photo"><img src="{esc(p["url"])}" alt="{esc(p["story"])}" loading="lazy">'
+                f'<figcaption>📷 {esc(p["story"])}<span class="photo-credit">{esc(p["credit"])}</span></figcaption></figure>'
+                for p in ep["photos"]
+            )
+            photos_html = f'<div class="photos"><div class="photos-title">📸 本期真实照片</div>{items}</div>'
         row = (
             f'<div class="ep-row" data-date="{ep["date"]}">'
             f'<div class="ep-row-title">{esc(ep["title"])}</div>'
@@ -83,6 +91,7 @@ def build():
       <h2>🦁 {esc(ep['title'])}</h2>
       <div class="meta">{ep['date']} · 全文 {ep['word_count']} 词</div>
       <div class="stories"><b>📖 今天的三个新鲜事</b><ul>{stories_html}</ul></div>
+      {photos_html}
       {audio}
       <div class="wordcard"><div class="wordcard-title">📖 Word of the day</div>
         <div class="wordcard-word">{esc(w_en)}<span>（{esc(w_zh)}）</span></div></div>
@@ -135,6 +144,12 @@ def build():
              font-size: 14px; margin-bottom: 12px; }
   .stories b { color: #e8590c; }
   .stories ul { margin: 6px 0 0 18px; }
+  .photos { margin-bottom: 12px; }
+  .photos-title { font-size: 14px; font-weight: 700; color: #e8590c; margin-bottom: 8px; }
+  .photo { margin-bottom: 14px; }
+  .photo img { width: 100%; max-width: 600px; border-radius: 14px; display: block; }
+  .photo figcaption { font-size: 13px; color: #666; margin-top: 4px; }
+  .photo-credit { display: block; font-size: 11px; color: #aaa; }
   audio { width: 100%; margin-bottom: 6px; }
   .no-audio { font-size: 13px; color: #888; background: #f6f3ee; border-radius: 8px;
               padding: 10px 12px; margin-bottom: 10px; }
