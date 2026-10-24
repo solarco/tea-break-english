@@ -1613,33 +1613,33 @@
   },
   {
     "date": "2026-10-24",
-    "title": "小小英文新鲜事 - 1024 | 百年新猫、变色虾眼、深海巨虫",
-    "word_count": 511,
+    "title": "小小英文新鲜事 - 1024 | 巨型吹风机、变色虾眼、深海巨虫",
+    "word_count": 468,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-24.mp3",
     "stories": [
-      "百年新猫",
+      "巨型吹风机",
       "变色虾眼",
       "深海巨虫"
     ],
     "word_of_day": [
-      "rosette",
-      "玫瑰斑点"
+      "switch",
+      "开关"
     ],
-    "ending_game": "二选一：想要能看到秘密颜色的螳螂虾眼睛，还是像新小猫一样满身玫瑰斑点的外套？快和爸爸妈妈一起选边站！",
+    "ending_game": "谜语时间：我比大人还高、会吹热风，但我不是龙——我是谁？答案：巨型吹风机！",
     "vocab": [
       {
-        "en": "rosette",
-        "zh": "玫瑰斑点",
-        "def": "a spot shaped like a little rose",
-        "ex_en": "a coat covered in rosettes",
-        "ex_zh": "一身玫瑰斑点"
+        "en": "switch",
+        "zh": "开关",
+        "def": "a little button that turns something on or off",
+        "ex_en": "flip the switch",
+        "ex_zh": "拨动开关"
       },
       {
-        "en": "colossal",
-        "zh": "巨大的",
-        "def": "really, really big",
-        "ex_en": "a colossal giant",
-        "ex_zh": "超级大块头"
+        "en": "invention",
+        "zh": "发明",
+        "def": "something new that someone makes for the first time",
+        "ex_en": "a wild invention",
+        "ex_zh": "一个奇思妙想的发明"
       },
       {
         "en": "isopod",
@@ -1649,11 +1649,11 @@
         "ex_zh": "一只深海巨虫"
       },
       {
-        "en": "cloud forest",
-        "zh": "云雾森林",
-        "def": "a forest high up where clouds drift through the trees",
-        "ex_en": "in the cloud forest",
-        "ex_zh": "在云雾森林里"
+        "en": "record",
+        "zh": "纪录",
+        "def": "the best ever in something",
+        "ex_en": "a world record",
+        "ex_zh": "世界纪录"
       }
     ],
     "turns": [
@@ -1671,55 +1671,51 @@
       },
       {
         "speaker": "Lina",
-        "text": "My ears are wide open! What is first?"
+        "text": "What is first?"
       },
       {
         "speaker": "Mia",
-        "text": "Story one! Scientists just met a brand new cat!"
+        "text": "Story one! Two kids dreamed up a giant hairdryer, and engineers actually built it!"
       },
       {
         "speaker": "Lina",
-        "text": "A brand new cat? Did it just appear out of nowhere?"
+        "text": "A giant hairdryer? As big as a house?"
       },
       {
         "speaker": "Mia",
-        "text": "You got it! It hid in the cloud forests of Bolivia all along, the first new cat species in more than one hundred years!"
+        "text": "Almost as tall as a grown-up! Five feet nine inches long and five feet three inches tall! About seven times bigger than a normal hairdryer!"
       },
       {
         "speaker": "Lina",
-        "text": "A champion hider! How big is it?"
+        "text": "Whoa! Does it actually blow air?"
       },
       {
         "speaker": "Mia",
-        "text": "Tiny! Only about eighteen inches long and about three pounds!"
+        "text": "It really works! A motor fan blows the air, and oven heating parts make it hot!"
       },
       {
         "speaker": "Lina",
-        "text": "Can I keep one in my pocket?"
+        "text": "Whose wild idea was that?"
       },
       {
         "speaker": "Mia",
-        "text": "Whoa, hold on! Wild cats are for looking, not touching! Look at its coat! Light brown fur covered in rosettes!"
+        "text": "Two kids, Kiki and Thea! More than five thousand kids sent in invention ideas, and their giant hairdryer won!"
       },
       {
         "speaker": "Lina",
-        "text": "Rosettes? Like little roses on its fur?"
+        "text": "So kids can dream it, and grown-ups build it?"
       },
       {
         "speaker": "Mia",
-        "text": "Spot on! A rosette is a spot shaped like a little rose! Say it with me, till-KY-oh! That is its special name!"
+        "text": "That is the magic! The same team once built the biggest electric toothbrush in the world! And now their giant hairdryer is in the Guinness World Records book for twenty twenty-seven!"
       },
       {
         "speaker": "Lina",
-        "text": "Till-KY-oh! That sounds like a tiny drumbeat!"
+        "text": "I want a giant toothbrush too!"
       },
       {
         "speaker": "Mia",
-        "text": "Ha! You always catch the funniest part!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Story two! A shrimp with superpower eyes!"
+        "text": "Ha! Classic Lina! Story two! A shrimp with superpower eyes!"
       },
       {
         "speaker": "Lina",
@@ -1735,7 +1731,7 @@
       },
       {
         "speaker": "Mia",
-        "text": "Click clack, exactly! Four of its color catchers can flip back and forth like switches!"
+        "text": "Click clack, you said it! Four of its color catchers can flip back and forth like switches!"
       },
       {
         "speaker": "Lina",
@@ -1743,7 +1739,7 @@
       },
       {
         "speaker": "Mia",
-        "text": "Oh, that is a brilliant way to put it! With those eyes, nobody could ever hide from you!"
+        "text": "Brilliant thinking! With those eyes, nobody could ever hide from you!"
       },
       {
         "speaker": "Mia",
@@ -1779,51 +1775,43 @@
       },
       {
         "speaker": "Mia",
-        "text": "That is such a Lina idea! Scientists call super big ones colossal giants!"
+        "text": "You read my mind!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Switch! A switch is a little button that turns something on or off! Say it with us, friends! Switch!"
       },
       {
         "speaker": "Lina",
-        "text": "Colossal! That means REALLY REALLY big!"
+        "text": "Switch!"
       },
       {
         "speaker": "Mia",
-        "text": "REALLY REALLY big, you said it!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Word of the day! Rosette! A rosette is a spot shaped like a little rose! Say it with us, friends! Rosette!"
+        "text": "Louder! SWITCH!"
       },
       {
         "speaker": "Lina",
-        "text": "Rosette!"
+        "text": "SWITCH!"
       },
       {
         "speaker": "Mia",
-        "text": "Louder! ROSETTE!"
+        "text": "Perfect! You sounded like true scientists! And you too, friends!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Riddle time! Listen close! I am bigger than a grown-up, I blow hot air, but I am not a dragon! What am I?"
       },
       {
         "speaker": "Lina",
-        "text": "ROSETTE!"
+        "text": "Hmm! A giant... hairdryer?"
       },
       {
         "speaker": "Mia",
-        "text": "Boom, yes! You sounded like true cat scientists! And you too, friends!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Would you rather time! Would you rather have mantis shrimp eyes that can see secret colors, or a coat covered in rosettes like the tiny new cat?"
+        "text": "Ding ding ding! Correct! A giant hairdryer! Thanks for listening, friends! See you next time!"
       },
       {
         "speaker": "Lina",
-        "text": "Secret colors! I want to see secret colors! What about you, friends? Ask your mom and dad too! Which side are you on?"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Team secret colors, or team rosette coat? Thanks for listening, friends! See you next time!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Bye bye! I am drawing my rosette cat!"
+        "text": "Bye bye! I am drawing my giant hairdryer!"
       }
     ]
   }
