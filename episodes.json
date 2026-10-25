@@ -3617,30 +3617,26 @@
   {
     "date": "2026-10-25",
     "title": "茶水间英文 - 10月25日 | 复联打棒球、粉丝走两千公里、AI电影遇冷",
-    "word_count": 1043,
+    "word_count": 791,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-25.mp3",
-    "hook": "Avengers play baseball, a fan walks two thousand kilometers, and China's first AI movie flops at the box office.",
+    "hook": "Avengers crash a baseball game, a fan walks 2,400 km, and China's AI movie flops",
     "summary": "漫威把棒球赛变成复仇者联盟片场,板球迷徒步两千多公里见偶像,中国首部全 AI 电影上映遇冷。",
     "topics": [
       {
         "name": "复联打棒球",
-        "start": 4,
-        "end": 11
+        "start": 2,
+        "end": 7
       },
       {
         "name": "粉丝走两千公里",
-        "start": 12,
-        "end": 17
+        "start": 8,
+        "end": 13
       },
       {
         "name": "AI电影遇冷",
-        "start": 18,
-        "end": 26
+        "start": 14,
+        "end": 22
       }
-    ],
-    "quickq": [
-      27,
-      32
     ],
     "vocab": [
       [
@@ -3670,36 +3666,16 @@
       [
         "gamble",
         "冒险一搏；赌一把"
-      ],
-      [
-        "daydreaming",
-        "白日梦；空想"
       ]
     ],
     "turns": [
       {
         "speaker": "Alex",
-        "text": "Happy Sunday, everyone. It is Sunday, October twenty fifth, and this is our weekend edition of the show."
+        "text": "Morning, everyone. It is Sunday, October twenty fifth, and you are listening to Tea Break English. Today is Sunday, so we are keeping things light and fun, with stories you will actually want to bring up at lunch."
       },
       {
         "speaker": "Jordan",
-        "text": "Weekend edition means one thing. We skip the heavy stuff and talk about the fun things people are actually chatting about this weekend."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Exactly. No homework today. Just three stories worth stealing for your next chat. Superheroes, a super fan, and a movie made by a computer."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Wait, a movie made by a computer? You cannot just drop that and move on."
-      },
-      {
-        "speaker": "Alex",
-        "text": "I can, because we are starting somewhere else. Did you catch what Marvel did on Friday night?"
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Oh, you mean the Avengers crashing a baseball game? Yes, I saw the clips everywhere."
+        "text": "We are Alex and Jordan. And we are starting with Marvel crashing a baseball game."
       },
       {
         "speaker": "Alex",
@@ -3787,38 +3763,10 @@
       },
       {
         "speaker": "Jordan",
-        "text": "That is a good one. Okay, time for our random question. And this one is pure weekend daydreaming. If you could eat dinner in any fictional world, a movie, a book, or a game, where are you sitting down tonight?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Oh, easy. The Star Wars cantina. Live alien band, weird colorful drinks, and nobody judges you for talking to a giant furry copilot."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "I love that, but I am going to Hogwarts. The Great Hall. Floating candles, food that appears out of nowhere, and dessert that never runs out."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Okay, but you would just eat until you fall asleep on the table."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "That is the dream, Alex. Dinner, dessert, nap, all in one magical hall. But in the cantina, you might accidentally start a bar fight with a bounty hunter. That is a story for Monday morning."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Or a very short dinner. Listeners, your turn. If you could eat dinner in any fictional world, where are you going? Ask a friend today. Their answer will tell you everything."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "And that is our weekend edition. Superheroes on a baseball field, a fan who walked two thousand kilometers, and a computer that directed a movie."
-      },
-      {
-        "speaker": "Alex",
         "text": "Thanks for spending your Sunday with us. Go enjoy the rest of your weekend, and we will catch you next time. Bye for now."
       },
       {
-        "speaker": "Jordan",
+        "speaker": "Alex",
         "text": "Bye, everyone."
       }
     ]
