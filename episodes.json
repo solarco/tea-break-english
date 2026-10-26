@@ -3770,5 +3770,210 @@
         "text": "Bye, everyone."
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "title": "茶水间英文 - 10月26日 | 海鹰灭不败、AI估值缩水、六十三语翻译",
+    "word_count": 807,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-26.mp3",
+    "hook": "Seahawks end the Chiefs unbeaten run, OpenAI trims its trillion-dollar price tag, and meetings go multilingual.",
+    "summary": "海鹰队周日晚终结酋长队不败金身，OpenAI 下调估值目标，Google Meet 实时翻译扩展到六十三语。",
+    "topics": [
+      {
+        "name": "海鹰灭不败",
+        "start": 2,
+        "end": 9
+      },
+      {
+        "name": "AI估值缩水",
+        "start": 10,
+        "end": 17
+      },
+      {
+        "name": "六十三语翻译",
+        "start": 18,
+        "end": 25
+      }
+    ],
+    "quickq": [
+      26,
+      32
+    ],
+    "vocab": [
+      [
+        "unbeaten",
+        "未尝败绩的；保持不败的"
+      ],
+      [
+        "red zone",
+        "红区；对方端区前二十码的得分关键区域"
+      ],
+      [
+        "seal it",
+        "锁定胜局；一锤定音"
+      ],
+      [
+        "trim",
+        "削减；下调"
+      ],
+      [
+        "push back",
+        "反对；抵制"
+      ],
+      [
+        "haircut",
+        "（估值）大幅下调；打折"
+      ],
+      [
+        "switch halfway through a sentence",
+        "说到一半换语言"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, everyone. It is Monday, October twenty sixth, and you are listening to Tea Break English."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "We are Alex and Jordan. And Monday means catching up on a weekend of sports drama."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh, starting with football? Sunday night gave us a shocker."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A huge one. Seattle beat Kansas City twenty to three on Sunday night football. And that score does not even tell the whole story."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right, because the Chiefs came in unbeaten. Five wins, zero losses. And they left Seattle with their first loss."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And the Seattle defense was the star. They held Patrick Mahomes to just one hundred sixty five passing yards and one interception. The Chiefs never even reached the red zone. Not once, all night."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And there was a revenge story too. Kenneth Walker used to play for Seattle and starred in last season's Super Bowl. Then he signed with Kansas City, and on Sunday night, against his old team, he ran for just thirty six yards."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "His old teammates had his number. Jaxon Smith Njigba caught nine passes for one hundred fifty yards and a touchdown, and Emanuel Wilson sealed it with a twenty one yard touchdown run."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So your line is easy. Did you hear Seattle just handed the Chiefs their first loss? Twenty to three, and Mahomes never even reached the red zone."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That defense came to play."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Okay, from football to the money world, because even the biggest name in A I just got a reality check."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You mean OpenAI? The company behind ChatGPT?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. OpenAI is raising a new round of funding, up to thirty billion dollars. But it just cut its own price tag. A few weeks ago the pitch was one point four trillion dollars. Now the target is one point two five trillion dollars."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Wait, so investors pushed back, and OpenAI blinked?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is the story. Some big investors thought one point four trillion was too rich, since many already own plenty of OpenAI from earlier rounds. So the company trimmed the target by about one hundred fifty billion dollars."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "A one hundred fifty billion dollar haircut. Most companies would kill for that as a total valuation."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. And even at the lower number, OpenAI would still be worth about fifty percent more than in March. Investors have until October thirtieth to commit. So the big question is simple. Is the A I boom still booming, or is it cooling off?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the stealable line is, did you hear OpenAI just cut its own valuation? Investors said one point four trillion was too much. Even A I giants get told no sometimes."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And our third story is one every language learner will love."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, this is the Google one, right?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Yes. Google just expanded live speech translation in Google Meet to sixty three languages. Until now, a meeting could only use one language pair at a time. English, Spanish, and French speakers in one call? Tough luck."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That sounds like a headache for any international team."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. Now every person picks their own language. The tool figures out which language each person is speaking, even if they switch halfway through a sentence, and plays the translation a few seconds later, with captions to match."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So a meeting where one person speaks Swahili and another speaks Japanese just works."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It runs on a model called Gemini three point five Live Translate, on the web, on Android, and on iPhones. The catch is that most people need a paid plan. But for language learners, this is a glimpse of the future, a world where you just talk and the tech handles the translation."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So your line is, did you hear Google Meet now translates sixty three languages live? Everyone hears the meeting in their own language."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Okay, time for our random question. If you could wake up tomorrow fluent in any one language, which language are you picking, and what is the first thing you would say in it?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, easy. Japanese. And the first thing I would say is, one ticket to Kyoto, please, and yes, I would like extra noodles."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is so you. Food first, always."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Hey, fluency is wasted if you cannot order lunch. What about you?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Italian. I would walk into a tiny cafe in Rome and order a coffee like I was born there. No pointing, no awkward pauses."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And then you would immediately ask where the bathroom is, in perfect Italian."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Listeners, your turn. If you could wake up fluent in any language, which one are you picking? Ask a friend today. Their answer will tell you a lot about their dream trip."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And that is our show. The Seahawks stunned the Chiefs, OpenAI trimmed its price tag, and meetings just went multilingual."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Thanks for starting your Monday with us. Go steal those lines. Bye for now."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Bye, everyone."
+      }
+    ]
   }
 ]
