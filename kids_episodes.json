@@ -2071,5 +2071,185 @@
         "credit": "Photo: International Fund for Animal Welfare"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "title": "小小英文新鲜事 - 1027 | 百年新企鹅、狮子宝宝、绿色星星",
+    "word_count": 446,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-27.mp3",
+    "stories": [
+      "百年新企鹅",
+      "狮子宝宝",
+      "绿色星星"
+    ],
+    "word_of_day": [
+      "waddle",
+      "摇摇摆摆地走"
+    ],
+    "ending_game": "小挑战：听完后像企鹅一样摇摇摆摆地穿过房间，并把今天的单词 waddle 教给一个人！",
+    "vocab": [
+      {
+        "en": "waddle",
+        "zh": "摇摇摆摆地走",
+        "def": "to walk with short steps, side to side, like a penguin",
+        "ex_en": "waddle like a penguin",
+        "ex_zh": "像企鹅一样摇摇摆摆地走"
+      },
+      {
+        "en": "island",
+        "zh": "岛屿",
+        "def": "a piece of land with water all around it",
+        "ex_en": "a faraway island",
+        "ex_zh": "遥远的岛屿"
+      },
+      {
+        "en": "roar",
+        "zh": "吼叫",
+        "def": "a loud, deep sound a lion makes",
+        "ex_en": "a lion roar",
+        "ex_zh": "狮子的吼叫"
+      },
+      {
+        "en": "twinkle",
+        "zh": "闪烁",
+        "def": "to shine with small, quick flashes of light",
+        "ex_en": "stars twinkle in the sky",
+        "ex_zh": "星星在天空中闪烁"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hey friends, welcome back to Little English News! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Tuesday, October twenty seventh!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "We have three wonderful stories today, and one took scientists one hundred years to notice!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "One hundred years? Did someone wait one hundred years for lunch?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I love the way your brain works! No lunch today, little sister. Story one is about a penguin!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A penguin? Can it waddle to school with me?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Brilliant thinking, little sister! This penguin waddles on faraway islands in the southern Indian Ocean, near Antarctica!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Is it a brand new penguin?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Wow, you spotted the fun part right away! It looks just like other gentoo penguins, with a white belly and orange feet, but its genes tell a different story!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "The genes said, surprise, I am a new penguin!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You said that perfectly! It is the first new penguin species in more than one hundred years!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I want a penguin that waddles to school with me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You would need a very cold backpack for that! Story two! Two baby lions were born in Scotland!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Baby lions? Do they roar already?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not yet! They are still tiny and sleepy in their den at Edinburgh Zoo! Their mom is Bindee, and their dad is Jay!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bindee and Jay! Those are sweet names!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "These are the first lion cubs born at that zoo in seven years! Keepers watched on a camera, so mom could rest in peace and quiet!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Seven years? That is older than me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Story three! Scientists found a star that could be green!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A green star? Like a green traffic light in the sky?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "What a picture! Stars are usually red or white or blue, and no one had ever found a green one before!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Why is this one green?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You always find the best question hiding inside the story! This tiny old star is called a white dwarf, and rocky bits from old planets changed its color!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So the star ate planet crumbs and turned green?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is a wonderful way to put it! Scientists worked out that its light could look green to our eyes!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Waddle! Waddle means to walk with short steps, side to side, like a penguin! Say it with us, friends! Waddle!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Waddle!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Beautiful! One more time, friends! Waddle!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Waddle!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Time for our ending game! Here is your tiny challenge! After listening, waddle across the room like a penguin, and teach one person today's word, waddle!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I am going to waddle to the kitchen and teach mom! Waddle, waddle, waddle!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is the spirit! Thanks for listening, friends! See you next time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye bye! I am off to waddle!"
+      }
+    ]
   }
 ]
