@@ -4176,5 +4176,210 @@
         "text": "See you next time, and happy chatting."
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "title": "茶水间英文 - 10月28日 | 光芒十二局续命、OpenAI买谷歌芯片、最性感男人",
+    "word_count": 745,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-10-28.mp3",
+    "hook": "Rays survive a twelve-inning thriller, OpenAI shops at rival Google, and a TV doctor takes the sexiest crown",
+    "summary": "光芒队十二局绝杀酿酒人续命、OpenAI 被曝向谷歌买芯片、诺亚·怀尔当选 2026 最性感男人。",
+    "topics": [
+      {
+        "name": "光芒十二局续命",
+        "start": 3,
+        "end": 10
+      },
+      {
+        "name": "OpenAI买谷歌芯片",
+        "start": 11,
+        "end": 18
+      },
+      {
+        "name": "最性感男人",
+        "start": 19,
+        "end": 26
+      }
+    ],
+    "quickq": [
+      27,
+      33
+    ],
+    "vocab": [
+      [
+        "stave off",
+        "挡住；避免"
+      ],
+      [
+        "clinch",
+        "锁定胜局"
+      ],
+      [
+        "walk-off",
+        "再见获胜的"
+      ],
+      [
+        "frenemy",
+        "亦敌亦友的人"
+      ],
+      [
+        "traction",
+        "势头；受欢迎程度"
+      ],
+      [
+        "infrastructure",
+        "基础设施"
+      ],
+      [
+        "prank",
+        "恶作剧"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, everyone. It is Wednesday, October twenty eighth, and you are listening to Watercooler Chat."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I am Jordan."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And I am Alex. We have three stories for you today, and each one comes with a line you can steal."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Let us start with baseball, because last night was the kind of game that ruins your sleep in the best possible way."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The Tampa Bay Rays staved off elimination and beat the Milwaukee Brewers four to three in twelve innings on Tuesday night in Saint Petersburg, Florida."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The Brewers were one win away from clinching their first World Series title ever, and for a moment, it looked done."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Rookie shortstop Cooper Pratt led off the top of the twelfth inning with a solo home run, putting Milwaukee ahead three to two."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Then the bottom of the twelfth happened. Junior Caminero reached base on a throwing error, and the Rays just kept hitting."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Liam Hicks singled, Jonny DeLuca singled home the tying run, Chandler Simpson singled to load the bases, and pinch hitter Ben Williamson delivered the walk off single that scored Nick Fortes for the win."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the Brewers still lead the series three games to one, but the Rays are alive, and game five is tonight in Saint Petersburg."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is your line. Did you catch the Rays refusing to go home, winning four to three in twelve innings to keep the World Series alive?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That ending deserves a deep breath. And while the Rays were saving their season, two tech rivals were getting even cozier."
+      },
+      {
+        "speaker": "Alex",
+        "text": "OpenAI reportedly plans to buy artificial intelligence chips from Google, according to a report on Tuesday from The Information."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is a fun frenemy story, because OpenAI and Google compete head to head in chatbots and search."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly, and this would deepen a partnership that is already growing. Just last week, OpenAI said its frontier models would be available through Google Cloud, and it has been renting Google chips since June of twenty twenty five."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The chips are called Tensor Processing Units, and they are gaining traction as a cheaper alternative to the market leading chips from Nvidia."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The bigger picture is the spending race. Amazon, Microsoft, and Google parent Alphabet plan to spend as much as six hundred billion dollars combined this year on artificial intelligence infrastructure."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "No financial details were reported for the OpenAI chip plan, and both companies declined to comment, so treat this as a report for now, not a done deal."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is your line. So apparently OpenAI might buy chips from Google, its biggest rival. Talk about keeping your friends close."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I love a good frenemy story. Now here is a much softer headline to end on."
+      },
+      {
+        "speaker": "Alex",
+        "text": "People magazine has named Noah Wyle its Sexiest Man Alive for twenty twenty six."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "He is fifty five years old, and television fans know him as Doctor John Carter from E R, and now as Doctor Robby on the medical drama The Pitt."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Wyle said he first thought the news was a prank, and he credited his wife for talking him into accepting it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "He also joked that his former E R co-star George Clooney, who has won the title twice, might feel like a proud papa."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Last year the title went to Jonathan Bailey, and the year before that it went to John Krasinski, so Wyle joins a very famous list."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Honestly, it is a nice change of pace. A hardworking television doctor, finally getting his flowers."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Here is your line. Did you hear that the doctor from The Pitt is officially the Sexiest Man Alive?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, time for our random question. If you could have any superpower, but only for doing household chores, which one would you pick?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Telekinesis, no contest. I would fold laundry from the couch without ever standing up."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is just laziness with extra steps. I would freeze time, clean the whole kitchen, and then unfreeze it like nothing happened."
+      },
+      {
+        "speaker": "Alex",
+        "text": "But then you would still be the only person who knows how clean it is."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Perfect. No applause needed, just a clean kitchen and a quiet house."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Fair enough. Although with telekinesis, I could also make the dishes wash themselves while I watch television."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And that is why your kitchen would still be messy, just in a fancier way."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is our show for today, and we hope one of these lines comes in handy with a friend. Have a wonderful day."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "See you next time, and happy chatting."
+      }
+    ]
   }
 ]
