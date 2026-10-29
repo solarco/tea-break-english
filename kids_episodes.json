@@ -2251,5 +2251,181 @@
         "text": "Bye bye! I am off to waddle!"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "title": "小小英文新鲜事 - 1029 | 吃水果的恐龙、冥王星外新世界、巨型蘑菇",
+    "word_count": 449,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-29.mp3",
+    "stories": [
+      "吃水果的恐龙",
+      "冥王星外新世界",
+      "巨型蘑菇"
+    ],
+    "word_of_day": [
+      "dwarf",
+      "比同类小很多的"
+    ],
+    "ending_game": "猜谜时间：我长在森林里，既不是植物也不是动物，雨后会冒出来——我是谁？答案：蘑菇！",
+    "vocab": [
+      {
+        "en": "dwarf",
+        "zh": "比同类小很多的",
+        "def": "something much smaller than usual of its kind",
+        "ex_en": "a dwarf planet",
+        "ex_zh": "矮行星"
+      },
+      {
+        "en": "munch",
+        "zh": "大口嚼",
+        "def": "to chew something noisily and with enthusiasm",
+        "ex_en": "munch fruit all day",
+        "ex_zh": "整天大口嚼水果"
+      },
+      {
+        "en": "spot",
+        "zh": "发现；注意到",
+        "def": "to see or notice something, especially after looking",
+        "ex_en": "a giant camera spotted it",
+        "ex_zh": "巨型相机发现了它"
+      },
+      {
+        "en": "pop up",
+        "zh": "突然冒出来",
+        "def": "to appear suddenly",
+        "ex_en": "mushrooms pop up after the rain",
+        "ex_zh": "雨后蘑菇会突然冒出来"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back to Little English News! I am Mia, and Lina is here with me!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hi everyone! I brought my silliest questions today!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It is Thursday, October twenty-ninth, and we have three wonderful stories!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "First story first! Tell me, tell me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! Scientists found a dinosaur that loved fruit! It lived long ago, next to Tyrannosaurus rex!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A dinosaur that ate fruit? Did it have fruit salad for lunch every day?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! That picture just made my day! It was about the size of a turkey, with feathers and no teeth, but strong jaws for mashing soft fruit!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So it was a fruit mashing machine! Can I feed it a banana?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You would need a time machine and a very big banana! Scientists call it the hell chicken, from Hell Creek, where its bones were found!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hell chicken! That is the funniest dinosaur name ever! Does it go cluck cluck?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it! It never said cluck! It just munched fruit all day long!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! Scientists found a brand new icy world, far, far beyond Pluto!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A new planet? Can I drive it to school?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! You would need a parking lot bigger than your school! It is Texas sized, and sits forty-six times farther from the sun than Earth!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Forty-six times? Even my bike cannot get there!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! It hid in a crowd of stars, until a giant camera in Chile spotted it!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So it played hide and seek with the whole world, and lost!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it in one guess! Scientists think it could be a new dwarf planet! Now, word of the day!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Word time! Word time!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Dwarf! A dwarf is something much smaller than usual of its kind! Say it with us, friends! Dwarf!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Dwarf! Dwarf! It sounds so small and cute!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Music to my ears! One more time, friends! Dwarf!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! In China, scientists found a GIGANTIC mushroom, fifty centimeters tall, almost as tall as your school bag!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A giant mushroom! Can I wear it as a hat?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That hat would be taller than your head! It is pale yellow, grows from old tree roots, and its name is Dee rex, like a dinosaur!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A mushroom with a dinosaur name? That is delightfully silly!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Time for our ending game! Game time is my favorite time!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Riddle time! I grow in the forest. I am not a plant, and I am not an animal. I pop up after the rain. What am I?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hmm! Not a plant, not an animal... Is it a mushroom?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Yes! A mushroom! You solved it all by yourself!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Yay! I am the riddle champion!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Thanks for listening, friends! See you next time!"
+      }
+    ]
   }
 ]
