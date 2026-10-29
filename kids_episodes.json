@@ -2254,19 +2254,19 @@
   },
   {
     "date": "2026-10-29",
-    "title": "小小英文新鲜事 - 1029 | 吃水果的恐龙、冥王星外新世界、巨型蘑菇",
-    "word_count": 449,
+    "title": "小小英文新鲜事 - 1029 | 吃水果的恐龙、冥王星外新世界、巨型漫画书",
+    "word_count": 488,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-29.mp3",
     "stories": [
       "吃水果的恐龙",
       "冥王星外新世界",
-      "巨型蘑菇"
+      "巨型漫画书"
     ],
     "word_of_day": [
       "dwarf",
       "比同类小很多的"
     ],
-    "ending_game": "猜谜时间：我长在森林里，既不是植物也不是动物，雨后会冒出来——我是谁？答案：蘑菇！",
+    "ending_game": "猜谜时间：我比你的书包还高、重得像块砖，还会用图画讲故事——我是谁？答案：巨型漫画书！",
     "vocab": [
       {
         "en": "dwarf",
@@ -2290,11 +2290,11 @@
         "ex_zh": "巨型相机发现了它"
       },
       {
-        "en": "pop up",
-        "zh": "突然冒出来",
-        "def": "to appear suddenly",
-        "ex_en": "mushrooms pop up after the rain",
-        "ex_zh": "雨后蘑菇会突然冒出来"
+        "en": "comic",
+        "zh": "漫画书",
+        "def": "a book that tells a story in pictures",
+        "ex_en": "a giant comic book",
+        "ex_zh": "巨型漫画书"
       }
     ],
     "turns": [
@@ -2388,19 +2388,19 @@
       },
       {
         "speaker": "Mia",
-        "text": "Story three! In China, scientists found a GIGANTIC mushroom, fifty centimeters tall, almost as tall as your school bag!"
+        "text": "Story three! Get ready for the biggest comic book in the whole world!"
       },
       {
         "speaker": "Lina",
-        "text": "A giant mushroom! Can I wear it as a hat?"
+        "text": "A comic book? Is it bigger than my school bag?"
       },
       {
         "speaker": "Mia",
-        "text": "That hat would be taller than your head! It is pale yellow, grows from old tree roots, and its name is Dee rex, like a dinosaur!"
+        "text": "Oh, you are going to love this one! It is called Gentle Giant, and it is the largest comic book ever made! It is more than one meter tall, it weighs almost three kilograms, as heavy as a brick, and only fifty-five copies were made! People measured it at a huge comic book show in New York!"
       },
       {
         "speaker": "Lina",
-        "text": "A mushroom with a dinosaur name? That is delightfully silly!"
+        "text": "A book as heavy as a brick? I would need a bed as big as a boat to read it!"
       },
       {
         "speaker": "Lina",
@@ -2408,15 +2408,15 @@
       },
       {
         "speaker": "Mia",
-        "text": "Riddle time! I grow in the forest. I am not a plant, and I am not an animal. I pop up after the rain. What am I?"
+        "text": "Riddle time! I am taller than your school bag, I weigh as much as a brick, and I tell a story in pictures. What am I?"
       },
       {
         "speaker": "Lina",
-        "text": "Hmm! Not a plant, not an animal... Is it a mushroom?"
+        "text": "Hmm! Taller than my school bag... and pictures... Is it the giant comic book?"
       },
       {
         "speaker": "Mia",
-        "text": "Yes! A mushroom! You solved it all by yourself!"
+        "text": "Yes! The giant comic book! You solved it all by yourself!"
       },
       {
         "speaker": "Lina",
