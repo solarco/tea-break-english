@@ -2426,6 +2426,23 @@
         "speaker": "Mia",
         "text": "Thanks for listening, friends! See you next time!"
       }
+    ],
+    "photos": [
+      {
+        "story": "吃水果的恐龙",
+        "url": "https://cdn.discovermagazine.com/assets/image/60789/hell-chicken-infernogallus-jamesi-m.jpg",
+        "credit": "Photo: Skeletal reconstruction of Infernogallus jamesi, © Royal Ontario Museum"
+      },
+      {
+        "story": "冥王星外新世界",
+        "url": "https://www.astronomy.com/wp-content/uploads/2026/10/noirlab2626a-1.jpg?w=2560",
+        "credit": "Photo: Composite of real Rubin observations tracing ED138's orbit (teal circles = its positions on 20 nights), NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA; image processing: M. Jurić, D. de Martin & M. Zamani"
+      },
+      {
+        "story": "巨型漫画书",
+        "url": "https://www.guinnessworldrecords.com/news/commercial/2026/10/images/comic-book-largest-comic-next-to-regular-comic.jpg",
+        "credit": "Photo: Guinness World Records"
+      }
     ]
   }
 ]
