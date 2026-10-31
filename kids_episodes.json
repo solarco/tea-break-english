@@ -2619,6 +2619,23 @@
         "speaker": "Lina",
         "text": "Bye bye!"
       }
+    ],
+    "photos": [
+      {
+        "story": "水豚三胞胎",
+        "url": "https://www.zoozlin.eu/media/photos/article/item/gallery/images-1891/4613ea9a5a2a27e72f1550d4486373f5-t1.jpeg",
+        "credit": "Photo: Zlín Zoo（资料照片：另一窝水豚母子，非苏格兰三胞胎）"
+      },
+      {
+        "story": "百机器人齐舞",
+        "url": "https://assets.magica.com/blog/ai-news/2026-10-25/04-agibot-coordinates-110-expedition-a3-humanoids-in-a-guinness-record/c5cc6aa01708047312b5728cef0be30f57fa89998c12c41d379384ff19716e3a.jpg?v=c5cc6aa01708047312b5728cef0be30f57fa89998c12c41d379384ff19716e3a",
+        "credit": "Photo: AGIBOT, via Global Times"
+      },
+      {
+        "story": "鸟鸣似人歌",
+        "url": "https://scx1.b-cdn.net/csz/news/800a/2026/birds-and-humans-share.jpg",
+        "credit": "Photo: Raina Fan, via phys.org（示意：一只歌雀）"
+      }
     ]
   }
 ]
