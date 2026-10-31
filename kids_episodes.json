@@ -2444,5 +2444,181 @@
         "credit": "Photo: Guinness World Records"
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "title": "小小英文新鲜事 - 1031 | 水豚三胞胎、百机器人齐舞、鸟鸣似人歌",
+    "word_count": 459,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-10-31.mp3",
+    "stories": [
+      "水豚三胞胎",
+      "百机器人齐舞",
+      "鸟鸣似人歌"
+    ],
+    "word_of_day": [
+      "synchronized",
+      "同步的"
+    ],
+    "ending_game": "二选一：跟三只水豚宝宝一起游泳，还是跟一百一十个机器人一起跳舞？你选哪个？也问问爸爸妈妈！",
+    "vocab": [
+      {
+        "en": "synchronized",
+        "zh": "同步的",
+        "def": "moving together at exactly the same time",
+        "ex_en": "dance in synchronized steps",
+        "ex_zh": "步调一致地跳舞"
+      },
+      {
+        "en": "rodent",
+        "zh": "啮齿动物",
+        "def": "an animal like a mouse, a rat, or a capybara, with teeth that keep growing",
+        "ex_en": "a capybara is the biggest rodent",
+        "ex_zh": "水豚是最大的啮齿动物"
+      },
+      {
+        "en": "triplet",
+        "zh": "三胞胎中的一个",
+        "def": "one of three babies born at the same time",
+        "ex_en": "a triplet stays close to mom",
+        "ex_zh": "三胞胎宝宝紧挨着妈妈"
+      },
+      {
+        "en": "rhythm",
+        "zh": "节奏",
+        "def": "a steady beat in music or song",
+        "ex_en": "a steady rhythm",
+        "ex_zh": "平稳的节奏"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back to Little English News! I am Mia, and Lina is here with me!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hi everyone! I brought my silliest questions today!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It is Saturday, October thirty-first, and we have three wonderful stories for you!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! At a zoo in Scotland, a capybara mom named Luna just had three babies, all at once!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Three babies? Are they tiny potatoes?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, that idea just made me laugh out loud! They are tiny and round, and they stay close to their mom!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I take one swimming? Capybaras love water, right?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Brilliant thinking, Lina! Capybaras are the biggest rodents in the whole world, and they love to swim! But these babies stay with Luna for now!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And Luna already had a baby boy in May, named Bru! So now Bru is a big brother times three!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Wow, you just blew my mind with that counting!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! One hundred ten robots danced together, at exactly the same time, and set a world record!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "One hundred ten robots? Did they all wear dancing shoes?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Stop it, you are too funny! They moved in waves, changed shapes, and even jumped together!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Did they spell something with their dance?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I wish I had thought of that question! Yes! At one point, they lined up to make the number twenty twenty-six!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can one robot be my dance partner at my birthday party?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is the cleverest guess of the day! Maybe one robot could learn your favorite dance!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Now, word of the day!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Word time! I love word time!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Synchronized! Synchronized means moving together at exactly the same time, like those dancing robots! Say it with us, friends! Synchronized!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Synchronized! It sounds like a dance all by itself!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is a wonderful way to hear it!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! Scientists listened to more than three hundred fifty kinds of birds, and found a happy surprise!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A surprise? Do birds sing pop songs now?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, I love where your brain just went! Birds and people share the same song patterns! Small steps up and down, a steady beat, and a last note that stretches out long!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So when I sing in the shower, I sing a little bit like a bird?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "What a smart way to say it! Scientists think our voices work in similar ways!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Time for our ending game!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Would you rather time! Would you rather swim with three baby capybaras, or dance with one hundred ten robots? What about you, friends? Ask your mom and dad too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I pick robots! No wait, capybaras! No wait, both! Can I dance in the pool with everyone?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Only you would find a way to pick both at once! Thanks for listening, friends! See you next time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye bye!"
+      }
+    ]
   }
 ]
