@@ -2816,6 +2816,23 @@
         "ex_en": "a dog paw print",
         "ex_zh": "狗狗的爪印"
       }
+    ],
+    "photos": [
+      {
+        "story": "太空猫星云",
+        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/10/STScI-01M4C1BGFARJ4S0MQHZHD0TPFT.jpg?w=2000&h=1385&fit=clip",
+        "credit": "Photo: NASA, ESA, CSA, STScI（韦布望远镜红外照片）"
+      },
+      {
+        "story": "百万鳗鱼群",
+        "url": "https://scx1.b-cdn.net/csz/news/800a/2026/scientists-count-more.jpg",
+        "credit": "Photo: Royal Society Open Science（研究配图：声呐图+深海相机照片拼合）"
+      },
+      {
+        "story": "四千年爪印",
+        "url": "https://th-thumbnailer.cdn-si-edu.com/VI5Wdu31z9x0r8OyClvJHOSs49Y=/1026x684/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3d/1b/3d1b71b2-0c3b-47b1-9545-7f125caf1983/paw-print.jpg",
+        "credit": "Photo: Bilecik Şeyh Edebali University, via Smithsonian Magazine"
+      }
     ]
   }
 ]
