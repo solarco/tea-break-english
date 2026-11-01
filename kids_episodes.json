@@ -2637,5 +2637,185 @@
         "credit": "Photo: Raina Fan, via phys.org（示意：一只歌雀）"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "title": "小小英文新鲜事 - 1101 | 太空猫星云、百万鳗鱼群、四千年爪印",
+    "word_count": 451,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-01.mp3",
+    "stories": [
+      "太空猫星云",
+      "百万鳗鱼群",
+      "四千年爪印"
+    ],
+    "word_of_day": [
+      "nebula",
+      "星云"
+    ],
+    "ending_game": "小挑战：今晚画一只云和星星组成的太空猫，再把今天的单词 nebula 教给一个人！",
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Sunday, November first!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three wonderful stories today! Are you ready?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A space cat? Is it floating in a cardboard box?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You just painted that picture perfectly! Story one! Two telescopes photographed a space cloud shaped like a cat!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A cloud shaped like a cat? With whiskers?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "With a glowing eye! It is called the Cat's Head Nebula, seven thousand five hundred light years away!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "That is too far for my bike!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Way too far! One telescope sees the dark dust, like the cat's body! The other sees through it, to the baby stars inside!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I adopt the space cat? I promise to feed it star snacks!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is exactly the kind of wondering scientists love! But this cat is gas and dust, so snacks might fall right through!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! Near Tasmania, two million eight hundred thousand eels gathered around one underwater volcano!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Two million eight hundred thousand? Did somebody count them one by one?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That question deserves a gold star! Scientists used sound waves, and the sound bounced back like one giant cloud!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A party for two million eight hundred thousand eels? Do they wear pajamas?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! No pajamas down there! They swam more than one thousand meters down, where sunlight never reaches! About one hundred twenty mountains are nearby, but the eels picked this one, called Patience!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Maybe the mountain tells the best jokes!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Now THAT is thinking like a scientist! Maybe we should ask the mountain!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! In Turkey, archaeologists found a brick with dog paw prints on it, four thousand years old!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Four thousand years? Was the dog very old?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You win the silly prize today! Workers made bricks from mud and straw, dried in the sun! Before this brick was dry, a dog walked across it!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Did the dog get in trouble for stepping on the brick?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I am stealing that idea! Nobody knows! But builders used the brick in a house wall anyway, and the prints stayed safe for four thousand years!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Nebula! A nebula is a big cloud of gas and dust in space, where new stars are born! Say it with us! Nebula!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Nebula! It sounds like a magic word!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time! Nebula!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "NEBULA!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You nailed that one, superstar!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Tiny challenge time! Draw the space cat tonight, a cat of clouds and stars with one glowing eye, and teach someone the word nebula!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I am drawing mine with a crown! The queen of the space cats!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "A crowned space cat! Will you take the challenge?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is all for today! Thanks for listening! Bye!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bye! I am off to draw my space cat!"
+      }
+    ],
+    "vocab": [
+      {
+        "en": "nebula",
+        "zh": "星云",
+        "def": "a big cloud of gas and dust in space, where new stars are born",
+        "ex_en": "the Cat's Head Nebula",
+        "ex_zh": "猫头星云"
+      },
+      {
+        "en": "eel",
+        "zh": "鳗鱼",
+        "def": "a long, slippery fish that looks like a snake",
+        "ex_en": "two million eels",
+        "ex_zh": "两百万条鳗鱼"
+      },
+      {
+        "en": "volcano",
+        "zh": "火山",
+        "def": "a mountain that can shoot out hot rock and ash",
+        "ex_en": "an underwater volcano",
+        "ex_zh": "海底火山"
+      },
+      {
+        "en": "paw print",
+        "zh": "爪印",
+        "def": "the mark an animal's foot leaves behind",
+        "ex_en": "a dog paw print",
+        "ex_zh": "狗狗的爪印"
+      }
+    ]
   }
 ]
