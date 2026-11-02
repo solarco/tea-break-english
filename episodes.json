@@ -5145,5 +5145,190 @@
     "text": "Bye, everyone."
    }
   ]
+ },
+ {
+  "date": "2026-11-02",
+  "title": "茶水间英文 - 11月2日 | 阿森纳登顶、苹果智能入华、瑞安涨价预警",
+  "word_count": 757,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-02.mp3",
+  "hook": "Arsenal go top at Anfield, Apple Intelligence heads to China, and Ryanair warns fares could jump.",
+  "summary": "阿森纳时隔十四年客场战胜利物浦登顶英超，苹果智能功能将于十二月进入中国，瑞安航空则警告明年机票可能涨价高达两成。",
+  "topics": [
+   {
+    "name": "阿森纳登顶",
+    "start": 2,
+    "end": 8
+   },
+   {
+    "name": "苹果智能入华",
+    "start": 9,
+    "end": 15
+   },
+   {
+    "name": "瑞安涨价预警",
+    "start": 16,
+    "end": 22
+   }
+  ],
+  "quickq": [
+   23,
+   28
+  ],
+  "vocab": [
+   [
+    "statement win",
+    "标志性胜利；一场宣示实力的胜利"
+   ],
+   [
+    "weather the storm",
+    "顶住压力；挺过难关"
+   ],
+   [
+    "top of the table",
+    "积分榜榜首"
+   ],
+   [
+    "roll out",
+    "正式推出；上线"
+   ],
+   [
+    "beta test",
+    "测试版试用"
+   ],
+   [
+    "pay freeze",
+    "工资冻结"
+   ],
+   [
+    "pass the cost on",
+    "把成本转嫁给消费者"
+   ]
+  ],
+  "turns": [
+   {
+    "speaker": "Alex",
+    "text": "Good morning, and welcome to the show. It is Monday, November second. I am Alex."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And I am Jordan. Happy Monday, everyone. Grab your coffee, because the weekend gave us plenty to talk about."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Let us start with football, because Arsenal just pulled off the result of the weekend. On Sunday, they went to Liverpool and won one to zero at Anfield."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is a huge win. Liverpool at home is never an easy trip."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Not at all. Kai Havertz scored the only goal in the sixteenth minute, tapping in a low cross from Declan Rice after Liverpool got caught trying to play the ball out of defense. Liverpool pushed hard after that. Florian Wirtz hit the crossbar with a free kick, and Alexis Mac Allister missed a good header. But Arsenal held firm, and it is their first league win at Anfield in fourteen years."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Fourteen years. That is a long time to wait for a win somewhere."
+   },
+   {
+    "speaker": "Alex",
+    "text": "It is, and the timing could not be better. Arsenal now sit top of the table with twenty four points from nine games, three points clear of Manchester City. City lost one to zero at home to Brighton on Saturday, which ended their twenty five match scoring run. Chelsea also beat Manchester United two to zero, so United are now winless in nine matches."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "So the title race just got very interesting."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Exactly. So here is your line for today. Did you hear Arsenal won at Anfield for the first time in fourteen years? They are top of the league now."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh, and on a completely different note, Apple fans in China have something big to look forward to."
+   },
+   {
+    "speaker": "Alex",
+    "text": "They do. Apple has confirmed that the first batch of Apple Intelligence features is coming to China. Developer testing starts on November fourth, and the full rollout follows in December with the new phone software, i O S twenty seven point three."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "What will it actually do for people there?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "It brings A I tools built into the phone, with help from Alibaba's Qwen model for selected features. So things like writing help and image tools will start showing up for users in China for the first time."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is a big step. China is a huge market, and Apple has been working toward this for a long time."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Right, although one thing is missing for now. The brand new A I powered Siri that Apple showed off earlier this year is not part of this first batch. That comes later."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Still, it is a start. So here is your line. So apparently Apple Intelligence is finally coming to China in December, with testing starting this week."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Now, if you are planning a cheap trip to Europe next year, I have some less cheerful news."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh no. Do not tell me budget flights are getting more expensive."
+   },
+   {
+    "speaker": "Alex",
+    "text": "I am afraid so. Ryanair is warning that it may raise airfares by up to twenty percent in twenty twenty seven, and it may also freeze pay for its workers. The airline points to fuel costs, saying it expects fuel prices to rise by about two billion euros."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Twenty percent is a lot. That changes the whole idea of a cheap weekend trip."
+   },
+   {
+    "speaker": "Alex",
+    "text": "It does. A ticket that used to feel like pocket money starts to feel like a real decision. And when the biggest budget airline in Europe talks about raising prices, other airlines tend to follow."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "So the move is to book early, or be ready to tighten the budget somewhere else."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Exactly. So here is your line. Did you hear Ryanair might raise fares by up to twenty percent next year? Fuel costs are to blame."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Now, our random question. Alex, if you could swap houses with anyone in the world for one week, whose house would you pick?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Easy. A little lighthouse keeper's house by the sea. I would wake up to waves, make coffee, and watch storms roll in from a safe, cozy chair."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "You would be bored by day two, and you know it. I am picking a castle with a secret passage. I would spend the whole week looking for hidden doors."
+   },
+   {
+    "speaker": "Alex",
+    "text": "You would get lost in your own house on day one."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is half the fun. And I would invite everyone over just to show off the secret passage."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Listeners, what about you? One week, any house in the world. Where are you moving to?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Thanks for starting your Monday with us."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Have a wonderful day, everyone. We will catch you next time."
+   }
+  ]
  }
 ]
