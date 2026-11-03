@@ -2842,5 +2842,181 @@
         "credit": "Photo: Bilecik Şeyh Edebali University, via Smithsonian Magazine"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "title": "小小英文新鲜事 - 1103 | 水上摩托、太空远行者、五只水獭宝宝",
+    "word_count": 452,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-03.mp3",
+    "stories": [
+      "水上摩托",
+      "太空远行者",
+      "五只水獭宝宝"
+    ],
+    "word_of_day": [
+      "voyage",
+      "长途旅行"
+    ],
+    "ending_game": "二选一：骑摩托车在水面上飞驰，还是给旅行者一号发一句问候、等两天才收到回复？你选哪个？也问问爸爸妈妈！",
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Tuesday, November third!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three fun stories today! Are you ready?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Ready!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I like how you think! Close! Story one! A rider in China rode his motorcycle on water!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "On water? Did his motorcycle grow fins?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not fins! Skis! His motorcycle wears big skis, like a boat with wheels! He zoomed around a river, six laps, more than forty kilometres!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Forty kilometres on water! Did he get splashed?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! He got very splashed! And guess what? His very first try only went twenty metres! He kept trying, and now he holds the world record!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story two! Far, far away in space, a robot spaceship named Voyager One is about to hit a giant milestone!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A milestone? Is it a stone that is one mile long?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, I love that idea! No, a milestone is a big moment to celebrate! Voyager One has been flying since nineteen seventy-seven, almost fifty years! And soon it will be one light day away! That means light itself needs one whole day to travel from us to Voyager One!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So if I say hello, when does it hear me?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! One whole day later! And its hello back takes another whole day! So one hello takes two whole days!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "That is the slowest phone call ever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "The slowest, and the farthest! No machine made by people has ever gone farther!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! At an aquarium in North Carolina, five tiny otter pups were just born!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Five babies! How tiny are they?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "They are Asian small clawed otters, the smallest otters in the whole world! Their mom is Milli, and their dad is Binx!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Milli and Binx! Do the babies squeak?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "They sure do! A keeper heard little chirps coming from their den, and there they were, five little pups!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Can I keep one in my pocket?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is a brilliant plan, but otters need water to swim and fish to munch! Your pocket has no fish, I checked!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Word of the day! Voyage! A voyage is a long journey, especially across the sea or through space! Voyager One is on the longest voyage ever! Say it with us, friends! Voyage!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Voyage! It sounds like an adventure!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time! Voyage!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "VOYAGE!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it! You sound like a real space captain!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Would you rather time! Would you rather ride a motorcycle on water, or send a hello to Voyager One and wait two whole days for the answer? What about you, friends? Ask your mom and dad too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I pick the motorcycle! Vroom vroom, splash splash!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is all for today! Thanks for listening! See you next time, friends!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time!"
+      }
+    ],
+    "vocab": [
+      {
+        "en": "voyage",
+        "zh": "长途旅行",
+        "def": "a long journey, especially across the sea or through space",
+        "ex_en": "Voyager One is on the longest voyage ever!",
+        "ex_zh": "旅行者一号正在进行有史以来最长的旅行！"
+      },
+      {
+        "en": "record",
+        "zh": "纪录",
+        "def": "the best ever result in something, like the fastest or the longest",
+        "ex_en": "He holds the world record!",
+        "ex_zh": "他保持着世界纪录！"
+      },
+      {
+        "en": "otter",
+        "zh": "水獭",
+        "def": "a playful animal that swims and plays in rivers and seas",
+        "ex_en": "five tiny otter pups",
+        "ex_zh": "五只小小的水獭宝宝"
+      },
+      {
+        "en": "pup",
+        "zh": "幼崽",
+        "def": "a baby animal, like a baby dog or a baby otter",
+        "ex_en": "five little pups",
+        "ex_zh": "五只小幼崽"
+      }
+    ]
   }
 ]
