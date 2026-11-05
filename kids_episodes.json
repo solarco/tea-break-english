@@ -3209,6 +3209,18 @@
         "ex_en": "The solar tracker follows the sun!",
         "ex_zh": "太阳追踪器跟着太阳转！"
       }
+    ],
+    "photos": [
+      {
+        "story": "小斑马宝宝",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Plains_zebra_%28Equus_quagga%29_foal_suckling_Maputo.jpg/1280px-Plains_zebra_%28Equus_quagga%29_foal_suckling_Maputo.jpg",
+        "credit": "Photo: Charles J. Sharp, Wikimedia Commons, CC BY-SA 4.0（平原斑马幼驹吃奶实拍，非本期迪士尼小斑马本尊，同类示意）"
+      },
+      {
+        "story": "巨型骷髅",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/CatrinaZocalo20261029_01.jpg/1280px-CatrinaZocalo20261029_01.jpg",
+        "credit": "Photo: PetrohsW, Wikimedia Commons, CC BY-SA 4.0（2026-10-29 实拍，墨西哥城破纪录的 33.4 米骷髅女士本尊）"
+      }
     ]
   }
 ]
