@@ -3421,6 +3421,18 @@
         "speaker": "Lina",
         "text": "See you next time!"
       }
+    ],
+    "photos": [
+      {
+        "story": "胖老鹰飞不动",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Red-shouldered_Hawk_%28Buteo_lineatus%29_-_Blue_Cypress_Lake%2C_Florida.jpg",
+        "credit": "Photo: Andy Morffew, Wikimedia Commons, CC BY 2.0（红肩鹰实拍，非 Roanoke 那只胖老鹰本尊，同类示意）"
+      },
+      {
+        "story": "蓝色血液",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/PXL_20231005_224259130.jpg",
+        "credit": "Photo: Bromboid, Wikimedia Commons, CC BY-SA 4.0（大西洋鲎实拍，蓝血动物之一）"
+      }
     ]
   }
 ]
