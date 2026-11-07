@@ -3222,5 +3222,205 @@
         "credit": "Photo: PetrohsW, Wikimedia Commons, CC BY-SA 4.0（2026-10-29 实拍，墨西哥城破纪录的 33.4 米骷髅女士本尊）"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "title": "小小英文新鲜事 - 1107 | 胖老鹰飞不动、青少年奥运、蓝色血液",
+    "word_count": 482,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-07.mp3",
+    "stories": [
+      "胖老鹰飞不动",
+      "青少年奥运",
+      "蓝色血液"
+    ],
+    "word_of_day": [
+      "feast",
+      "大餐"
+    ],
+    "ending_game": "小挑战：今晚吃饭时给家人讲讲胖老鹰的故事，教他们今天的单词 feast，再像老鹰一样扇三下翅膀！",
+    "vocab": [
+      {
+        "en": "feast",
+        "zh": "大餐",
+        "def": "a big, yummy meal with lots of food",
+        "ex_en": "We had a big feast on my birthday!",
+        "ex_zh": "我生日那天吃了一顿大餐！"
+      },
+      {
+        "en": "hawk",
+        "zh": "老鹰",
+        "def": "a bird that hunts other animals",
+        "ex_en": "The hawk is too full to fly!",
+        "ex_zh": "这只老鹰吃得太饱，飞不起来了！"
+      },
+      {
+        "en": "athlete",
+        "zh": "运动员",
+        "def": "a person who plays sports and competes",
+        "ex_en": "The young athletes are at the Olympics!",
+        "ex_zh": "年轻运动员们正在参加奥运会！"
+      },
+      {
+        "en": "copper",
+        "zh": "铜",
+        "def": "a reddish-brown metal, like the metal in a penny",
+        "ex_en": "Copper makes the octopus blood blue!",
+        "ex_zh": "铜让章鱼的血变成了蓝色！"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Saturday, November seventh!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three fun stories today, and one is about a bird who ate too much!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A bird who ate too much? That sounds like me at a birthday party!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I like how you think! Story one! In Roanoke, that is roh-uh-NOHK, in Virginia, a hawk was found sitting in a driveway, and she could not fly!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Could not fly? Was her wing broken?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nope! The animal doctors checked everything, and nothing was wrong! Then they weighed her!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "She weighed two pounds! That is almost a whole pound more than a normal hawk her size!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Whoa! What was she eating?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Chickens! For weeks, she had been sneaking into a neighbor's yard to eat their chickens, then napping in a tree!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Eat and nap! That is my dream day!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "The doctors said she was just too full to fly! Now she is on a diet, and when she slims down, she will fly again!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "No more chicken feasts for her!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Feast! That is our word of the day! Story two! In Dakar, that is dah-KAR, in Senegal, the Youth Olympic Games just opened! The first Olympic event ever in Africa!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "The Olympics for kids?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "For teenagers! About two thousand seven hundred athletes between fourteen and seventeen, from about two hundred countries, in twenty-five sports!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Is snack eating one of them? I would win gold!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Not a sport, but breaking is! It is a dance battle, with spins and flips on the floor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A dance battle at the Olympics? Coolest thing ever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it! The mascot is a young lion named Ayo!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Go, Ayo!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story three! Did you know some animals bleed blue?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Blue blood? Like a blueberry milkshake?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Not quite! Our blood is red because of iron! But octopuses use copper instead, and copper turns their blood blue! Horseshoe crabs bleed blue too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "If I eat a penny, will my blood turn blue?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No! Do not eat pennies, silly! It will just give you a tummy ache!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Okay! What about white blood?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, you are full of surprises today! In Antarctica, the icefish has blood white like milk! It has no red blood cells at all! Scientists call it a ghostly fish!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A ghost fish with milk blood! So weird and so cool!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! Word of the day! Feast! A feast is a big, yummy meal! Say it with us, friends! Feast!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Feast! The hawk had a feast of chickens every single day!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! One more time, nice and loud! Feast!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "FEAST!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Tiny challenge time! Tonight at dinner, tell your family about the too-fat hawk, and teach them our word, feast! Then flap your arms three times, like a hawk!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Flap, flap, flap! Ready for takeoff!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is all for today! Thanks for listening! See you next time, friends!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time!"
+      }
+    ]
   }
 ]
