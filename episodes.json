@@ -6484,5 +6484,194 @@
     "text": "See you tomorrow. Have a great weekend."
    }
   ]
+ },
+ {
+  "date": "2026-11-09",
+  "title": "茶水间英文 - 11月9日 | 英伟达掌门认错、白宫换将、F1雨战封王",
+  "word_count": 835,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-09.mp3",
+  "hook": "Nvidia boss admits affair with alleged spy, Miller takes the West Wing, Norris wins wet Sao Paulo race.",
+  "summary": "英伟达掌门黄仁勋承认与一名被美方认为与中国情报机构有关的女子有染，董事会已启动调查；白宫新幕僚长米勒今天上任，巴西圣保罗大奖赛雨战诺里斯夺冠、梅赛德斯锁定车队总冠军。",
+  "topics": [
+   {
+    "name": "英伟达掌门认错",
+    "start": 2,
+    "end": 9
+   },
+   {
+    "name": "白宫换将",
+    "start": 10,
+    "end": 15
+   },
+   {
+    "name": "F1雨战封王",
+    "start": 16,
+    "end": 22
+   }
+  ],
+  "quickq": [
+   23,
+   27
+  ],
+  "vocab": [
+   [
+    "unfaithful",
+    "对伴侣不忠的"
+   ],
+   [
+    "compromised",
+    "（机密）泄露的；受到损害的"
+   ],
+   [
+    "cooperate fully",
+    "全力配合"
+   ],
+   [
+    "closed-door briefing",
+    "闭门简报会"
+   ],
+   [
+    "double down",
+    "加倍坚持；加大赌注"
+   ],
+   [
+    "architect of...",
+    "……的设计者；幕后推手"
+   ],
+   [
+    "pole position",
+    "杆位（发车第一位）"
+   ],
+   [
+    "wrap up",
+    "圆满完成；收尾"
+   ],
+   [
+    "checkered flag",
+    "黑白格旗（终点旗）"
+   ]
+  ],
+  "turns": [
+   {
+    "speaker": "Alex",
+    "text": "It is Monday, November ninth, and welcome back to the Watercooler. I am Alex."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And I am Jordan. Happy Monday, everyone. We have a big one today, so let us jump straight in."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Okay, first up, the story everyone is talking about. The boss of Nvidia, the most valuable company in the world, just admitted something huge."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh, this one is wild. Jensen Huang, the chief executive of Nvidia, sent an email to his staff on Sunday, and in it, he said he was unfaithful to his wife."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Right, and this is not just a personal story. The woman at the center of it is Alice Huang, a senior executive at a Singapore data center company called Megaspeed, and American intelligence officials believe she was recruited by Chinese intelligence to gather information about Nvidia."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And the two of them are not related, even though they share the same last name. The New York Times first reported on October twenty ninth that American intelligence had been watching her."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Nvidia's board moved fast. On Sunday, they opened an independent investigation, and they said they have no reason to believe any company secrets were compromised. Huang stays on as chief executive while it runs."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "He also apologized to his family and staff, and said he would cooperate fully. But the story is not going away. Three House committee chairs want him in for a closed door briefing on November eighteenth, the day after Nvidia reports earnings."
+   },
+   {
+    "speaker": "Alex",
+    "text": "And just to be clear, Alice Huang has not been charged with any crime, and China has rejected the reporting. Still, this is the story everyone will be talking about all week."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Steal this one. Did you hear about the Nvidia boss? He just admitted he had an affair with a woman American intelligence says may be a spy, and now the board is investigating."
+   },
+   {
+    "speaker": "Alex",
+    "text": "From Silicon Valley to Washington, because today is also the first day for a new chief of staff at the White House."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Right, Stephen Miller starts today. President Trump announced on Friday that Miller, who is forty one, will replace Susie Wiles as chief of staff."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Miller has been with Trump since twenty seventeen, and he was the top speechwriter in the first term. He is also the architect of the immigration crackdown, so this is a big promotion for one of the president's closest advisers."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And Wiles, who is sixty nine, was the first woman ever to hold the job. She ran the White House for twenty one months, and now she moves over to Trump's political operation."
+   },
+   {
+    "speaker": "Alex",
+    "text": "The timing tells you a lot. This comes just days after Republicans lost both the House and the Senate in the midterms, so Washington is reading it as Trump doubling down instead of softening up."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Steal this one. So apparently the White House has a new chief of staff starting today, and it is Stephen Miller, one of Trump's closest advisers."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Okay, one last story, and it is a much lighter one. Let us head to Brazil, where it rained, it poured, and one driver just owned the whole race."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh, the Sao Paulo Grand Prix. Lando Norris won it in the rain, and it was a beauty."
+   },
+   {
+    "speaker": "Alex",
+    "text": "He started from pole position, led forty seven of the seventy one laps, and finished about fifteen seconds ahead of Max Verstappen. Isack Hadjar came in third."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And the bigger story might be Mercedes. With George Russell fourth and Kimi Antonelli fifth, Mercedes locked up the constructors championship, their ninth team title, and their first since twenty twenty one."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Antonelli is only twenty, and he became the youngest world champion ever just last week in Mexico. So Mercedes now has both titles wrapped up with three races to go."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "My favorite detail is that the checkered flag was waved by Neymar, the Brazilian soccer star. Only in Brazil."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Steal this one. Did you see the Sao Paulo Grand Prix? Norris won in the rain, and Mercedes are team champions again for the first time since twenty twenty one."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Okay, quick question before we go. If you could read other people's minds for one day, would you do it, and whose mind would you read first?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Oh, I would do it in a second, but I would be terrified. I would read my neighbor's mind first, just to find out what he really thinks of my cooking."
+   },
+   {
+    "speaker": "Alex",
+    "text": "That is a dangerous game. I would read my boss's mind, and then I would spend the whole day pretending I did not know what I knew."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "But what if you read someone's mind and found out they were just thinking about lunch? That would be the most disappointing superpower ever."
+   },
+   {
+    "speaker": "Alex",
+    "text": "True, but at least I would know. Listeners, what about you? If you could read minds for one day, would you do it, and whose mind would you read first?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is our show for today. Go steal those lines, have a great Monday, and we will catch you tomorrow."
+   },
+   {
+    "speaker": "Alex",
+    "text": "See you tomorrow."
+   }
+  ]
  }
 ]
