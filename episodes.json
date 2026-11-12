@@ -7019,5 +7019,190 @@
     "text": "See you tomorrow."
    }
   ]
+ },
+ {
+  "date": "2026-11-12",
+  "title": "茶水间英文 - 11月12日 | 黄仁勋辞职、和谈入莫斯科、日本食品减税",
+  "word_count": 797,
+  "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-12.mp3",
+  "hook": "Nvidia's boss resigns overnight, peace talks land in Moscow, and Japan slashes its grocery tax",
+  "summary": "华尔街日报报道黄仁勋辞去英伟达首席执行官职务，美国特使赴莫斯科与普京会谈，日本众议院通过法案拟把食品税从8%降至1%。",
+  "topics": [
+   {
+    "name": "黄仁勋辞职",
+    "start": 2,
+    "end": 10
+   },
+   {
+    "name": "和谈入莫斯科",
+    "start": 11,
+    "end": 16
+   },
+   {
+    "name": "日本食品减税",
+    "start": 17,
+    "end": 22
+   }
+  ],
+  "quickq": [
+   23,
+   28
+  ],
+  "vocab": [
+   [
+    "successor",
+    "继任者；接班人"
+   ],
+   [
+    "waiting in the wings",
+    "在幕后待命；随时准备接手"
+   ],
+   [
+    "sticking point",
+    "僵持不下的关键点；症结"
+   ],
+   [
+    "steer the conversation",
+    "引导谈话方向"
+   ],
+   [
+    "prisoner exchange",
+    "换俘；交换战俘"
+   ],
+   [
+    "on brand",
+    "很符合某人一贯的风格"
+   ],
+   [
+    "cost of living",
+    "生活成本"
+   ],
+   [
+    "relive",
+    "重新经历；重温"
+   ]
+  ],
+  "turns": [
+   {
+    "speaker": "Alex",
+    "text": "Good morning, and welcome back to the show. It is Thursday, November twelfth, and we are here with your daily dose of things to talk about."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Good morning. Alex, did you sleep at all last night, because the biggest story in the world feels like it broke while we were all asleep."
+   },
+   {
+    "speaker": "Alex",
+    "text": "I did not, and you are right. The Wall Street Journal is reporting that Jensen Huang has resigned as chief executive of Nvidia."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Wait, resigned? The man who built the company?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "That is what the Journal is reporting. Huang co-founded Nvidia in nineteen ninety-three and has run it ever since, and now, after a scandal that started with reports about his personal life, the board has moved to push him out."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Walk me through it, because this moved fast."
+   },
+   {
+    "speaker": "Alex",
+    "text": "On Sunday, Huang wrote to his staff and admitted he had been unfaithful to his wife. Then on Wednesday, reports came out about a second affair, this time with an employee who reports directly to him. The board opened an investigation, met on Wednesday, and now the Journal says he is out."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And the market did not take it well."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Not at all. Nvidia shares fell around ten percent before the market opened, and the company has lost more than half a trillion dollars in market value in recent days. The problem is that Huang has around sixty people reporting directly to him, and he has always said he does not believe in planning for a successor. So there is no obvious next person waiting in the wings."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "That is the wild part to me. The most valuable chip company on earth, and nobody knows who runs it tomorrow."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Exactly. And your small talk line for this one is easy. So apparently the boss of the biggest A I chip company in the world just resigned overnight."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Speaking of high stakes meetings, the peace talks are moving again, and this time they are in Moscow."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Right. Two American envoys, Steve Witkoff and Jared Kushner, arrived in Moscow this morning for talks with President Vladimir Putin. This is the tenth time Witkoff has met Putin in person."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "And this comes right after two days of talks in Abu Dhabi."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Yes, the talks in Abu Dhabi finished on Wednesday. There was news of another big prisoner exchange, but no real breakthrough on the big questions. The sticking point is land. Kyiv has strongly rejected giving up the whole Donbas region, so the mediators are steering the conversation toward security guarantees and rebuilding after the war."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "So the mood is, keep talking, and hope the talking itself buys time."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Pretty much. And here is your line. Did you hear the peace talks moved to Moscow, and this is the tenth meeting between Witkoff and Putin?"
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Okay, completely different energy now. I love this one. Japan might be about to make groceries cheaper."
+   },
+   {
+    "speaker": "Alex",
+    "text": "I know, what a great small talk story. Last week, the lower house in Japan passed a bill to cut the tax on food from eight percent to one percent for two years, starting in April twenty twenty-seven."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "Eight percent down to one percent. That is a huge cut."
+   },
+   {
+    "speaker": "Alex",
+    "text": "It is. The government says the average person would save around thirty-six thousand yen, and it would be the first tax cut since Japan introduced the consumption tax in nineteen eighty-nine. The catch is that the bill still has to pass the upper house, where the ruling coalition is four seats short of a majority, and nobody has settled how to pay for it yet."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "So it is not a done deal, but supermarkets are already getting ready to cut prices."
+   },
+   {
+    "speaker": "Alex",
+    "text": "Exactly. And your line is simple. So apparently Japan is about to make groceries a whole lot cheaper."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "All right, time for our random question. Alex, if you could relive any one day of your life, exactly as it happened, which day would you pick?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Oh, that is a good one. I would pick the day I graduated from college, because I was so nervous in the morning and so happy by the evening, and I would love to feel that whole swing again."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "I love that. Mine is much sillier. I would relive the day my family got our first dog, because I was eight and I cried for an hour, and I would love to see my own face in that moment."
+   },
+   {
+    "speaker": "Alex",
+    "text": "You cried? That is adorable and also very on brand for you."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "I did, and I would do it again. What about you, listening right now? If you could relive one day, which day would you pick?"
+   },
+   {
+    "speaker": "Alex",
+    "text": "Steal that question and ask a friend today. That is our show. Go have a great Thursday, and we will catch you tomorrow."
+   },
+   {
+    "speaker": "Jordan",
+    "text": "See you tomorrow."
+   }
+  ]
  }
 ]
