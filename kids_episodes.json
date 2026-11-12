@@ -4012,6 +4012,23 @@
         "speaker": "Lina",
         "text": "See you next time!"
       }
+    ],
+    "photos": [
+      {
+        "story": "coral city",
+        "url": "https://www.australiangeographic.com.au/wp-content/uploads/2026/11/19_DSC_0251_Justin-Gilligan-1800x1200.jpg",
+        "credit": "Justin Gilligan / Australian Geographic — the rose coral colony at Cocos (Keeling) Islands, with fish and a diver"
+      },
+      {
+        "story": "wedding dog",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Jrt03.jpg",
+        "credit": "Jeffrey C. Dege / Wikimedia Commons (CC BY-SA 3.0) — a Jack Russell Terrier like the wedding crasher (not the actual dog)"
+      },
+      {
+        "story": "bioplastic",
+        "url": "https://npr.brightspotcdn.com/dims4/default/947e4fe/2147483647/strip/true/crop/497x660+0+0/resize/880x1169!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F3a%2F70ec7ef64430b2233ce0fe05cb5a%2Fryerost-bioplastic.jpg",
+        "credit": "Society for Science, via Montana Public Radio — Rye Rost holding the bioplastic she invented"
+      }
     ]
   }
 ]
