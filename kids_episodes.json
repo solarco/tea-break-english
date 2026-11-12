@@ -3813,5 +3813,205 @@
         "credit": "NASA/JPL-Caltech/MSSS via Wikimedia Commons — Perseverance rover selfie on Mars (the rover itself, not the ruby-bearing rocks)"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "title": "小小英文新鲜事 - 1112 | 海底珊瑚城、狗狗大闹婚礼、香蕉变塑料",
+    "word_count": 509,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-12.mp3",
+    "stories": [
+      "海底珊瑚城",
+      "狗狗大闹婚礼",
+      "香蕉变塑料"
+    ],
+    "word_of_day": [
+      "colossal",
+      "巨大的；庞大的"
+    ],
+    "ending_game": "二选一：潜水游进海底珊瑚城，还是让一只搞笑小狗闯进你的生日派对偷吃蛋糕？你选哪个？也问问爸爸妈妈！",
+    "vocab": [
+      {
+        "en": "colossal",
+        "zh": "巨大的；庞大的",
+        "def": "really, really big, bigger than big",
+        "ex_en": "The rose coral is colossal!",
+        "ex_zh": "玫瑰珊瑚巨大无比！"
+      },
+      {
+        "en": "coral",
+        "zh": "珊瑚",
+        "def": "a tiny sea animal that builds huge reefs under the sea",
+        "ex_en": "The coral looks like a giant rose!",
+        "ex_zh": "珊瑚看起来像一朵巨大的玫瑰！"
+      },
+      {
+        "en": "gatecrash",
+        "zh": "不请自来；闯入",
+        "def": "to show up at a party without being invited",
+        "ex_en": "The little dog gatecrashed the wedding!",
+        "ex_zh": "小狗不请自来，闯进了婚礼！"
+      },
+      {
+        "en": "bioplastic",
+        "zh": "生物塑料",
+        "def": "plastic made from plants, not from oil",
+        "ex_en": "Rye made bioplastic from bananas!",
+        "ex_zh": "Rye 用香蕉做出了生物塑料！"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Thursday, November twelfth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three fun stories today, and one of them is hiding under the sea!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hiding under the sea? Is it a pirate treasure?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha ha! Even better than treasure! Story one! Scientists found a secret coral city under the sea!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A coral city? Do little fish live there?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, you are so close! Fish live there! This coral is called the rose coral, and it is one and a half kilometers long!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "One and a half kilometers? That is longer than my street!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Way longer! Fifteen soccer fields in a row! People say it looks like a giant rose!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A giant rose under the sea? Can I live there? Can I be the mayor?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! You would need gills, Lina! Scientists say it is one of the biggest coral colonies ever found!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Wow! I want to swim through the coral city!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Now, story two! In England, a little dog crashed a wedding!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Crashed a wedding? Did he wear a tiny suit?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha ha! No tiny suit, Lina! He was a Jack Russell, and he ran right into the church in the middle of the wedding!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Oh no! Did he bark during the vows?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "He ran around all the guests, and then he found the other dog! The bride and groom had their own dog, Duggie, and he was going to be the ring bearer!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "The ring bearer? A dog carried the rings?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Yes! And the runaway dog ran straight to Duggie, like, hey, new friend!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So the wedding had two dogs? That is the best wedding ever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No way, you are right! The bride said it was hilarious!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I want a dog at my wedding! Wait, I am not getting married!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha ha ha! Good point, Lina! Story three! A thirteen year old girl turned bananas into plastic!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bananas into plastic? Can I eat the plastic then?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! No eating the plastic, Lina! Her name is Rye, and she lives in Montana! She made a new kind of plastic from bananas and plantains!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Why bananas? Why not apples?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Great thinking! Her plastic comes from plants, not from oil! She worked on it for four whole years!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Four years? That is a lot of bananas!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It sure is! She won a big prize at a national science contest! Maybe one day, our boxes will be made from bananas!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Then if I drop my lunchbox, it will smell like bananas!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, that is so funny! Now, word of the day! Colossal! Colossal means really, really, really big! Say it with us, friends! Colossal!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Colossal! The rose coral is colossal!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time! Colossal!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "COLOSSAL!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Would you rather time, friends! Swim through a giant coral city under the sea, or have a funny little dog crash your birthday party and steal the cake?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hmm! The dog! I would share my cake with him!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, that is so sweet! What about you, friends? Ask your mom and dad too! Thanks for listening!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time!"
+      }
+    ]
   }
 ]
