@@ -3817,7 +3817,7 @@
   {
     "date": "2026-11-12",
     "title": "小小英文新鲜事 - 1112 | 海底珊瑚城、狗狗大闹婚礼、香蕉变塑料",
-    "word_count": 496,
+    "word_count": 501,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-12.mp3",
     "stories": [
       "海底珊瑚城",
@@ -3987,6 +3987,14 @@
       {
         "speaker": "Lina",
         "text": "Colossal! The rose coral is colossal!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time. Colossal!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "COLOSSAL!"
       },
       {
         "speaker": "Mia",
