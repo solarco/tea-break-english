@@ -4033,13 +4033,13 @@
   },
   {
     "date": "2026-11-14",
-    "title": "小小英文新鲜事 - 1114 | 流星雨之夜、熊猫新家、狗狗冲浪",
-    "word_count": 516,
+    "title": "小小英文新鲜事 - 1114 | 流星雨之夜、熊猫新家、凯恩破纪录",
+    "word_count": 532,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-14.mp3",
     "stories": [
       "流星雨之夜",
       "熊猫新家",
-      "狗狗冲浪"
+      "凯恩破纪录"
     ],
     "word_of_day": [
       "meteor",
@@ -4069,11 +4069,11 @@
         "ex_zh": "熊猫们整天大口嚼竹子！"
       },
       {
-        "en": "surfboard",
-        "zh": "冲浪板",
-        "def": "a long board you stand on to ride waves",
-        "ex_en": "Sugar stood on her surfboard!",
-        "ex_zh": "Sugar 站在她的冲浪板上！"
+        "en": "penalty kick",
+        "zh": "点球",
+        "def": "a kick at the goal from one spot, after a foul",
+        "ex_en": "Kane scored from a penalty kick!",
+        "ex_zh": "凯恩罚进了一个点球！"
       }
     ],
     "turns": [
@@ -4179,47 +4179,47 @@
       },
       {
         "speaker": "Mia",
-        "text": "Munch, munch! But careful, bamboo is super crunchy! Story three! Dogs went surfing!"
+        "text": "Munch, munch! But careful, bamboo is super crunchy! Story three! A football hero just broke a huge record!"
       },
       {
         "speaker": "Lina",
-        "text": "Dogs? Surfing? On real surfboards?"
+        "text": "A record? Like the biggest sandwich ever?"
       },
       {
         "speaker": "Mia",
-        "text": "Yes! Real surfboards! In California, dogs rode the waves in a big surfing contest!"
+        "text": "Even better! His name is Harry Kane! He plays football for England!"
       },
       {
         "speaker": "Lina",
-        "text": "Did they wear tiny sunglasses?"
+        "text": "Did he score a goal?"
       },
       {
         "speaker": "Mia",
-        "text": "Nope! Just four paws on a surfboard! A dog named Sugar won the big dog contest! She is eleven years old, and she rode the waves like a pro!"
+        "text": "He did! On Thursday night, England played Croatia, and Harry scored the winning goal! It was his ninety second goal for England!"
       },
       {
         "speaker": "Lina",
-        "text": "Eleven years old? She is older than me!"
+        "text": "Ninety two? That is a lot of goals!"
       },
       {
         "speaker": "Mia",
-        "text": "In dog years, she is super old! And a little French bulldog named Sherry won the small dog contest! She rode one long wave all the way to the beach!"
+        "text": "The most ever! No one in England has ever scored that many! And it was his one hundred and twenty sixth game for England! That is the most games ever too!"
       },
       {
         "speaker": "Lina",
-        "text": "Whoa! Can I surf with Sugar?"
+        "text": "One hundred and twenty six games? Wow! Was he tired?"
       },
       {
         "speaker": "Mia",
-        "text": "Only with a very big surfboard! And a life jacket! The dogs get points from judges, just like people!"
+        "text": "Not at all! He scored from a penalty kick, right down the middle! And guess what? He just won a big golden ball prize for best player in the world!"
       },
       {
         "speaker": "Lina",
-        "text": "Ten points for Sugar! Ten points for Sherry!"
+        "text": "A golden ball? Can I have one?"
       },
       {
         "speaker": "Mia",
-        "text": "Ten points for everyone! Now, word of the day! Meteor! A meteor is a bright streak of light in the sky, made by a tiny bit of space dust! Say it with us, friends! Meteor!"
+        "text": "Only if you score ninety two goals! Now, word of the day! Meteor! A meteor is a bright streak of light in the sky, made by a tiny bit of space dust! Say it with us, friends! Meteor!"
       },
       {
         "speaker": "Lina",
