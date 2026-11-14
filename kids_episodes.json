@@ -4030,5 +4030,225 @@
         "credit": "Society for Science, via Montana Public Radio — Rye Rost holding the bioplastic she invented"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "小小英文新鲜事 - 1114 | 流星雨之夜、熊猫新家、狗狗冲浪",
+    "word_count": 516,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-14.mp3",
+    "stories": [
+      "流星雨之夜",
+      "熊猫新家",
+      "狗狗冲浪"
+    ],
+    "word_of_day": [
+      "meteor",
+      "流星"
+    ],
+    "ending_game": "小挑战：周二晚上和家人一起抬头看天空、数流星，再把今天的单词 meteor 教给一个人！",
+    "vocab": [
+      {
+        "en": "meteor",
+        "zh": "流星",
+        "def": "a bright streak of light in the sky, made by a tiny bit of space dust",
+        "ex_en": "I saw a meteor last night!",
+        "ex_zh": "我昨晚看到了一颗流星！"
+      },
+      {
+        "en": "twinkle",
+        "zh": "闪烁",
+        "def": "to shine with little quick flashes of light",
+        "ex_en": "The stars twinkle in the sky!",
+        "ex_zh": "星星在天空中闪烁！"
+      },
+      {
+        "en": "munch",
+        "zh": "大口嚼",
+        "def": "to chew something noisily",
+        "ex_en": "The pandas munch bamboo all day!",
+        "ex_zh": "熊猫们整天大口嚼竹子！"
+      },
+      {
+        "en": "surfboard",
+        "zh": "冲浪板",
+        "def": "a long board you stand on to ride waves",
+        "ex_en": "Sugar stood on her surfboard!",
+        "ex_zh": "Sugar 站在她的冲浪板上！"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends, welcome back! I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! It is Saturday, November fourteenth!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Three fun stories today, and one of them is falling from the sky!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Falling from the sky? Is it raining pizza?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, pizza rain! Now that would be tasty news!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story one! On Tuesday night, look up! Shooting stars are coming!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Shooting stars? Real stars, falling down?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not real stars! They are tiny bits of dust from a comet! When they zoom into our sky, they burn up and make bright streaks of light!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "So the sky is going to sparkle?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! They are called the Leonids, and they fly from Leo, the lion!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A lion in the sky? Does he roar?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No roaring, just twinkling! He is a very quiet lion! The best time to watch is after midnight, on Tuesday night into Wednesday morning! You might see ten to fifteen shooting stars every hour!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Fifteen? I am going to count them all!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! Mars and Jupiter will be there too!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A sky party! Can I bring snacks?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Snacks are a must! Now, story two! Two giant pandas just moved to a new home!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Pandas? Did they take a taxi?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "No taxi! They flew on a huge airplane! Their names are Ping Ping and Foo Shwahng!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Foo Shwahng? That is a fun name to say!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Say it with me! Foo Shwahng!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Foo Shwahng!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it! They flew all the way from Chung-doo, in China, to Atlanta, in America!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "That is a super long flight! Did they get snacks?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Bamboo! That is panda snacks! They are both six years old, and now they live in a brand new panda house at the zoo!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I want to munch bamboo with them!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Munch, munch! But careful, bamboo is super crunchy! Story three! Dogs went surfing!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Dogs? Surfing? On real surfboards?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Yes! Real surfboards! In California, dogs rode the waves in a big surfing contest!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Did they wear tiny sunglasses?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nope! Just four paws on a surfboard! A dog named Sugar won the big dog contest! She is eleven years old, and she rode the waves like a pro!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Eleven years old? She is older than me!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "In dog years, she is super old! And a little French bulldog named Sherry won the small dog contest! She rode one long wave all the way to the beach!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Whoa! Can I surf with Sugar?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Only with a very big surfboard! And a life jacket! The dogs get points from judges, just like people!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Ten points for Sugar! Ten points for Sherry!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ten points for everyone! Now, word of the day! Meteor! A meteor is a bright streak of light in the sky, made by a tiny bit of space dust! Say it with us, friends! Meteor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Meteor! I saw a meteor last night! Well, in my dreams!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "One more time. Meteor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "METEOR!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Tiny challenge, friends! On Tuesday night, look up with your family and count the shooting stars! And teach someone our word, meteor!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I am going to count to fifteen!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I bet you will! Thanks for listening!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time!"
+      }
+    ]
   }
 ]
