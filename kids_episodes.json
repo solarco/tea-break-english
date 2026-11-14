@@ -4249,6 +4249,23 @@
         "speaker": "Lina",
         "text": "See you next time!"
       }
+    ],
+    "photos": [
+      {
+        "story": "Leonid meteor shower (流星雨之夜)",
+        "url": "https://astronomynow.com/wp-content/uploads/2016/11/Leonid_meteor_17Nov2009_Ed_Sweeney_1024x768.jpg",
+        "credit": "Ed Sweeney / Wikimedia Commons (via Astronomy Now)"
+      },
+      {
+        "story": "Pandas Ping Ping and Fu Shuang debut at Zoo Atlanta (熊猫新家)",
+        "url": "http://en.people.cn/NMediaFile/2026/1108/FOREIGN1794107276285S7YJY8ITZO.jpg",
+        "credit": "Li Rui / Xinhua via People's Daily Online"
+      },
+      {
+        "story": "Harry Kane record night for England (凯恩破纪录)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg",
+        "credit": "Bryan Berlin / WikiPortraits via Wikimedia Commons (CC BY-SA 4.0)"
+      }
     ]
   }
 ]
