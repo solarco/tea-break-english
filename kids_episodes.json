@@ -4034,7 +4034,7 @@
   {
     "date": "2026-11-14",
     "title": "小小英文新鲜事 - 1114 | 流星雨之夜、熊猫新家、凯恩破纪录",
-    "word_count": 532,
+    "word_count": 525,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-14.mp3",
     "stories": [
       "流星雨之夜",
@@ -4155,15 +4155,7 @@
       },
       {
         "speaker": "Mia",
-        "text": "Say it with me! Foo Shwahng!"
-      },
-      {
-        "speaker": "Lina",
-        "text": "Foo Shwahng!"
-      },
-      {
-        "speaker": "Mia",
-        "text": "Nailed it! They flew all the way from Chung-doo, in China, to Atlanta, in America!"
+        "text": "It sure is! They flew all the way from Chung-doo, in China, to Atlanta, in America!"
       },
       {
         "speaker": "Lina",
