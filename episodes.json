@@ -7662,5 +7662,234 @@
         "text": "See you tomorrow."
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "title": "茶水间英文 - 11月15日 | 演唱会破纪录、AI电影大扑街、错披萨暖心",
+    "word_count": 814,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-15.mp3",
+    "hook": "Kanye breaks his own concert record, an AI movie plays to four people, and a wrong pizza raises $76,000.",
+    "summary": "Kanye West三度刷新美国说唱演唱会人数纪录，中国首部全AI电影票房惨败，送错披萨的外卖员收到陌生人捐出的七万六千美元。",
+    "topics": [
+      {
+        "name": "演唱会破纪录",
+        "start": 2,
+        "end": 11
+      },
+      {
+        "name": "AI电影大扑街",
+        "start": 12,
+        "end": 20
+      },
+      {
+        "name": "错披萨暖心",
+        "start": 21,
+        "end": 30
+      }
+    ],
+    "quickq": [
+      31,
+      37
+    ],
+    "vocab": [
+      [
+        "show up",
+        "出现；到场"
+      ],
+      [
+        "premiere",
+        "首映"
+      ],
+      [
+        "miss the mark",
+        "未达预期；没达到标准"
+      ],
+      [
+        "big screen",
+        "大银幕"
+      ],
+      [
+        "caregiver",
+        "照顾者；看护人"
+      ],
+      [
+        "smash it",
+        "轻松拿下；大获成功"
+      ],
+      [
+        "superpower",
+        "超能力"
+      ],
+      [
+        "eventually",
+        "最终；到头来"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, and welcome back to Watercooler Chat. It is Sunday, November fifteenth, and this is our weekend edition."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The light, fun one. Three good stories to talk about."
+      },
+      {
+        "speaker": "Alex",
+        "text": "We start with a very big crowd."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "How big are we talking?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "More than eighty three thousand people big. Last Saturday, November seventh, Kanye West played a stadium show in Arlington, Texas, and over eighty three thousand fans showed up."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Wait, that is a football stadium, the home of the Dallas Cowboys?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is the one, A T and T Stadium, and the venue called it the biggest rap concert crowd in American history."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is wild. And he broke the same record just a week earlier, right?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "He did. On Halloween night, October thirty first, he drew just over eighty thousand fans in Houston. Seven days later he beat his own record, the third time this year."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So he keeps competing with himself, and he keeps winning."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Pretty much. His team says the Dallas show also made more than eighteen million dollars in one night. His next show is November twenty first, in Arizona."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, here is your line to steal. Did you hear Kanye West just broke his own concert record, again, one week after breaking it?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Completely different vibe now. From eighty three thousand people in a stadium to a movie theatre with almost nobody in it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, I love this one. Tell me."
+      },
+      {
+        "speaker": "Alex",
+        "text": "In China, a movie called Sanxingdui, Future Past opened in theatres on October twenty third. It was the first feature film in China made entirely by A I, no actors, no camera crew, every face and every voice made by a computer."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And people stayed away?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "They really did. After three weeks it had made only about one point eight million yuan, roughly two hundred seventy thousand dollars, far less than it cost to make. At one screening, a reporter counted exactly four people in the audience."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Four people. That is not a premiere, that is a dinner party."
+      },
+      {
+        "speaker": "Alex",
+        "text": "And here is the funny part. The movie is about a future where A I takes over the world. But the audience took one look and said, this looks so obviously A I, and they stayed home. Even a major newspaper in China said the film missed the mark."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Meanwhile, short A I dramas on phones in China are everywhere. Four hundred thirty thousand launched in the first eight months of this year, and more than ninety percent were made with A I."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. Small screen, yes. Big screen, not yet. And here is your line. Have you heard about the A I movie in China that nobody went to see?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, one more, and this one will make you smile. It starts with a wrong pizza."
+      },
+      {
+        "speaker": "Alex",
+        "text": "A wrong pizza? I am listening."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Last year, in Castle Rock, Colorado, a delivery driver named Suzanna Metcalf showed up at a family home with the wrong order. She was exhausted, she apologized, and she promised to come back with the right pizza."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That happens to everyone. What made this one special?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The family did not get annoyed. They stepped outside, put their hands on her shoulders, and prayed with her right there on the porch. Their doorbell camera caught it all, and the video went everywhere."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is so sweet. But why was she so tired?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Because on top of her delivery shifts, she is the full time caregiver for her eighty two year old mother. When the family found that out, they started a fundraiser for her, with her permission, aiming for ten thousand dollars."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Let me guess. They smashed it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "More than two thousand six hundred strangers gave money, and the total has now passed seventy six thousand dollars. And yes, the correct pizza did eventually arrive."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I love that. A wrong order, and the whole internet said, how can we help? And here is your line. Did you see the video of the pizza driver who got seventy six thousand dollars from strangers?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Time for our random question. Alex, if you could have any superpower, but it only worked on weekends, what would you pick?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh, easy. I would fly. On Saturdays and Sundays I would fly to the beach for lunch and be home for dinner."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "You would spend the whole weekend showing off."
+      },
+      {
+        "speaker": "Alex",
+        "text": "I would wave at the planes. What about you?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "I would talk to animals. Only on weekends, so on Monday they would have to go back to ignoring me."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The cats would be so confused."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "They already are. Listeners, steal this question and ask a friend today. If you could have any superpower, but it only worked on weekends, what would you pick?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is our show for today. A record crowd, an empty cinema, and a very good pizza."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Have a wonderful Sunday, and we will catch you tomorrow."
+      },
+      {
+        "speaker": "Alex",
+        "text": "See you tomorrow."
+      }
+    ]
   }
 ]
