@@ -4739,6 +4739,18 @@
         "speaker": "Lina",
         "text": "See you next time!"
       }
+    ],
+    "photos": [
+      {
+        "story": "Mini-moon 2026 QQ8 (迷你月亮)",
+        "url": "https://twanight.org/wp-content/uploads/2020/11/3005039.jpg",
+        "credit": "Tamas Ladanyi via TWAN (telescope dome at Piszkéstető Station, Hungary, where the mini-moon was spotted — not the mini-moon itself)"
+      },
+      {
+        "story": "Two new howler monkey species (红毛吼猴)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Alouatta_discolor.jpg",
+        "credit": "Ric via Wikimedia Commons (CC BY-SA 2.0) — Spix's red-handed howler, a close cousin of the two new species"
+      }
     ]
   }
 ]
