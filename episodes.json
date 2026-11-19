@@ -8562,5 +8562,226 @@
         "text": "See you tomorrow."
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "title": "茶水间英文 - 11月19日 | 万亿IPO开盘、GTA6满分、佛得角冲世界杯",
+    "word_count": 814,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-19.mp3",
+    "hook": "A record trillion-dollar IPO, GTA VI scores 99, and tiny Cape Verde chases a World Cup dream.",
+    "summary": "Anthropic 以 83 美元完成史上最大 IPO 今日挂牌，GTA 6 以 99 分发售，佛得角离队史首个世界杯只差一场胜利。",
+    "topics": [
+      {
+        "name": "万亿IPO开盘",
+        "start": 4,
+        "end": 11
+      },
+      {
+        "name": "GTA6满分",
+        "start": 12,
+        "end": 21
+      },
+      {
+        "name": "佛得角冲世界杯",
+        "start": 22,
+        "end": 29
+      }
+    ],
+    "quickq": [
+      30,
+      35
+    ],
+    "vocab": [
+      [
+        "IPO",
+        "首次公开募股；上市"
+      ],
+      [
+        "allocation",
+        "（新股）配额；分配到的份额"
+      ],
+      [
+        "opening bell",
+        "开盘钟声"
+      ],
+      [
+        "blockbuster",
+        "重磅大作；票房大片"
+      ],
+      [
+        "download bar",
+        "下载进度条"
+      ],
+      [
+        "giant killing",
+        "以下克上；爆冷击败强队"
+      ],
+      [
+        "wide open",
+        "悬念重重；胜负未定"
+      ],
+      [
+        "round of applause",
+        "一阵掌声"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "Good morning, and welcome back to the Watercooler. It is Thursday, November nineteenth."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Thursday already. We are almost at the finish line, Alex."
+      },
+      {
+        "speaker": "Alex",
+        "text": "We are. And today is a huge day. The biggest I P O in history starts trading, the biggest video game in history is finally out, and a tiny island nation is one win away from the World Cup. Let us get into it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Okay, that is quite a lineup. Where do we start?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "With the money. Anthropic, the company behind Claude, priced its shares last night at eighty three dollars each, above the range they first filed. That makes this the biggest I P O ever."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "How big are we talking?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "About eighty one point three billion dollars raised, from around nine hundred eighty million shares. That values the company at roughly one point five trillion dollars, passing the old record set by Space X."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "One point five trillion, for a chatbot company."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right. And today is the big moment. The shares start trading on the Nasdaq under the ticker A N T. Only the lucky few who got an allocation pay the eighty three dollar price. Everyone else buys in the open market, and the first trade usually comes well after the opening bell."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "So the real question is where it opens, not where it priced."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. Around three hundred fifteen million shares held by insiders and early employees can be sold from day one, worth about twenty six billion dollars at the I P O price."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. Did you hear Anthropic just pulled off the biggest I P O in history, worth about one point five trillion dollars?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Oh, and did you see what happened at midnight? G T A six is finally out."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Thirteen years of waiting."
+      },
+      {
+        "speaker": "Alex",
+        "text": "It is here, and the reviews are almost unreal. It scored ninety nine out of one hundred on Metacritic, tying a nineteen ninety eight Zelda game for the highest score ever on the site."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Ninety nine? That basically never happens."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Almost never. And people are buying it like crazy. One estimate says more than seventeen million copies have already sold, worth over one point six five billion dollars, before most of the world had even unlocked it."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "But was it a smooth launch? With a game this big, something always breaks."
+      },
+      {
+        "speaker": "Alex",
+        "text": "You called it. PlayStation Network had sign in trouble right at launch, and some players could not even start the game. Plus the game needs up to two hundred twelve gigabytes, so a lot of people spent the night watching a download bar."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And in New Zealand, downloads broke records. The main fibre network there hit five point six terabits per second."
+      },
+      {
+        "speaker": "Alex",
+        "text": "So the verdict is in. Thirteen years, one point six five billion dollars, and a ninety nine."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. So apparently G T A six is out, and critics are calling it one of the best games ever made."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Okay, one last thing, and it is a long way from Wall Street. Cape Verde is one win away from the World Cup."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Cape Verde? The tiny island nation off the coast of West Africa?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is the one. About half a million people, and they just beat Cameroon one nil. Dailon Livramento scored the only goal in the fifty fourth minute, running past half the Cameroon defence and finishing calmly past Andre Onana."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Wait, Cameroon has five African Cup titles. That is a giant killing."
+      },
+      {
+        "speaker": "Alex",
+        "text": "A huge one. Cape Verde now leads the group by four points with two games left. Three points from those two games, away at Libya and at home against Eswatini, and they are in. It would be their first World Cup ever."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And Senegal came back from two nil down to beat D R Congo three two."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Exactly. The little guys are stealing the show."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. Did you hear Cape Verde, a country of about half a million people, is one win away from its first ever World Cup?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Alright, the random question. Jordan, if you could add one totally useless button to your phone, what would it do when you press it?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, easy. It plays a tiny round of applause, just for me, every time I press it. Bad day? Applause. Finished the laundry? Applause."
+      },
+      {
+        "speaker": "Alex",
+        "text": "You would press it like a hundred times a day."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "At least. What about you?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Mine would make a dramatic drumroll, and then a voice says, very seriously, good job, Alex. Even if I just opened the fridge."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "That is so you. Okay, go ask a friend today. If you could add one totally useless button to your phone, what would it do?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is our show for Thursday. A record I P O, a ninety nine rated game, and a tiny island chasing a giant dream."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Have a great Thursday, and we will catch you tomorrow."
+      },
+      {
+        "speaker": "Alex",
+        "text": "See you tomorrow."
+      }
+    ]
   }
 ]
