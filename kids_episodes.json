@@ -5209,7 +5209,7 @@
   {
     "date": "2026-11-22",
     "title": "小小英文新鲜事 - 1122 | 跳绳破纪录、会变强的果冻、巨型气球游行",
-    "word_count": 450,
+    "word_count": 483,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-22.mp3",
     "stories": [
       "跳绳破纪录",
@@ -5217,38 +5217,38 @@
       "巨型气球游行"
     ],
     "word_of_day": [
-      "gigantic",
-      "巨大的"
+      "squish",
+      "挤压；捏扁"
     ],
     "ending_game": "二选一：骑上巨型布鲁伊气球飞越纽约，还是跳绳快到一跳转五圈？快问问爸爸妈妈选哪个！",
     "vocab": [
       {
-        "en": "gigantic",
-        "zh": "巨大的",
-        "def": "really, really big",
-        "ex_en": "The Bluey balloon is gigantic!",
-        "ex_zh": "布鲁伊气球巨大无比！"
+        "en": "squish",
+        "zh": "挤压；捏扁",
+        "def": "When you squish something, you squeeze it softly.",
+        "ex_en": "Squish the jelly and it gets stronger!",
+        "ex_zh": "捏一捏果冻，它就变得更结实！"
       },
       {
         "en": "skip",
         "zh": "跳绳",
-        "def": "to jump over a rope again and again",
+        "def": "When you skip rope, you jump over a rope again and again.",
         "ex_en": "Let us skip rope together!",
         "ex_zh": "我们一起跳绳吧！"
       },
       {
         "en": "jelly",
         "zh": "果冻；凝胶",
-        "def": "a soft, wobbly, squishy thing",
+        "def": "Jelly is a soft, wobbly, squishy thing.",
         "ex_en": "The jelly gets stronger when you squish it.",
         "ex_zh": "果冻越捏越结实。"
       },
       {
-        "en": "squish",
-        "zh": "挤压；捏扁",
-        "def": "to squeeze something softly",
-        "ex_en": "Squish the jelly and it gets stronger!",
-        "ex_zh": "捏一捏果冻，它就变得更结实！"
+        "en": "parade",
+        "zh": "游行；大游行",
+        "def": "A parade is a big line of people, cars, and balloons moving down the street.",
+        "ex_en": "The parade has giant balloons!",
+        "ex_zh": "游行队伍里有巨型气球！"
       }
     ],
     "turns": [
@@ -5338,7 +5338,7 @@
       },
       {
         "speaker": "Mia",
-        "text": "And Mickey Mouse as a wizard! And Snoopy with Woodstock! And Hello Kitty with a big red apple! One hundred giant balloons will float over the streets!"
+        "text": "And Mickey Mouse as a wizard! And Snoopy with Woodstock! And Hello Kitty with a big red apple! One hundred balloons will float over the streets!"
       },
       {
         "speaker": "Lina",
@@ -5350,19 +5350,19 @@
       },
       {
         "speaker": "Mia",
-        "text": "Today's word is gigantic! Gigantic means really, really big! Say it with us, friends! Gigantic!"
+        "text": "Today's word is squish! Squish means to squeeze something softly! Say it with us, friends! Squish!"
       },
       {
         "speaker": "Lina",
-        "text": "Gigantic! Like a gigantic balloon! Or a gigantic jelly!"
+        "text": "Squish! Like squish the jelly! Squish, squish, squish!"
       },
       {
         "speaker": "Mia",
-        "text": "You are on fire today, Lina! Say it one more time, nice and loud. Gigantic!"
+        "text": "You are on fire today, Lina! Say it one more time, nice and loud. Squish!"
       },
       {
         "speaker": "Lina",
-        "text": "GIGANTIC!"
+        "text": "SQUISH!"
       },
       {
         "speaker": "Mia",
@@ -5370,7 +5370,7 @@
       },
       {
         "speaker": "Lina",
-        "text": "Would you rather ride a gigantic Bluey balloon, or jump rope so fast the rope spins five times in one jump?"
+        "text": "Would you rather ride a giant Bluey balloon, or jump rope so fast the rope spins five times in one jump?"
       },
       {
         "speaker": "Mia",
@@ -5387,6 +5387,23 @@
       {
         "speaker": "Lina",
         "text": "See you next time! Look up at the giant balloons on Thursday!"
+      }
+    ],
+    "photos": [
+      {
+        "story": "跳绳破纪录 (Kirato Hitaka jump rope world records)",
+        "url": "https://www.guinnessworldrecords.com/news/2026/11/images/gwr-day-japan-skipping.jpg",
+        "credit": "Guinness World Records (GWR Day 2026, 19 Nov 2026) — Kirato Hitaka with his three record certificates; certificate presentation, not the jump roping itself"
+      },
+      {
+        "story": "会变强的果冻 (sugar hydrogel that gets stronger when bent)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Picture_of_peptide_hydrogel_formation_shown_by_the_inverted_vial_method.jpg",
+        "credit": "Jessica Hutchinson, CC BY-SA 4.0, via Wikimedia Commons — related hydrogel photo (different lab's material, not the WashU sugar hydrogel); shows what a hydrogel looks like"
+      },
+      {
+        "story": "巨型气球游行 (Macy's 100th Thanksgiving Day Parade balloons)",
+        "url": "https://nypost.com/wp-content/uploads/sites/2/2026/11/20261107_McKnight_BalloonFest-14.jpg",
+        "credit": "McKnight / Lone Pine Press for New York Post (Balloonfest, 7 Nov 2026) — new Hello Kitty Big Apple balloon at the test flight; the new Bluey balloon is not in this shot"
       }
     ]
   }
