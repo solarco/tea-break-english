@@ -5205,5 +5205,189 @@
         "credit": "John Robert McPherson, via Wikimedia Commons (CC0) — same species as Phil, photographed at Sandgate, Australia; not Phil himself"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "title": "小小英文新鲜事 - 1122 | 跳绳破纪录、会变强的果冻、巨型气球游行",
+    "word_count": 450,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-22.mp3",
+    "stories": [
+      "跳绳破纪录",
+      "会变强的果冻",
+      "巨型气球游行"
+    ],
+    "word_of_day": [
+      "gigantic",
+      "巨大的"
+    ],
+    "ending_game": "二选一：骑上巨型布鲁伊气球飞越纽约，还是跳绳快到一跳转五圈？快问问爸爸妈妈选哪个！",
+    "vocab": [
+      {
+        "en": "gigantic",
+        "zh": "巨大的",
+        "def": "really, really big",
+        "ex_en": "The Bluey balloon is gigantic!",
+        "ex_zh": "布鲁伊气球巨大无比！"
+      },
+      {
+        "en": "skip",
+        "zh": "跳绳",
+        "def": "to jump over a rope again and again",
+        "ex_en": "Let us skip rope together!",
+        "ex_zh": "我们一起跳绳吧！"
+      },
+      {
+        "en": "jelly",
+        "zh": "果冻；凝胶",
+        "def": "a soft, wobbly, squishy thing",
+        "ex_en": "The jelly gets stronger when you squish it.",
+        "ex_zh": "果冻越捏越结实。"
+      },
+      {
+        "en": "squish",
+        "zh": "挤压；捏扁",
+        "def": "to squeeze something softly",
+        "ex_en": "Squish the jelly and it gets stronger!",
+        "ex_zh": "捏一捏果冻，它就变得更结实！"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends! It is Sunday, November twenty second, and I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! Three super fun stories today!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story number one! In Japan, there is a young man named Kirato, the best jump rope jumper in the world!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I can jump rope too! One, two, three, and then I trip!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, you are so brave to keep trying! Kirato spins the rope five times in just one jump!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Five times? In one jump? That cannot be real!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "It is real! He did it thirty nine times in a row! That is a world record!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Whoa! His feet must be faster than a hummingbird!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You said it! He can spin it six times too, and even seven!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story number two! Imagine a jelly, a soft wobbly jelly, that gets STRONGER every time you squish it!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A jelly that likes to be squished? That is the silliest thing I ever heard!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "I know, it sounds so silly! Scientists made this jelly from sugar. They bent it ten thousand times, and it got stronger!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Ten thousand times? Can I squish it?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You sure can try! One day, this jelly could help make super strong, bendy things!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Like a robot knee made of jelly! Then robots can do jumping jacks forever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Story number three, and it is a BIG one!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "How big? As big as a house?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Bigger! This Thursday, in New York City, it is the one hundredth Macy's Thanksgiving Day Parade!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A parade? With giant balloons?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Yes! The Bluey balloon is forty seven feet tall, as tall as a five story building!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Bluey is my favorite! I want to wave at giant Bluey!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "And Mickey Mouse as a wizard! And Snoopy with Woodstock! And Hello Kitty with a big red apple! One hundred giant balloons will float over the streets!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "One hundred! Can I ride on top of Bluey and wave to everyone?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! Now, time for our Word of the day!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Today's word is gigantic! Gigantic means really, really big! Say it with us, friends! Gigantic!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Gigantic! Like a gigantic balloon! Or a gigantic jelly!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You are on fire today, Lina! Say it one more time, nice and loud. Gigantic!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "GIGANTIC!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "And now, our ending game! Would you rather time!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Would you rather ride a gigantic Bluey balloon, or jump rope so fast the rope spins five times in one jump?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, that is a hard one! I would ride on Bluey and wave to everyone below!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I would jump rope super fast and fly like a hummingbird! What about you, friends? Ask your mom and dad too!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is all for today, friends!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time! Look up at the giant balloons on Thursday!"
+      }
+    ]
   }
 ]
