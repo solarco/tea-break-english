@@ -5431,18 +5431,18 @@
         "ex_zh": "豪猪在紫光下会发光。"
       },
       {
-        "en": "inventor",
-        "zh": "发明家",
-        "def": "An inventor is a person who makes up a brand new thing.",
-        "ex_en": "Ruby is a young inventor!",
-        "ex_zh": "露比是一位小发明家！"
+        "en": "invent",
+        "zh": "发明；创造",
+        "def": "To invent means to make up a brand new thing.",
+        "ex_en": "Ruby loves to invent new toys!",
+        "ex_zh": "露比喜欢发明新玩具！"
       },
       {
-        "en": "spruce",
-        "zh": "云杉",
-        "def": "A spruce is a tall tree with pointy green needles.",
-        "ex_en": "The Christmas tree is a spruce.",
-        "ex_zh": "这棵圣诞树是一棵云杉。"
+        "en": "giraffe",
+        "zh": "长颈鹿",
+        "def": "A giraffe is a very tall animal with a long neck.",
+        "ex_en": "The tree is taller than four giraffes!",
+        "ex_zh": "这棵树比四只长颈鹿还高！"
       },
       {
         "en": "quill",
@@ -5592,6 +5592,13 @@
       {
         "speaker": "Lina",
         "text": "See you next time! Go find something that glows!"
+      }
+    ],
+    "photos": [
+      {
+        "story": "巨型圣诞树 (Rockefeller Center Christmas tree)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Rockefeller_Center_Christmas_Tree%2C_2023-12-02.jpg",
+        "credit": "JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons — the Rockefeller Center tree lit up on 2 Dec 2023 (a previous year's tree; this year's 76-foot spruce arrived 7 Nov 2026, lighting 2 Dec 2026)"
       }
     ]
   }
