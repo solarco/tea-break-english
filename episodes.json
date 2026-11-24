@@ -9691,30 +9691,30 @@
   {
     "date": "2026-11-24",
     "title": "茶水间英文 - 11月24日 | 两州告Grok、麻疹卷土重来、感恩节遇风暴",
-    "word_count": 1023,
+    "word_count": 965,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-24.mp3",
     "hook": "Two states sue Grok, measles loses its elimination status, and a storm crashes Thanksgiving travel.",
     "summary": "弗吉尼亚和俄勒冈起诉马斯克旗下公司，指控 Grok 能把普通照片变成未经同意的色情假图，美国则失去了保持二十六年的麻疹消除状态，感恩节出行还撞上东北风暴。",
     "topics": [
       {
         "name": "两州告Grok",
-        "start": 3,
-        "end": 8
+        "start": 2,
+        "end": 7
       },
       {
         "name": "麻疹卷土重来",
-        "start": 9,
-        "end": 14
+        "start": 8,
+        "end": 13
       },
       {
         "name": "感恩节遇风暴",
-        "start": 15,
-        "end": 20
+        "start": 14,
+        "end": 19
       }
     ],
     "quickq": [
-      21,
-      27
+      20,
+      26
     ],
     "vocab": [
       [
@@ -9760,12 +9760,8 @@
         "text": "And I am Jordan. Welcome back to the watercooler, where we catch up on the stuff everyone will be talking about today."
       },
       {
-        "speaker": "Alex",
-        "text": "First, a quick check on something we promised yesterday. We said we would check whether Monday's rebound holds, or fades away. Well, it held. The Nasdaq jumped six and a half percent on Monday, and Nvidia surged about thirty percent after Jensen Huang came back as chief executive."
-      },
-      {
         "speaker": "Jordan",
-        "text": "So the comeback is real, at least for one day. Now, on to today. Two states just sued one of the biggest names in A I, and the case is about what an A I chatbot can do with your photo."
+        "text": "Let us jump right in. Two states just sued one of the biggest names in A I, and the case is about what an A I chatbot can do with your photo."
       },
       {
         "speaker": "Alex",
