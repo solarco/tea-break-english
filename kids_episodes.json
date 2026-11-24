@@ -5406,5 +5406,193 @@
         "credit": "McKnight / Lone Pine Press for New York Post (Balloonfest, 7 Nov 2026) — new Hello Kitty Big Apple balloon at the test flight; the new Bluey balloon is not in this shot"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "title": "小小英文新鲜事 - 1124 | 会发光的豪猪、小小发明家、巨型圣诞树",
+    "word_count": 482,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-kids-manifest/main/mp3/2026-11-24.mp3",
+    "stories": [
+      "会发光的豪猪",
+      "小小发明家",
+      "巨型圣诞树"
+    ],
+    "word_of_day": [
+      "glow",
+      "发光；闪耀"
+    ],
+    "ending_game": "谜语：白天看不见、晚上会发光，没有插头、住在墨西哥树上、浑身是刺——我是谁？答案：会发光的豪猪！",
+    "vocab": [
+      {
+        "en": "glow",
+        "zh": "发光；闪耀",
+        "def": "When something glows, it gives off soft light.",
+        "ex_en": "The porcupine glows under purple light.",
+        "ex_zh": "豪猪在紫光下会发光。"
+      },
+      {
+        "en": "inventor",
+        "zh": "发明家",
+        "def": "An inventor is a person who makes up a brand new thing.",
+        "ex_en": "Ruby is a young inventor!",
+        "ex_zh": "露比是一位小发明家！"
+      },
+      {
+        "en": "spruce",
+        "zh": "云杉",
+        "def": "A spruce is a tall tree with pointy green needles.",
+        "ex_en": "The Christmas tree is a spruce.",
+        "ex_zh": "这棵圣诞树是一棵云杉。"
+      },
+      {
+        "en": "quill",
+        "zh": "尖刺",
+        "def": "A quill is a sharp, pointy spine on a porcupine.",
+        "ex_en": "The porcupine has sharp quills!",
+        "ex_zh": "豪猪身上有尖尖的刺！"
+      }
+    ],
+    "turns": [
+      {
+        "speaker": "Mia",
+        "text": "Hi friends! It is Tuesday, November twenty fourth, and I am Mia!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "And I am Lina! Three super fun stories today, and one of them GLOWS!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Oh, you are already giving hints! Story number one! In Mexico, there is a little animal with a big secret!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A secret? Is it a superhero animal?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Almost! It is a porcupine, a hairy dwarf porcupine! It lives in a tree!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A porcupine in a tree? Does it fall down and go boing?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! It holds on tight with its curly tail! But here is the magic part! When scientists shine a purple light on it, the porcupine GLOWS!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "It glows?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Yes! Its quills turn green and blue, and its little feet glow yellow! The glow helps scientists find them at night!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Story number two! Kids just like you invented brand new toys!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Kids invented toys? I invent things too! I invented a sandwich with cookies inside!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That sounds very sticky! At a toy contest in Chicago, almost two hundred fifty kids showed off their own toys!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Two hundred fifty? That is a LOT of toys!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it! Two little sisters won a prize! Isla is in third grade, and Ruby is in first grade! They invented a game called Pocket Fam!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A whole family that fits in your pocket?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Exactly! The judges loved it!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "I want to invent a game where the loser has to dance like a penguin!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Ha! I like how you think! Now, story number three! A very famous tree is waiting for its big moment!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A tree? Can I live in it?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not a tree house, silly! In New York City, there is a giant Christmas tree, seventy six feet tall! That is taller than four giraffes!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Four giraffes? Whoa! Is it wearing lights yet?"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Not yet! On December second, workers will switch on fifty thousand lights, and a star as heavy as a horse goes right on top!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "And when Christmas is over, the tree becomes wood for new houses!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "A tree that becomes a house? That is the best ending ever!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "And now, our Word of the day!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Today's word is glow! Glow means to give off soft light! Say it with us, friends! Glow!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Glow! Like the glowing porcupine!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Nailed it! Say it one more time, nice and loud! Glow!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "GLOW!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "And now, riddle time!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "Listen close! I shine in the dark, but I have no plug! I live in a tree in Mexico, and I am covered in spikes! What am I?"
+      },
+      {
+        "speaker": "Lina",
+        "text": "Hmm! A Christmas tree? No wait! A porcupine! The glowing porcupine!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "You got it!"
+      },
+      {
+        "speaker": "Mia",
+        "text": "That is all for today, friends!"
+      },
+      {
+        "speaker": "Lina",
+        "text": "See you next time! Go find something that glows!"
+      }
+    ]
   }
 ]
