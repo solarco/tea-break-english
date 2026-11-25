@@ -9876,7 +9876,7 @@
   {
     "date": "2026-11-25",
     "title": "茶水间英文 - 11月25日 | 感恩节风暴、AI歌大清洗、橄榄球盛宴",
-    "word_count": 1136,
+    "word_count": 955,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-25.mp3",
     "hook": "Thanksgiving storm threatens the Macy's balloons, Tidal deletes 29 million AI songs, and football feasts all week.",
     "summary": "感恩节风暴逼近东海岸，梅西大游行的巨型气球可能史上第二次无法升空，Tidal 则宣布删除两千九百万首 AI 生成的歌曲，NFL 也以史上首场感恩节前夜比赛开启橄榄球盛宴。",
@@ -9896,10 +9896,6 @@
         "start": 19,
         "end": 26
       }
-    ],
-    "quickq": [
-      27,
-      33
     ],
     "vocab": [
       [
@@ -9962,7 +9958,7 @@
       },
       {
         "speaker": "Jordan",
-        "text": "The balloons have been grounded only once in parade history, back in nineteen seventy one. So if it happens tomorrow, it would be only the second time ever, on the parade's one hundredth birthday. The final call comes Thursday morning."
+        "text": "The balloons have been grounded only once in parade history, back in nineteen seventy one. So if it happens tomorrow, it would be only the second time ever, on the parade's one hundredth birthday. The call comes Thursday morning."
       },
       {
         "speaker": "Alex",
@@ -10039,34 +10035,6 @@
       {
         "speaker": "Alex",
         "text": "Steal this one. Are you watching the Thanksgiving games? Apparently there is even a game tonight, the first ever on Thanksgiving Eve, and it is on Netflix."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Okay, time for our random question. If you could invent a fourth meal of the day, a whole new meal between lunch and dinner, what would it be, and what would you eat?"
-      },
-      {
-        "speaker": "Alex",
-        "text": "Oh, I love this one. I would call it linner, lunch plus dinner, and it would be tiny tacos, every single day. Just a little snack that counts as a meal, so I never feel guilty."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Linner? That is the worst name I have ever heard, and I am absolutely stealing it."
-      },
-      {
-        "speaker": "Alex",
-        "text": "What about you? What is your fourth meal?"
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Mine would be at four P M sharp, and it would be soup and bread, every day, no exceptions. A little bowl of tomato soup, warm bread, and then a nap. That is the whole meal. Soup, bread, nap."
-      },
-      {
-        "speaker": "Alex",
-        "text": "So your dream meal is basically a bedtime routine with snacks. That is very on brand for you."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Hey, the best meals end with a nap. Listeners, what is your fourth meal? Tell a friend today, and see what they invent."
       },
       {
         "speaker": "Alex",
