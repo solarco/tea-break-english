@@ -10049,5 +10049,210 @@
         "text": "See you tomorrow."
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "title": "茶水间英文 - 11月26日 | 感恩节风暴、太空AI、橄榄球夜",
+    "word_count": 990,
+    "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-26.mp3",
+    "hook": "Parade postponed, one million AI satellites, and a Thanksgiving football feast",
+    "summary": "感恩节风暴迫使梅西大游行史上首次改期，SpaceX 获准向太空发射一百万颗 AI 数据中心卫星，公羊队则赢下了史上首场感恩节前夜比赛。",
+    "topics": [
+      {
+        "name": "感恩节风暴",
+        "start": 2,
+        "end": 9
+      },
+      {
+        "name": "太空AI",
+        "start": 10,
+        "end": 16
+      },
+      {
+        "name": "橄榄球夜",
+        "start": 17,
+        "end": 23
+      }
+    ],
+    "quickq": [
+      24,
+      31
+    ],
+    "vocab": [
+      [
+        "postponement",
+        "推迟；延期"
+      ],
+      [
+        "grounded",
+        "（气球、飞机）因天气停飞"
+      ],
+      [
+        "state of emergency",
+        "紧急状态"
+      ],
+      [
+        "king tide",
+        "大潮；特大潮汐"
+      ],
+      [
+        "orbital",
+        "轨道上的；在太空轨道运行的"
+      ],
+      [
+        "constellation",
+        "（卫星）星座；星群"
+      ],
+      [
+        "shut out",
+        "零封（让对手一分不得）"
+      ],
+      [
+        "tripleheader",
+        "（同一天）三场比赛"
+      ]
+    ],
+    "turns": [
+      {
+        "speaker": "Alex",
+        "text": "It is Thursday, November twenty sixth. Happy Thanksgiving, everyone. I am Alex."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And I am Jordan. Welcome back to the watercooler, where we catch up on the stuff everyone will be talking about today."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Yesterday we said we would check whether the storm ruins the big travel day, and whether those Macy's balloons ever got off the ground. Well, we have the answer, and it is a big one."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The answer is no, and then some. The Macy's Thanksgiving Day Parade has been postponed for the very first time ever because of weather."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not canceled, postponed. The one hundredth parade moves to Saturday morning at eight thirty, and that has never happened before. The parade was canceled during World War Two, and the balloons stayed on the ground once, back in nineteen seventy one. But it has never been pushed to another day."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The balloons were already blown up on Wednesday afternoon. Then the forecast got worse, and crews had to deflate them that same night and send them back to New Jersey. They will blow them up again on Friday, just in time for Saturday."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The storm is a monster. It is a nor'easter crawling up the East Coast, with sustained winds of thirty to forty miles an hour and gusts that could reach sixty five in some places. New York's governor declared a state of emergency for the city and three nearby counties."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "And eighty one point five million Americans are traveling this week. By eight o'clock this morning, three hundred sixty one flights were already canceled, and more than one hundred thousand people in Virginia lost power overnight."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The West Coast is getting hit too, with huge waves and king tides flooding streets around San Francisco Bay. So if you are traveling today, check your flight before you leave, and pack some patience along with the cranberry sauce."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. Did you hear the Macy's parade got postponed for the first time ever? The balloons were already blown up, and they had to deflate them."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Completely different vibe, but still huge. SpaceX just got permission to put one million satellites in space, and they are not for internet. They are for A I."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "One million. The F C C approved SpaceX's Starmind network on Wednesday. These are data centers in orbit, giant solar powered computers floating above Earth, crunching A I workloads and beaming the results back down."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Right now SpaceX has about eleven thousand Starlink satellites up there. This would be almost one hundred times bigger. The first one has to launch by twenty thirty three, and the full one million by twenty forty."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The idea is simple. Space is cold, and the sun never stops shining up there, so why build giant data centers on Earth when you can build them in orbit?"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Not everyone is cheering. Astronomers say one million bright satellites could ruin the night sky, and other companies worry about space junk. But the F C C said yes anyway, calling it a bold new frontier."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Elon Musk says the first ones could launch as soon as twenty twenty seven. So your next chatbot answer might literally come from space."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Steal this one. So apparently SpaceX got the green light to launch one million A I satellites. Your next chatbot reply might come from orbit."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, and did you see the game last night? The N F L tried something brand new, and it worked."
+      },
+      {
+        "speaker": "Alex",
+        "text": "The first ever Thanksgiving Eve game. The Los Angeles Rams beat the Green Bay Packers twenty six to thirteen on Netflix, in front of a huge streaming audience."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The Rams ran the ball forty seven times for two hundred forty one yards and kept Green Bay's offense on the sideline for most of the second half. The Packers did not score a single point after halftime."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Running back Blake Corum was the star, and it was his birthday too. And here is my favorite detail. The game M V P gets a turkey leg cooked by celebrity chef David Chang. That is the most Thanksgiving prize ever."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "The Rams have now won five in a row, and they are seven and four. And the football feast is not over. Today brings the classic tripleheader, with the Chicago Bears visiting Detroit at one P M, the Philadelphia Eagles visiting Dallas at four thirty P M, and tonight the Kansas City Chiefs facing the Buffalo Bills at eight twenty P M."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Patrick Mahomes against Josh Allen, under the lights, on Thanksgiving night. That is appointment television."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Steal this one. Are you watching the Thanksgiving games? The Rams already kicked things off with a win last night, and Mahomes plays Allen tonight."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Now for our random question. If you had to raise a glass and give a toast at a huge family dinner, but you only get one sentence, what would you say?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Oh, I love this one. I would say, here is to the cooks, the cleaners, and everyone who pretended the turkey was not dry."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is so you. I would go with, may our Wi-Fi stay strong and our family group chat stay quiet."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Nice. Short, honest, and nobody can argue with it."
+      },
+      {
+        "speaker": "Alex",
+        "text": "But wait, what if the whole family is staring at you? No pressure at all, right?"
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Exactly. That is why you keep it to one sentence and sit down fast. The shorter the toast, the fewer people can quote it back to you later."
+      },
+      {
+        "speaker": "Alex",
+        "text": "Fair point. My backup toast is, to good food, good company, and no politics at the table."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "Now that is a toast I would actually drink to."
+      },
+      {
+        "speaker": "Alex",
+        "text": "That is our show for today. A postponed parade, one million satellites, and a full day of football."
+      },
+      {
+        "speaker": "Jordan",
+        "text": "We will be back tomorrow, and we will tell you how Mahomes versus Allen turned out. Happy Thanksgiving, everyone. Enjoy the food, enjoy the games, and we will see you tomorrow."
+      },
+      {
+        "speaker": "Alex",
+        "text": "See you tomorrow."
+      }
+    ]
   }
 ]
