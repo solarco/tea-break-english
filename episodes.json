@@ -10053,7 +10053,7 @@
   {
     "date": "2026-11-26",
     "title": "茶水间英文 - 11月26日 | 感恩节风暴、太空AI、橄榄球夜",
-    "word_count": 990,
+    "word_count": 834,
     "audio": "https://raw.githubusercontent.com/solarco/xiaoyuzhou-daily-manifest/main/mp3/2026-11-26.mp3",
     "hook": "Parade postponed, one million AI satellites, and a Thanksgiving football feast",
     "summary": "感恩节风暴迫使梅西大游行史上首次改期，SpaceX 获准向太空发射一百万颗 AI 数据中心卫星，公羊队则赢下了史上首场感恩节前夜比赛。",
@@ -10074,18 +10074,14 @@
         "end": 23
       }
     ],
-    "quickq": [
-      24,
-      31
-    ],
     "vocab": [
       [
-        "postponement",
-        "推迟；延期"
+        "deflate",
+        "放气；泄气"
       ],
       [
-        "grounded",
-        "（气球、飞机）因天气停飞"
+        "blow up",
+        "充气；吹起来"
       ],
       [
         "state of emergency",
@@ -10096,16 +10092,16 @@
         "大潮；特大潮汐"
       ],
       [
-        "orbital",
-        "轨道上的；在太空轨道运行的"
+        "orbit",
+        "轨道"
       ],
       [
-        "constellation",
-        "（卫星）星座；星群"
+        "solar-powered",
+        "太阳能驱动的"
       ],
       [
-        "shut out",
-        "零封（让对手一分不得）"
+        "turkey leg",
+        "火鸡腿"
       ],
       [
         "tripleheader",
@@ -10135,7 +10131,7 @@
       },
       {
         "speaker": "Jordan",
-        "text": "The balloons were already blown up on Wednesday afternoon. Then the forecast got worse, and crews had to deflate them that same night and send them back to New Jersey. They will blow them up again on Friday, just in time for Saturday."
+        "text": "The balloons were already blown up on Wednesday afternoon. Then the forecast got worse, and crews had to deflate them that same night and send them back to New Jersey. They will blow them up again just in time for Saturday."
       },
       {
         "speaker": "Alex",
@@ -10155,7 +10151,7 @@
       },
       {
         "speaker": "Alex",
-        "text": "Completely different vibe, but still huge. SpaceX just got permission to put one million satellites in space, and they are not for internet. They are for A I."
+        "text": "On a totally different note, but still huge. SpaceX just got permission to put one million satellites in space, and they are not for internet. They are for A I."
       },
       {
         "speaker": "Jordan",
@@ -10175,7 +10171,7 @@
       },
       {
         "speaker": "Jordan",
-        "text": "Elon Musk says the first ones could launch as soon as twenty twenty seven. So your next chatbot answer might literally come from space."
+        "text": "SpaceX says the first ones could launch as soon as twenty twenty seven. So your next chatbot answer might literally come from space."
       },
       {
         "speaker": "Alex",
@@ -10208,38 +10204,6 @@
       {
         "speaker": "Jordan",
         "text": "Steal this one. Are you watching the Thanksgiving games? The Rams already kicked things off with a win last night, and Mahomes plays Allen tonight."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Now for our random question. If you had to raise a glass and give a toast at a huge family dinner, but you only get one sentence, what would you say?"
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Oh, I love this one. I would say, here is to the cooks, the cleaners, and everyone who pretended the turkey was not dry."
-      },
-      {
-        "speaker": "Alex",
-        "text": "That is so you. I would go with, may our Wi-Fi stay strong and our family group chat stay quiet."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Nice. Short, honest, and nobody can argue with it."
-      },
-      {
-        "speaker": "Alex",
-        "text": "But wait, what if the whole family is staring at you? No pressure at all, right?"
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Exactly. That is why you keep it to one sentence and sit down fast. The shorter the toast, the fewer people can quote it back to you later."
-      },
-      {
-        "speaker": "Alex",
-        "text": "Fair point. My backup toast is, to good food, good company, and no politics at the table."
-      },
-      {
-        "speaker": "Jordan",
-        "text": "Now that is a toast I would actually drink to."
       },
       {
         "speaker": "Alex",
