@@ -5804,6 +5804,18 @@
         "speaker": "Lina",
         "text": "See you next time! Go gobble like a turkey!"
       }
+    ],
+    "photos": [
+      {
+        "story": "感恩节火鸡 (Freedom and Feathers)",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/11/freedom-feathers.jpeg",
+        "credit": "The White House (public domain) — a White House graphic with real photos of the two 2026 turkeys: Feathers (40 lbs, loves golden delicious apples) and Freedom (42 lbs, loves Dr Pepper)"
+      },
+      {
+        "story": "蜂鸟破纪录 (rufous hummingbird)",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Rufous_hummingbird_at_Seedskadee_National_Wildlife_Refuge_%2851351099349%29.jpg/1280px-Rufous_hummingbird_at_Seedskadee_National_Wildlife_Refuge_%2851351099349%29.jpg",
+        "credit": "Tom Koerner / U.S. Fish and Wildlife Service, public domain, via Wikimedia Commons — a male rufous hummingbird at Seedskadee National Wildlife Refuge, Wyoming (same species as the record-breaking migrant, not the individual bird from the study)"
+      }
     ]
   }
 ]
