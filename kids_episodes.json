@@ -6004,6 +6004,23 @@
         "speaker": "Lina",
         "text": "See you next time! Keep looking up at the sky!"
       }
+    ],
+    "photos": [
+      {
+        "story": "婴儿行星 (Baby planet Elias 2-24 b)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/KeckTelescopes-hi.png",
+        "credit": "Wikimedia Commons — the twin domes of the W. M. Keck Observatory in Hawaii, one of the telescopes that helped confirm the baby planet (related photo; no real photo of the planet Elias 2-24 b itself exists, it is 450 light-years away and was found through telescope data)"
+      },
+      {
+        "story": "长颈鹿宝宝 (Baby giraffe at Cincinnati Zoo)",
+        "url": "https://cincinnatizoo.org/wp-content/uploads/2026/11/IMG_7617.webp",
+        "credit": "Cincinnati Zoo & Botanical Garden — close-up of the newborn giraffe calf born Nov 16, 2026 to mom Tessa, in the indoor habitat at Giraffe Ridge; mom Tessa's head is visible at the top right"
+      },
+      {
+        "story": "环球飞行 (Airbus A350-1000ULR record flight)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Airbus_Industrie_F-WULR_Airbus_A350-1041_Melbourne_International_Airport_%28MEL_YMML%29_%2855483824952%29.jpg",
+        "credit": "Mitchul Hope, CC BY-SA 4.0, via Wikimedia Commons — the actual record plane F-WULR (Airbus A350-1000ULR, Qantas Project Sunrise test aircraft) at Melbourne Airport in September 2026, before the record-breaking Melbourne to Toulouse flight"
+      }
     ]
   }
 ]
